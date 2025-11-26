@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: oklch(1 0 0);
+  --color-foreground: oklch(0.098 0.016 285.938);
+  --color-card: oklch(1 0 0);
+  --color-card-foreground: oklch(0.098 0.016 285.938);
+  --color-popover: oklch(1 0 0);
+  --color-popover-foreground: oklch(0.098 0.016 285.938);
+  --color-primary: oklch(0.142 0.013 285.938);
+  --color-primary-foreground: oklch(0.985 0.002 285.938);
+  --color-secondary: oklch(0.961 0.002 285.938);
+  --color-secondary-foreground: oklch(0.142 0.013 285.938);
+  --color-muted: oklch(0.961 0.002 285.938);
+  --color-muted-foreground: oklch(0.534 0.015 285.938);
+  --color-accent: oklch(0.961 0.002 285.938);
+  --color-accent-foreground: oklch(0.142 0.013 285.938);
+  --color-destructive: oklch(0.577 0.245 27.325);
+  --color-destructive-foreground: oklch(0.985 0.002 285.938);
+  --color-border: oklch(0.921 0.009 285.938);
+  --color-input: oklch(0.921 0.009 285.938);
+  --color-ring: oklch(0.098 0.016 285.938);
+  
+  --radius-lg: 0.5rem;
+  --radius-md: calc(0.5rem - 2px);
+  --radius-sm: calc(0.5rem - 4px);
+}
+
+.dark {
+  --color-background: oklch(0.098 0.016 285.938);
+  --color-foreground: oklch(0.985 0.002 285.938);
+  --color-card: oklch(0.098 0.016 285.938);
+  --color-card-foreground: oklch(0.985 0.002 285.938);
+  --color-popover: oklch(0.098 0.016 285.938);
+  --color-popover-foreground: oklch(0.985 0.002 285.938);
+  --color-primary: oklch(0.985 0.002 285.938);
+  --color-primary-foreground: oklch(0.142 0.013 285.938);
+  --color-secondary: oklch(0.207 0.013 285.938);
+  --color-secondary-foreground: oklch(0.985 0.002 285.938);
+  --color-muted: oklch(0.207 0.013 285.938);
+  --color-muted-foreground: oklch(0.683 0.008 285.938);
+  --color-accent: oklch(0.207 0.013 285.938);
+  --color-accent-foreground: oklch(0.985 0.002 285.938);
+  --color-destructive: oklch(0.395 0.141 27.325);
+  --color-destructive-foreground: oklch(0.985 0.002 285.938);
+  --color-border: oklch(0.207 0.013 285.938);
+  --color-input: oklch(0.207 0.013 285.938);
+  --color-ring: oklch(0.858 0.004 285.938);
+}

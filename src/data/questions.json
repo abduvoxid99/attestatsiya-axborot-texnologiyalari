@@ -1,0 +1,3624 @@
+{
+    "Strategiya_barchaga": [{
+            "№": 1,
+            "Savol": "Bankimiz Strategiyasiga ko'ra strategik maqsadlarimiz nimalardan iborat?",
+            "Javob": [
+                "1. Kichik biznesga kompleks xizmatlar ko'rsatish bo'yicha tanlovda birinchi bank bo'lish\n2. Biznes rentabelligini va aksiyadorlik kapitalni oshirish\n3. Innovasion IT-echimlar va yuqori operasion samaradorlikni ta'minlash\n4. Kuchli korporativ madaniyat va aniq natijaga intiluvchi jamoa shakllantirish",
+                "1. Kichik biznesga kompleks xizmatlar ko'rsatish bo'yicha tanlovda birinchi bank bo'lish\n2. Biznes rentabelligini va aksiyadorlik kapitalni oshirish\n3. Innovasion IT-echimlar va yuqori operasion samaradorlikni ta'minlash",
+                "1. Kichik biznesga kompleks xizmatlar ko'rsatish bo'yicha tanlovda birinchi bank bo'lish\n2. Kuchli korporativ madaniyat va aniq natijaga intiluvchi jamoa shakllantirish",
+                "1. Kichik biznesga kompleks xizmatlar ko'rsatish bo'yicha tanlovda birinchi bank bo'lish\n2. Mijozlarni uzluksiz qo'llab-quvvatlovchi tayanch bank bo'lish\n3. Innovasion IT-echimlar va yuqori operasion samaradorlikni ta'minlash\n4. Kuchli korporativ madaniyat va aniq natijaga intiluvchi jamoa shakllantirish"
+            ]
+        },
+        {
+            "№": 2,
+            "Savol": "Bankimiz Strategiyasiga ko'ra mahsulotlarimiz qanday 3 ta xususiyatga ega bo'lishi kerak?",
+            "Javob": [
+                "Sodda\nOmmabop\nTezkor",
+                "Foydali\nOmmabop\nTezkor",
+                "Sodda\nManfaatli\nTezkor",
+                "Sodda\nOmmabop\nArzon"
+            ]
+        },
+        {
+            "№": 3,
+            "Savol": "Strategiyaga oid 3 ta asosiy savol?",
+            "Javob": [
+                "1. Nega?\n2. Qaerda?\n3. Qanday?",
+                "1. Qachon?\n2. Qaerda?\n3. Qanday?",
+                "1. Qachon?\n2. Kim?\n3. Qanday?",
+                "1. Qachon?\n2. Qaerda?\n3. Qancha?"
+            ]
+        },
+        {
+            "№": 4,
+            "Savol": "Strategiya ishlab chiqishda qanday omillar inobatga olinishi kerak?",
+            "Javob": [
+                "Ichki va tashqi omillar",
+                "Mavjud moliyaviy resurslar, inson resurslar, tajriba va imkoniyatlar",
+                "Tashqi omillar - makroiqtisodiy holat, texnologik innovasiyalar, bozordagi trendlar",
+                "Markaziy bank talablari"
+            ]
+        },
+        {
+            "№": 5,
+            "Savol": "SWOT-analiz nima degani?",
+            "Javob": [
+                "Bankning kuchli va zaif tomonlarining hamda mavjud imkoniyatlar va tahdidlarning tahlili",
+                "Bankning asosiy ko'rsatkichlari tahlili",
+                "Bankning kuchli va zaif tomonlarining tahlili",
+                "Bankning asosiy ko'rsatkichlari prognozi"
+            ]
+        },
+        {
+            "№": 6,
+            "Savol": "Strategiya ishlab chiqishda Bankimizning qanday kuchli tomonlari inobatga olingan?",
+            "Javob": [
+                "Keng mijozlar bazasi, keng filiallar tarmog'i, aholining davlat banklariga ishonchi, davlat banki sifatida mijozlarga taqdim etiladigan keng imtiyozlar",
+                "Keng filiallar tarmog'i, aholining davlat banklariga ishonchi, yuqori moliyaviy ko'rsatkichlar",
+                "Keng mijozlar bazasi, davlat banki sifatida mijozlarga taqdim etiladigan keng imtiyozlar",
+                "Aholining davlat banklariga ishonchi, kichik biznesga taqdim etiladigan keng imtiyozlar"
+            ]
+        },
+        {
+            "№": 7,
+            "Savol": "\"Raqamli transformasiya\" nimani anglatadi?",
+            "Javob": [
+                "Mahsulotlarni raqamlashtirish, kanallarni raqamlashtirish, mijozlarni raqamlashtirish, bek-ofis va biznes-jarayonlarni raqamlashtirish",
+                "Mahsulotlarni raqamlashtirish, kanallarni raqamlashtirish, mijozlarni raqamlashtirish, filiallarni raqamlashtirish",
+                "Mahsulotlarni raqamlashtirish, kanallarni raqamlashtirish, asosiy vositalarni raqamlashtirish, bek-ofis va biznes-jarayonlarni raqamlashtirish",
+                "Kreditlarni raqamlashtirish, kanallarni raqamlashtirish, mijozlarni raqamlashtirish, bek-ofis va biznes-jarayonlarni raqamlashtirish"
+            ]
+        },
+        {
+            "№": 8,
+            "Savol": "Raqamli transformasiya nima beradi?",
+            "Javob": [
+                "Samaradorlik oshadi, xarajatlar kamayadi, xizmat ko'rsatish sifati va sotuv hajmlari oshadi",
+                "Kreditlar soni oshadi, xarajatlar kamayadi, xizmat ko'rsatish sifati va sotuv hajmlari oshadi",
+                "Samaradorlik oshadi, xodimlar soni kamayadi, xizmat ko'rsatish sifati va sotuv hajmlari oshadi",
+                "Samaradorlik oshadi, xarajatlar kamayadi,filiallar soni ko'payadi"
+            ]
+        },
+        {
+            "№": 9,
+            "Savol": "Bankimiz Strategiyasiga ko'ra 2026 yilga qadar qanday kreditlar ulushini qisqartirish nazarda tutilgan?",
+            "Javob": [
+                "Davlat dasturiga oid kreditlar ulushini",
+                "Ipoteka kreditlari ulushini",
+                "Qurilishga ajratiladigan kreditlar ulushini",
+                "Chakana biznesga oid kreditlar ulushini"
+            ]
+        },
+        {
+            "№": 10,
+            "Savol": "Bankimizning amaldagi Strategiyasi qaysi yillarga mo'ljallangan?",
+            "Javob": [
+                "2024-2026 yillarga",
+                "2025-2030 yillarga",
+                "2025-2050 yillarga",
+                "2025-2035 yillarga"
+            ]
+        },
+        {
+            "№": 11,
+            "Savol": "Bankda yaratilayotgan Business HUB doirasidagi xizmatlar ekotizimida nimalar nazarda tutilgan?",
+            "Javob": [
+                "Konsalting, buxgalteriya hisobi, soliq va huquqiy masalalar bo'yicha maslahatlar, biznesni on-layn ro'yxatdan o'tkazish, biznes-maktabi, paketli takliflar, mijozlarni media vositasida qo'llab-quvvatlash, ish yuritishda foydalaniladigan hujjatlar konstruktorlari va shablonlari.",
+                "Aktivlarni boshqarish samaradorligini va kredit portfeli sifatini oshirish, davlat qimmatli qog'ozlariga investisiya qilish, risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, moliyaviy barqarorlikni ta'minlash orqali yuqori kredit reytinglarini olish, ESG tamoyillarini joriy qilish",
+                "Moliyaviy ko'rsatkichlar (ROI, NPV), belgilangan muddatlar va byudjetga muvofiqligi, natijalar sifati, mijozlar va jamoaning qoniqishi, shuningdek, strategik maqsadlarga erishish va biznes asoslanishi",
+                "- tranzaksiyalarni va mijozlar so'rovini zudlik bilan yoki real vaqt rejimida qayta ishlash;\n- optimallashgan va avtomatlashtirilgan biznes-jarayonlar;\n- samarali risk-menejment;\n- mukammal moliyaviy texnologiyalar va IT-infrastruktura (ML-scoring, soft-collection, CRM va h. k.);\n- ma'lumotlar ombori va ularni tahlil qiluvchi mukammal vositalar."
+            ]
+        },
+        {
+            "№": 12,
+            "Savol": "Bitta mijozga to'g'ri keladigan mahsulotlar sonini oshirishga nimalar ta'sir qiladi?",
+            "Javob": [
+                "Mahsulotlar jozibadorligi, tahliliy CRM, kross-sotuvlar, mijozga individual yondashuv va h.k.",
+                "Mahsulotlarni, mijozlarni (raqamli onbording), aloqa va sotuv kanallarini, ma'lumotlarni (hisobotlarni), bek-ofisni va h.k.",
+                "Хizmatlar tezligi oshadi, mijozlar ishonchi, sodiqligi va tajribasi ortadi, turli kanallar orqali xizmat ko'rsatish uzluksizligi ta'minlanadi, CSI (Customer Satisfaction Index) va CLV (customer lifetime value) kabi ko'rsatkichlar ortadi, sotuv hajmlari oshadi.",
+                "Tushumi (aylanmasi), xodimlar soni, kreditlanganligining o'rtacha darajasi, moliya bozoridagi xulq-atvori (iste'mol qilish xususiyatlari) va b."
+            ]
+        },
+        {
+            "№": 13,
+            "Savol": "Mijozlarni segmentlarga (subsegmentlarga) ajratishdan maqsad nima?",
+            "Javob": [
+                "Har bir segmentdagi mijozlar uchun mahsus bank mahsulotlarini taklif qilish, ular bilan muloqot qilishning alohida modellarini ishlab chiqish va qo'llash.",
+                "Mijozlarga kredit ajratishda anderrayting tizimini qo'llash, skoring tizimini takomillashtirish",
+                "Хizmatlar tezligini oshirish, mijozlar ishonchi, sodiqligi va tajribasi orttirish, turli kanallar orqali xizmat ko'rsatish uzluksizligi ta'minlanash, CSI (Customer Satisfaction Index) va CLV (customer lifetime value) kabi ko'rsatkichlarni oshirish",
+                "Aktivlarni boshqarish samaradorligini va kredit portfeli sifatini oshirish, davlat qimmatli qog'ozlariga investisiya qilish, risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, moliyaviy barqarorlikni ta'minlash orqali yuqori kredit reytinglarini olish, ESG tamoyillarini joriy qilish"
+            ]
+        },
+        {
+            "№": 14,
+            "Savol": "Mijozlarni segmentlash qanday ko'rsatkichlar asosida amalga oshirilishi mumkin?",
+            "Javob": [
+                "Tushumi (aylanmasi), xodimlar soni, kreditlanganligining o'rtacha darajasi, moliya bozoridagi xulq-atvori (iste'mol qilish xususiyatlari) va b.",
+                "Soliq hamda bojxona organlariga to'lanadigan to'lovlar, shu jumladan bojlar hajmining oxirgi 12 oydagi holatining tahlili va b.",
+                "Top-menejerlarning oxirgi 12 oydagi o'rtacha daromadi va dividendlari (soliq to'lovlarini hisobga olmaganda)",
+                "To'g'ri javob yo'q"
+            ]
+        },
+        {
+            "№": 15,
+            "Savol": "Faol bo'lmagan mijozlarni qanday faollashtirsa bo'ladi?",
+            "Javob": [
+                "Maxsus takliflar taqdim etish, aksiyalar tashkil etish, PUSH-xabarlar yuborish, qo'ng'iroq orqali fid-bek olish va ehtiyojlariga mos mahsulotlar taklif etish",
+                "Maxsus imtiyozli past stavkada kreditlar taklif etish",
+                "Maxsus takliflar taqdim etish, aksiyalar tashkil etish, garovsiz kreditlar, qo'ng'iroq orqali fid-bek olish va ehtiyojlariga mos mahsulotlar taklif etish",
+                "Maxsus takliflar taqdim etish, aksiyalar tashkil etish, PUSH-xabarlar yuborish, olgan kreditlarini hisobdan chiqarish va ehtiyojlariga mos mahsulotlar taklif etish"
+            ]
+        },
+        {
+            "№": 16,
+            "Savol": "Bugungi kunda BRB raqamli xizmatlar ekotizimiga nimalar kiradi?",
+            "Javob": [
+                "BRB mobil ilovasi, Mening biznesim, Mening buyurtmam, Mening tomorqam, Biznes 24/7 platformasi, veb-sayt",
+                "BХO, BХM, Bosh ofis, Raqamli biznes departamenti",
+                "Bank mahsulotlari va xizmatlari,  tariflari, hisobraqamlari va limitlari, on-layn to'lovlar, nomoliyaviy xizmatlar, moliyaviy hisobotlar",
+                "Raqamli mahsulotlar, raqamli kanallar, IT-departament, DWH, BI-navigator"
+            ]
+        },
+        {
+            "№": 17,
+            "Savol": "Bank Strategiyasiga ko'ra Aloqa-markazini transformasiya qilish orqali uning funksiyalarini qanday kengaytirish nazarda tutilgan?",
+            "Javob": [
+                "Sotuv kanaliga aylantirish nazarda tutilgan",
+                "Qaynoq qo'ng'iroqlar markaziga aylantirish nazarda tutilgan",
+                "Maslahat markaziga aylantirish nazarda tutilgan",
+                "Hub&Spoke markaziga aylantirish nazarda tutilgan"
+            ]
+        },
+        {
+            "№": 18,
+            "Savol": "Bozorda BRBda kimlar bilan raqobat qiladi?",
+            "Javob": [
+                "Barcha javoblar to'g'ri",
+                "Boshqa tijorat banklari",
+                "Mikromoliya tashkilotlari",
+                "Fintex kompaniyalar"
+            ]
+        },
+        {
+            "№": 19,
+            "Savol": "Bank Strategiyasiga ko'ra chakana biznes mijozlarining sonini oshirishda qaysi kanal muhim hisoblanadi?",
+            "Javob": [
+                "Raqamli kanallar, Mobil ilovalar",
+                "BХO, BХM, Bosh ofis",
+                "Chakana biznes departamenti, Aloqa markazi, Bank tarmoqlarini rivojlantirish va mahsulotlarini sotish departamenti",
+                "Face-ID, BNPL, Visa So'm, kredit konveyeri"
+            ]
+        },
+        {
+            "№": 20,
+            "Savol": "Chakana biznes yo'nalishida mijozlarni jalb qilishning eng samarali yo'li qaysi hisoblanadi?",
+            "Javob": [
+                "Qarindosh va yaqinlar, tanish va do'stlarning tavsiyasi",
+                "Mutaxassislar maslahati",
+                "Televidenie va radio",
+                "Tashqi reklama"
+            ]
+        },
+        {
+            "№": 21,
+            "Savol": "Kichik biznesga kompleks xizmatlar ko'rsatish bo'yicha tanlovda birinchi bank bo'lish uchun nimalar qilish kerak?",
+            "Javob": [
+                "Mijozga yo'naltirilgan yondashuvni kuchaytirish, xizmat ko'rsatishning samarali servis-modelini yaratish, bank va nobank mahsulotlar (xizmatlar)ning keng ko'lamli eko-tizimini shakllantirish, paketli takliflar va mijozlarning sodiqligini ta'minlash dasturlarini yo'lga qo'yish, NFSni joriy qilish, ekspertiza markazlarini tashkil qilish",
+                "Mijozga yo'naltirilgan yondashuvni kuchaytirish, xizmat ko'rsatishning samarali servis-modelini yaratish, bank va nobank mahsulotlar (xizmatlar)ning keng ko'lamli eko-tizimini shakllantirish, yangi filiallar ochish hisobiga bank tarmog'ini kengaytirish, NFSni joriy qilish, ekspertiza markazlarini tashkil qilish",
+                "Mijozga yo'naltirilgan yondashuvni kuchaytirish, xizmat ko'rsatishning samarali servis-modelini yaratish, bank va nobank mahsulotlar (xizmatlar)ning keng ko'lamli eko-tizimini shakllantirish, paketli takliflar va mijozlarning sodiqligini ta'minlash dasturlarini yo'lga qo'yish, avtokredit va mikroqarzlar hajmini oshirish, ekspertiza markazlarini tashkil qilish",
+                "Mijozga yo'naltirilgan yondashuvni kuchaytirish, xizmat ko'rsatishning samarali servis-modelini yaratish, bank va nobank mahsulotlar (xizmatlar)ning keng ko'lamli eko-tizimini shakllantirish, paketli takliflar va mijozlarning sodiqligini ta'minlash dasturlarini yo'lga qo'yish, Process Mining'ni joriy etish"
+            ]
+        },
+        {
+            "№": 22,
+            "Savol": "Kuchli korporativ madaniyatni va aniq natijaga intiluvchi jamoani shakllantirish qanday amalga oshiriladi?",
+            "Javob": [
+                "\"O'zgarishlar agentlari\" dasturini amalga oshirish, \"Agile\" jamoalarni yaratish va ularning ko'lamini kengaytirish, bankda ichki kommunikasiyani kuchaytirish, xodimlarni o'qitish orqali ularning malaka darajasini oshirish, samarali motivasion model yaratish, greyding va KPI tizimini joriy etish",
+                "Aktivlarni boshqarish samaradorligini va kredit portfeli sifatini oshirish, davlat qimmatli qog'ozlariga investisiya qilish, risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, moliyaviy barqarorlikni ta'minlash orqali yuqori kredit reytinglarini olish, NFSni joriy qilish",
+                "Biznes-jarayonlarni raqamlashtirish, jarayonlarni boshqarish va xarajatlar nazoratini optimallashtirish, masofaviy xizmatlar soni va hajmini oshirish, NFSni joriy qilish, tashkiliy-funksional model samaradorligini oshirish",
+                "Risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, moliyaviy barqarorlikni ta'minlash orqali yuqori kredit reytinglarini olish, ESG tamoyillarini joriy qilish, \"O'zgarishlar agentlari\" dasturini amalga oshirish, \"Agile\" jamoalarni yaratish va ularning ko'lamini kengaytirish"
+            ]
+        },
+        {
+            "№": 23,
+            "Savol": "BRBni kichik biznesga kompleks xizmat ko'rsatuvchi \"innovasion bank\"ka aylantirish (transformasiya qilish) nimalarni talab qiladi?",
+            "Javob": [
+                "- texnologik investisiyalarni;\n- korporativ madaniyatdagi tub o'zgarishlarni;\n- strategik tafakkurni;\n- intensiv rivojlanishni;\n- T2Mni (Time to market) qisqartirishni;\n- bozorda informasion yetakchilikni va ma'lumotlar omborini takomillashtirishni.",
+                "Filiallarning asosiy moliyaviy ko'rsatkichlarini monitoring qilish;\nBosh ofis topshiriqlarini o'z muddatida ijrosini nazorat qilish;\nzarur hollarda biznes-rejalariga tuzatishlar kiritish",
+                "xorijiy investisiyalarni jalb qilish;\n- davlat dasturlarini amalga oshirish;\n- ijro nazoratini kuchaytirish;\n- intensiv rivojlanishni;\n- T2Mni (Time to market) qisqartirishni;\n- bozorda informasion yetakchilikni va ma'lumotlar omborini takomillashtirishni.",
+                "Risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, moliyaviy barqarorlikni ta'minlash orqali yuqori kredit reytinglarini olish, ESG tamoyillarini joriy qilish, \"O'zgarishlar agentlari\" dasturini amalga oshirish, \"Agile\" jamoalarni yaratish va ularning ko'lamini kengaytirish"
+            ]
+        },
+        {
+            "№": 24,
+            "Savol": "Bank xizmatlarining tezkorligini ta'minlash vazifasi nimalarni nazarda tutadi?",
+            "Javob": [
+                "- tranzaksiyalarni va mijozlar so'rovini zudlik bilan yoki real vaqt rejimida qayta ishlash;\n- optimallashgan va avtomatlashtirilgan biznes-jarayonlar;\n- samarali risk-menejment;\n- mukammal moliyaviy texnologiyalar va IT-infrastruktura (ML-scoring, soft-collection, CRM va h. k.);\n- ma'lumotlar ombori va ularni tahlil qiluvchi mukammal vositalar.",
+                "Konsalting, buxgalteriya hisobi, soliq va huquqiy masalalar bo'yicha maslahatlar, biznesni on-layn ro'yxatdan o'tkazish, biznes-maktabi, paketli takliflar, mijozlarni media vositasida qo'llab-quvvatlash, ish yuritishda foydalaniladigan hujjatlar konstruktorlari va shablonlari.",
+                " anderrayting funksiyasini takomillashtirish (aniq mezonlar, analitik modellar);\n- doimiy monitoring va risklarni baholash, mijozning to'lovga qobiliyati yomonlashayotganligini olindan aniqlash tizimini joriy qilish;\n- kredit portfeli barqarorligini baholash maqsadida muntazam stress-testlar o'tkazib borish;\n- nizolarni sudgacha hal qilish bilan shug'ullanuvchi xodimlarning ixtisoslashuvi darajasini oshirish.",
+                "hisob-kitob-kassa amaliyotlaridan olinadigan komission daromadlar, 1 ta operasiyadan olinadigan sof daromadni oshirish, to'lovlar, o'tkazmalar va konversiya operasiyalarining o'rtacha hajmini oshirish, \"SPOT\" bitimlaridan olinadigan daromadlar, bank kartalaridan olinadigan daromadlarning keng turlari."
+            ]
+        },
+        {
+            "№": 25,
+            "Savol": "Mijozga yo'naltirilgan biznes-model nimalarni nazarda tutadi?",
+            "Javob": [
+                "Bu modelning asosiy elementi - bu mijoz va uning ehtiyojlaridir. Shuning uchun bank biznes jarayonlarni ushbu ehtiyojlarni tushunishga va qondirishga qaratib ishlab chiqishi lozim: innovasion, ya'ni bozorda yangi bo'lgan mahsulotlar va xizmatlar yaratish, mijozlarning o'zgaruvchan ehtiyojlariga zudlik bilan javob berish va xizmatlarni doimiy moslashtirib borish",
+                "Aktivlarni boshqarish samaradorligini va kredit portfeli sifatini oshirish, davlat qimmatli qog'ozlariga investisiya qilish, risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, moliyaviy barqarorlikni ta'minlash orqali yuqori kredit reytinglarini olish, ESG tamoyillarini joriy qilish",
+                "Konsalting, buxgalteriya hisobi, soliq va huquqiy masalalar bo'yicha maslahatlar, biznesni on-layn ro'yxatdan o'tkazish, biznes-maktabi, paketli takliflar, mijozlarni media vositasida qo'llab-quvvatlash, ish yuritishda foydalaniladigan hujjatlar konstruktorlari va shablonlari.",
+                "Mijoz bank bilan aloqa qilish davomida qanday qadamlarni o'tashini va buni mijoz qanday qabul qilishini bank his qilishi, tushunishi va tahlil qilishi lozim. Uning har bir bosqichdagi tashvishlarini o'rganib, ularni engillashtirish maqsadida o'zining jarayonlarini optimallashtiradi. Buning uchun har bir bosqich, har bir aloqa qanday ko'rinishda ekanligi batafsil tasvirlanishi kerak bo'ladi."
+            ]
+        },
+        {
+            "№": 26,
+            "Savol": "\"Mijoz yo'li\"ni yaxshilashga yondashuv qanday bo'lishi kerak?",
+            "Javob": [
+                "Mijoz bank bilan aloqa qilish davomida qanday qadamlarni o'tashini va buni mijoz qanday qabul qilishini bank his qilishi, tushunishi va tahlil qilishi lozim. Uning har bir bosqichdagi tashvishlarini o'rganib, ularni yengillashtirish maqsadida o'zining jarayonlarini optimallashtiradi. Buning uchun har bir bosqich, har bir aloqa qanday ko'rinishda yekanligi batafsil tasvirlanishi kerak bo'ladi.",
+                "Mijozlarimizning asosiy segmentlari va subsegmentlarini, ularga taqdim etiladigan asosiy moliyaviy va nobank mahsulotlarni hamda mijozlar bilan aloqa kanallari, sotuv va xizmat ko'rsatish kanallarini aniqlab olish, ehtiyojlarni o'rganish, yangi innovasion mahsulotlar ishlab chiqish tizimini takomillashtirish, sotuv jarayonlarini optimallashtirish.",
+                "Mijozga yo'naltirilgan yondashuvni kuchaytirish, xizmat ko'rsatishning samarali servis-modelini yaratish, bank va nobank mahsulotlar (xizmatlar)ning keng ko'lamli eko-tizimini shakllantirish, paketli takliflar va mijozlarning sodiqligini ta'minlash dasturlarini yo'lga qo'yish, Process Mining'ni joriy etish",
+                "Konsalting, buxgalteriya hisobi, soliq va huquqiy masalalar bo'yicha maslahatlar, biznesni on-layn ro'yxatdan o'tkazish, biznes-maktabi, paketli takliflar, mijozlarni media vositasida qo'llab-quvvatlash, ish yuritishda foydalaniladigan hujjatlar konstruktorlari va shablonlari."
+            ]
+        },
+        {
+            "№": 27,
+            "Savol": "Bank biznes-modelining 3 ta asosiy elementi: mijoz, mahsulot, kanallar. Shundan kelib chiqib, biznes-modelimizni qanday tavsiflab bera olasiz?",
+            "Javob": [
+                "Mijozlarimizning asosiy segmentlari va subsegmentlarini, ularga taqdim etiladigan asosiy moliyaviy va nobank mahsulotlarni hamda mijozlar bilan aloqa kanallari, sotuv va xizmat ko'rsatish kanallarini aniqlab olish, ehtiyojlarni o'rganish, yangi innovasion mahsulotlar ishlab chiqish tizimini takomillashtirish, sotuv jarayonlarini optimallashtirish.",
+                "Mijoz bank bilan aloqa qilish davomida qanday qadamlarni o'tashini va buni mijoz qanday qabul qilishini bank his qilishi, tushunishi va tahlil qilishi lozim. Uning har bir bosqichdagi tashvishlarini o'rganib, ularni yengillashtirish maqsadida o'zining jarayonlarini optimallashtiradi. Buning uchun har bir bosqich, har bir aloqa qanday ko'rinishda ekanligi batafsil tasvirlanishi kerak bo'ladi.",
+                "Aktivlarni boshqarish samaradorligini va kredit portfeli sifatini oshirish, davlat qimmatli qog'ozlariga investisiya qilish, risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, moliyaviy barqarorlikni ta'minlash orqali yuqori kredit reytinglarini olish, ESG tamoyillarini joriy qilish",
+                "Mijozga yo'naltirilgan yondashuvni kuchaytirish, xizmat ko'rsatishning samarali servis-modelini yaratish, bank va nobank mahsulotlar (xizmatlar)ning keng ko'lamli eko-tizimini shakllantirish, paketli takliflar va mijozlarning sodiqligini ta'minlash dasturlarini yo'lga qo'yish, Process Mining'ni joriy etish"
+            ]
+        },
+        {
+            "№": 28,
+            "Savol": "Faol mijozlar soni va ularga taqdim etilayotgan mahsulotlar sotuvini oshirishda chakana biznes hamda yuridik shaxslarga xizmat ko'rsatuvchi biznes-tuzilmalarning hamkorligi qanday bo'lishi kerak?",
+            "Javob": [
+                "Mijozlarni o'stirishda birgalikda mijozlar ehtiyojini o'rganish, mahsulotlar ishlab chiqish va mijozlar xulq-atvorini tahlil qilgan holda ularning faolligini oshirish bo'yicha birgalikdagi tadbirlarni amalga oshirish. Chakana mijozlarni mikrobiznes sohasiga o'tkazish, undan kichik biznes, keyin o'rta biznes va korporativ biznes sohasiga o'tkazish bo'yicha choralar ko'rish.",
+                "Mahsulotlarni, mijozlarni (raqamli onbording), aloqa va sotuv kanallarini, ma'lumotlarni (hisobotlarni), bek-ofisni raqamlashtirish.\nBank mahsulotlari va xizmatlarini xarid qilish, o'zining tariflarini belgilash va o'zgartirish, hisobraqamlarini va limitlarini boshqarish, on-layn to'lovlarni amalga oshirish, nomoliyaviy xizmatlarga ulanish, moliyaviy holatini tahlil qilish va hisobotlar shakllantirish.",
+                "Risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, moliyaviy barqarorlikni ta'minlash orqali yuqori kredit reytinglarini olish, ESG tamoyillarini joriy qilish, \"O'zgarishlar agentlari\" dasturini amalga oshirish, \"Agile\" jamoalarni yaratish va ularning ko'lamini kengaytirish",
+                "hisob-kitob-kassa amaliyotlaridan olinadigan komission daromadlar, 1 ta operasiyadan olinadigan sof daromadni oshirish, to'lovlar, o'tkazmalar va konversiya operasiyalarining o'rtacha hajmini oshirish, \"SPOT\" bitimlaridan olinadigan daromadlar, bank kartalaridan olinadigan daromadlarning turlarini kengaytirish."
+            ]
+        },
+        {
+            "№": 29,
+            "Savol": "Raqamlashtirish nima beradi?",
+            "Javob": [
+                "Хizmatlar tezligi oshadi, mijozlar ishonchi, sodiqligi va tajribasi ortadi, turli kanallar orqali xizmat ko'rsatish uzluksizligi ta'minlanadi, CSI (Customer Satisfaction Index) va CLV (customer lifetime value) kabi ko'rsatkichlar ortadi, sotuv hajmlari oshadi.",
+                "Har bir segmentdagi mijozlar uchun mahsus bank mahsulotlarini taklif qilish, ular bilan muloqot qilishning alohida modellari ishlab chiqiladi",
+                "Aktivlarni boshqarish samaradorligini va kredit portfeli sifatini oshirish, davlat qimmatli qog'ozlariga investisiya qilish, risk-madaniyatni takomillashtirish, resurs bazasini diversifikasiya qilish, moliyaviy barqarorlikni ta'minlash orqali yuqori kredit reytinglarini olish, ESG tamoyillarini joriy qilinadi",
+                "Bank mahsulotlari va xizmatlarini xarid qilish, o'zining tariflarini belgilash va o'zgartirish, hisobraqamlarini va limitlarini boshqarish, on-layn to'lovlarni amalga oshirish, nomoliyaviy xizmatlarga ulanish, moliyaviy holatini tahlil qilish va hisobotlar shakllantirladi"
+            ]
+        }
+    ],
+    "Komplaens_barchaga": [{
+            "№": 1,
+            "Savol": "\"Antifrod tizimi\" ga to'g'ri ta'rif berilgan javobni toping.",
+            "Javob": [
+                "bank kartalari va hisobvaraqlari, mobil ilovalar akkаuntlari hamda elektron hamyonlar yordamida to'lovlarni amalga oshirishda sodir etiladigan firibgarlikni oldini olishga qaratilgan jarayonlar yig'indisi",
+                "axborot texnologiyalarini qo'llagan holda sodir etiladigan firibgarlik harakatlari",
+                "foydalanuvchi, dastur, qurilma yoki ma'lumotlarning haqiqiyligini tasdiqlash tartib-taomili",
+                "elektron xizmatlardan foydalanish uchun to'lov xizmatlaridan foydalanuvchi va ushbu xizmatlarni yetkazib beruvchi o'rtasidagi aloqani ta'minlaydigan telekommunikatsiya vositalari, raqamli va axborot texnologiyalari, dasturiy ta'minot va uskunalar majmui"
+            ]
+        },
+        {
+            "№": 2,
+            "Savol": "Firibgarlar keng foydalanadigan ijtimoiy muhandislik usullarini ko'rsating.",
+            "Javob": [
+                "telegram, Whatsapp, boshqa ijtimoiy tarmoqlar",
+                "telegram messenjeri",
+                "Watsup messenjeri",
+                "ijtimoiy tarmoqlar orqali"
+            ]
+        },
+        {
+            "№": 3,
+            "Savol": "\"Frod\"(fraud) tushunchasiga to'g'ri ta'rif berilgan javobni belgilang",
+            "Javob": [
+                "axborot texnologiyalarini qo'llagan holda sodir etiladigan firibgarlik harakatlari",
+                "kibermakonda shaxs, jamiyat va davlat manfaatlarining tashqi va ichki tahdidlardan himoyalanganligi holati",
+                "to'lov tizimi ishtirokchilarining pulga oid o'zaro talablari va majburiyatlarini yig'ish, taqqoslash hamda hisobga o'tkazish jarayoni",
+                "ma'lum shaxsga yoki shaxslar guruhiga muayyan harakatlarni amalga oshirish huquqini berish"
+            ]
+        },
+        {
+            "№": 4,
+            "Savol": "Gumonli operatsiya deb nimaga aytiladi?",
+            "Javob": [
+                "gumon uyg'otuvchi hamda uni shubhali operatsiyalar turkumiga kiritish (kiritmaslik) haqida qaror qabul qilguncha bo'lgan operatsiya",
+                "mijoz tomonidan amalga oshirilgan operatsiya",
+                "bir marotabalik operatsiyalar",
+                "mijozning barcha identifikatsiya ma'lumotlari"
+            ]
+        },
+        {
+            "№": 5,
+            "Savol": "Mijozni identifikatsiyalash - ...",
+            "Javob": [
+                "mijozlar haqidagi ma'lumotlarni ular tomonidan taqdim etilgan hujjatlar asosida aniqlash",
+                "mijozning shubhali operatsiyalari",
+                "mijozning gumonli operatsiyalari",
+                "bir marotabalik operatsiyalar"
+            ]
+        },
+        {
+            "№": 6,
+            "Savol": "Jismoniy shaxslar qanday hujjatlar asosida identifikatsiya qilinadi?",
+            "Javob": [
+                "shaxsni tasdiqlovchi hujjat yoki mijozning biometrik ma'lumotlari asosida amalga oshiriladi.",
+                "guvohnoma orqali amalga oshiriladi",
+                "bank karta orqali amalga oshiriladi",
+                "sertifikat orqali amalga oshiriladi"
+            ]
+        },
+        {
+            "№": 7,
+            "Savol": "Ichki nazorat deganda nimani tushunasiz?",
+            "Javob": [
+                "mijozlarini lozim darajada tekshirish, xatarlarni boshqarish, gumonli va shubhali operatsiyalarni aniqlash.",
+                "yuqori mansabdor shaxslarni aniqlash.",
+                "mijozning gumonli operatsiyalari",
+                "bir marotabalik operatsiyalar"
+            ]
+        },
+        {
+            "№": 8,
+            "Savol": "Mijozni lozim darajada tekshirish nimalарdan iborat?",
+            "Javob": [
+                "mijoz va uning benefitsiar mоlkdorini identifikatsiyalash va operatsiyalarni o'rganish.",
+                "shubhali operatsiyalarni Moliya vazirligiga taqdim etish",
+                "shubhali operatsiyalarni Departamentga taqdim etish",
+                "gumonli operatsiyalarni Markaziy bankga taqdim etish"
+            ]
+        },
+        {
+            "№": 9,
+            "Savol": "Tijorat banklariga quyidagi taqiqlanadi...",
+            "Javob": [
+                "anonim shaxslarga, identifikatsiyalash uchun zarur bo'lgan hujjatlar taqdim etilmaganida, o'ylab chiqarilganligi aniq bo'lgan hujjatlar bilan tasdiqlanmagan nomlarga hisobvaraqlar ochish;",
+                "kredit mablag'lari ajratish",
+                "bir marotabalik operatsiyalar",
+                "muddatli omanatga hisobvaraq ochish"
+            ]
+        },
+        {
+            "№": 10,
+            "Savol": "Tijorat bankida mijozni identifikatsiyalash kim tomonidan amalga oshiriladi?",
+            "Javob": [
+                "Mijozlarga bevosita xizmat ko'rsatuvchi xodimlar tomonidan",
+                "Ichki nazorat xodimi tomonidan",
+                "Bosh buxgalter tomonidan",
+                "Boshqaruvchi tomonidan"
+            ]
+        },
+        {
+            "№": 11,
+            "Savol": "Qaysi xodimlar gumonli va shubxali operatsiyalarni yozma xabarini beradi...",
+            "Javob": [
+                "mijozlarga bevosita xizmat ko'rsatuvchi (operatsiyani o'tkazuvchi masul ijrochilar, kassirlar va shu kabi barcha mijoz bilan ishlovchi) xodimlar tomonidan",
+                "kredit bo'limi boshlig'i",
+                "bosh buxgalter",
+                "boshqaruvchi"
+            ]
+        },
+        {
+            "№": 12,
+            "Savol": "Shubhali operatsiya deb nimaga aytiladi?",
+            "Javob": [
+                "jinoiy faoliyatdan olingan daromadlarni legallashtrish va (yoki) terrorizmni moliyalashtirish maqsadida amalga oshirilganligiga shubha paydo bo'lgan operatsiya",
+                "mijozning gumonli operatsiyalari",
+                "bir marotabalik operatsiyalar",
+                "mijozni identifikatsiya qilish"
+            ]
+        },
+        {
+            "№": 13,
+            "Savol": "Operatsiya ishtirokchilari kimlar?",
+            "Javob": [
+                "mijozlar, ularning vakillari hamda mijozning operatsiyada ishtirok etuvchi hamkorlari",
+                "ichki nazorat xodimi, mijozlar va bosh buxgalter",
+                "bankning masul xodimlari, mijozlar va yuqori mansabdor shaxslar",
+                "operatsiyani amalga oshirayotgan mijozning banki"
+            ]
+        },
+        {
+            "№": 14,
+            "Savol": "Mijoz yoki operatsiya ishtirokchilaridan birining barcha identifikatsiya ma'lumotlari Ro'yxatga kiritilgan shaxsning ma'lumotlari bilan to'liq mos kelganda ..",
+            "Javob": [
+                "Ichki nazorat xizmatiga xabar berishi kerak.",
+                "boshqaruvchisiga xabar berishi kerak.",
+                "bosh buxgalteriga xabar berishi kerak.",
+                "mijozni xabardar qilishi kerak."
+            ]
+        },
+        {
+            "№": 15,
+            "Savol": "Bankda korrupsiya haqida xabar berishga mo'ljallangan maxsus aloqa kanallari nechta va qaysilar",
+            "Javob": [
+                "5 ta \nIshonch telefoni (78 150-59-95)\nTelegram bot (@BRB_Antikor_bot)\nVeb-sayt (www.brb.uz)\nElektron pochta (antikor@brb.uz)\nFacebook (BRB rasmiy shaifasi)",
+                "4 ta \nIshonch telefoni (78 150-59-55)\nTelegram bot (@BRB_bot)\nVeb-sayt (www.brb-info.uz)\nElektron pochta (antikorruption01@brb.uz)",
+                "4 ta \nIshonch telefoni (78 150-99-55)\nTelegram bot (portal@brbinfo_bot)\nVeb-sayt (www.brb-mb.uz)\nElektron pochta (cor01brbr@info.uz)",
+                "3 ta \nIshonch telefoni (78 150-00-44)\nTelegram bot (@info_bot)\nElektron pochta (brb@elektron.uz)"
+            ]
+        },
+        {
+            "№": 16,
+            "Savol": "Yaqin qarindoshlar to'liq ko'rsatilgan qatorni tanlang",
+            "Javob": [
+                "ota-onalar, aka-ukalar, opa-singillar, o'g'illar, qizlar, er-xotinlar, shuningdek er-xotinlarning ota-onalari, aka-ukalari, opa-singillari va farzandlari.",
+                "ota-onalar, aka-ukalar, opa-singillar, shuningdek er-xotinlarning farzandlari.",
+                "ota-onalar, aka-ukalar, opa-singillar, o'g'illar, qizlar",
+                "ota-onalar, aka-ukalar, opa-singillar, o'g'illar, qizlar, er-xotinlar, shuningdek er-xotinlarning ota-onalari, aka-ukalari, opa-singillari va ularning farzandlari."
+            ]
+        },
+        {
+            "№": 17,
+            "Savol": "O'zbekiston Respublikasining korrupsiyaga qarshi kurashish sohasidagi vakolatlı organi qaysi?",
+            "Javob": [
+                "Korrupsiyaga qarshi kurashish agenligi",
+                "Sud'yalar oliy kengashi",
+                "Milliy gvardiya",
+                "Favqulotda vaziyatlar vazirligi"
+            ]
+        },
+        {
+            "№": 18,
+            "Savol": "\"Korrupsiyaga qarshi kurashish to'g'risida\"gi Qonunning asosiy maqsadi nimada?",
+            "Javob": [
+                "Korrupsiyaning oldini olish va unga qarshi kurashish",
+                "korrupsiyaga oid huquqbuzarliklarni o'z vaqtida aniqlash, ularga chek qo'yish, ularning oqibatlarini, ularga imkon beruvchi sabablar va shart-sharoitlarni bartaraf etish, korrupsiyaga oid huquqbuzarliklarni sodir etganlik uchun javobgarlikning muqarrarligi printsipini ta'minlash",
+                "davlat va jamiyat hayotining barcha sohalarida korrupsiyaning oldini olishga doir chora-tadbirlarni amalga oshirish",
+                "aholining huquqiy ongi va huquqiy madaniyatini yuksaltirish, jamiyatda korrupsiyaga nisbatan murosasiz munosabatni shakllantirish"
+            ]
+        }
+    ],
+    "Odob_axloq_barchaga": [{
+            "№": 1,
+            "Savol": "Xizmat faoliyatidagi tashqi ko‘rinish va kiyinish xizmati qanday bo‘lishi kerak?",
+            "Javob": [
+                "Rasmiylik, xolislik, kamtarlik va intizomni namoyon etuvchi, umumiy qabul qilingan ish xizmatiga muvofiq.",
+                "Atrofdagilarning e’tiborini o‘ziga tortadigan darajada.",
+                "Faqat eng qimmatbaho brendlaridan iborat bo‘lishi.",
+                "Kiyinish xizmati xizmat turiga qarab hech qanday ahamiyatga ega emas."
+            ]
+        },
+        {
+            "№": 2,
+            "Savol": "Xodimning ish faoliyatiga oid axborot va ma’lumotlar nimadir?",
+            "Javob": [
+                "Konfidentsial ma’lumot.",
+                "Shaxsiy ma’lumot.",
+                "Umumiy ma’lumot.",
+                "To‘g‘ri javob yo‘q."
+            ]
+        },
+        {
+            "№": 3,
+            "Savol": "Odob-axloq qoidalarining asosiy maqsadi nima?",
+            "Javob": [
+                "Jamoatchilik ongida bankka bo‘lgan hurmat va ishonchni oshirish hamda nomaqbul xatti-harakatlarning oldini olish.",
+                "Xodimlarning tashqi ko‘rinishini nazorat qilish.",
+                "Ish joyida faqat rahbarlarning manfaatlarini himoya qilish.",
+                "Xodimlar orasidagi raqobatni kuchaytirish."
+            ]
+        },
+        {
+            "№": 4,
+            "Savol": "Xodimlar ishdan bo‘sh vaqtda qanday normalarga rioya qilishlari shart?",
+            "Javob": [
+                "Umumqabul qilingan axloq normalari.",
+                "Bankning ichki tartib qoidalari.",
+                "Faqat milliy an’analar.",
+                "Hech qanday normalarga rioya qilish shart emas."
+            ]
+        },
+        {
+            "№": 5,
+            "Savol": "Odob-axloq qoidalarini buzish holatlari bo‘yicha xizmat tekshiruvi, agar u korrupsiya ehtimoli bilan bog‘liq bo‘lsa, qaysi departament tomonidan o‘tkaziladi?",
+            "Javob": [
+                "Kompleks nazorat departamenti.",
+                "Yuridik departamenti.",
+                "Ichki audit departamenti.",
+                "Inson resurslarini boshqarish (HR) departamenti."
+            ]
+        },
+        {
+            "№": 6,
+            "Savol": "Manfaatlar to‘qnashuvi yuzaga kelgan taqdirda xodim nima qilishi shart?",
+            "Javob": [
+                "O‘zining bevosita rahbari va Kompleks nazorat departamentini darhol xabardor qilish hamda tegishli ko‘rsatma olguniga qadar vazifani bajarmasligi.",
+                "Darhol vazifani bajarmasdan davom ettirishi.",
+                "Faqat Kompleks nazorat departamentini xabardor qilish.",
+                "Muammoni o‘zi mustaqil hal qilish."
+            ]
+        },
+        {
+            "№": 7,
+            "Savol": "Bank xodimi ishdan tashqari vaqtda qaysi faoliyat turlari bilan, ish beruvchi ruxsatisiz ham shug‘ullanishi mumkin, agar qonunchilikda boshqacha holat nazarda tutilmagan bo‘lsa?",
+            "Javob": [
+                "Pedagogik, ilmiy va ijodiy faoliyat",
+                "Tadbirkorlik",
+                "Bank xodimi ishdan tashqari vaqtda har qanday faoliyat bilan shug‘ullanishi mumkin",
+                "Bank xodimi ishdan tashqari vaqtda har qanday faoliyat bilan shug‘ullanishi mumkin emas"
+            ]
+        },
+        {
+            "№": 8,
+            "Savol": "\"Favoritizm\" tushunchasiga qaysi ta’rif mos keladi?",
+            "Javob": [
+                "Kadrlarni tanlash va lavozimga tayinlashda bir shaxs yoki guruh manfaatlarini boshqalardan ustun qo‘yish.",
+                "Mahalliy manfaatlargina ko‘zlab ish tutish.",
+                "O‘z mansab mavqeidan shaxsiy manfaatlar uchun foydalanish",
+                "Jamoada qarama-qarshi guruhlar uyushtirish."
+            ]
+        },
+        {
+            "№": 9,
+            "Savol": "Bir xodimning harakati ham \"manfaatlar to‘qnashuvi\", ham \"korrupsiya\" sifatida baholanishi mumkinmi?",
+            "Javob": [
+                "Ha, agar shaxsiy manfaatdorlik xizmat majburiyatlariga ta’sir qilib, moddiy yoki nomoddiy naf olish maqsadida qonunga xilof harakatga olib kelsa.",
+                "Ha, lekin faqat xodim o‘z aybiga iqror bo‘lgan taqdirdagina.",
+                "Faqat sud qarori bilan shunday baholanishi mumkin.",
+                "Yo‘q, bu ikki tushuncha bir-birini istisno qiladi."
+            ]
+        },
+        {
+            "№": 10,
+            "Savol": "Korrupsiya nima?",
+            "Javob": [
+                "Shaxsning o‘z mansab yoki xizmat mavqeidan shaxsiy manfaatlarini ko‘zlab moddiy yoki nomoddiy naf olish maqsadida qonunga xilof ravishda foydalanishi.",
+                "Shaxsiy (bevosita yoki bilvosita) manfaatdorlik xizmat majburiyatlarini lozim darajada bajarishga ta’sir ko‘rsatishi yoki ta’sir ko‘rsatishi mumkin bo‘lgan va fuqarolar, tashkilotlar yoki davlat manfaatlari bilan qarama-qarshilikka olib keladigan vaziyat.",
+                "Mahalliy manfaatlargina ko‘zlab ish tutish. Shaxsning nasliy kelib chiqishi yoki qarindoshlarining mavqei sababli malaka talablarisiz ishga qabul qilish, rotatsiya yoki lavozimga tayinlash.",
+                "Mahalliychilik yoki oshna-og‘aynichilik aloqalarini birinchi o‘ringa qo‘ygan holda, asossiz imtiyozlar berish va qo‘llab-quvvatlash maqsadida xizmat mavqeidan foydalanish."
+            ]
+        },
+        {
+            "№": 11,
+            "Savol": "\"Mahalliychilik\" va \"Tanish-bilishchilik\" atamalari orasidagi asosiy farq nima?",
+            "Javob": [
+                "Tanish-bilishchilik asossiz imtiyozlar berish uchun xizmat mavqeidan foydalanishni anglatadi, Mahalliychilik esa nasliy kelib chiqish yoki qarindoshlar mavqei sababli malaka talablarisiz ishga qabul qilishni anglatadi.",
+                "Mahalliychilik faqat avlod-ajdodlarning bir sulolaga mansubligiga asoslanadi, tanish-bilishchilik esa har qanday shaxsiy manfaatdorlikni o‘z ichiga oladi.",
+                "Ikkalasi ham aynan bir xil ma’noni anglatadi.",
+                "Tanish-bilishchilikda mahalliy manfaatlar ko‘zlanadi, mahalliychilikda esa oshna-og‘aynichilik aloqalari."
+            ]
+        },
+        {
+            "№": 12,
+            "Savol": "Ommaviy axborot vositalari bilan o‘zaro hamkorlikni amalga oshirishning belgilangan tartibi qanday?",
+            "Javob": [
+                "Faqat bankning axborot xizmatiga mas’ul tarkibiy tuzilmasi orqali amalga oshiriladi, boshqa xodimlar uchun esa bu tuzilma bilan kelishmasdan aloqaga chiqish taqiqlanadi.",
+                "Xodimlar bu masalada istalgan vaqtda mustaqil aloqa qilishi mumkin.",
+                "Faqat bank Boshqaruvi raisi shaxsiy ruxsati bilan.",
+                "Xodimlarga OAV bilan aloqa qilish mutlaq taqiqlanadi."
+            ]
+        },
+        {
+            "№": 13,
+            "Savol": "\"Urug‘-aymoqchilik\" va \"Favoritizm\" tushunchalari o‘rtasidagi asosiy farq nimada?",
+            "Javob": [
+                "Urug‘-aymoqchilik xodimlarning bir sulolaga mansubligi asosida noxolis munosabatni anglatadi, favoritizm esa kelib chiqishidan qat’i nazar, ma’lum shaxs yoki guruhni boshqalardan ustun qo‘yishni anglatadi.",
+                "Urug‘-aymoqchilik faqat qarindoshlarga, favoritizm esa do‘stlarga imtiyoz berishni anglatadi.",
+                "Ikkalasi ham bir xil ma’noga ega, ammo turli sohalarda qo‘llaniladi.",
+                "Favoritizm faqat mukofotlashda, urug‘-aymoqchilik esa faqat ishga qabul qilishda qo‘llaniladi."
+            ]
+        },
+        {
+            "№": 14,
+            "Savol": "Xodim o‘ziga nisbatan olib borilayotgan odob-axloq qoidalari buzilishi bo‘yicha tekshiruv jarayonida qanday huquqlarga ega?",
+            "Javob": [
+                "O‘zini himoya qilish uchun dalillarni taqdim etish va komissiya qarorlari yuzasidan belgilangan tartibda shikoyat qilish huquqi.",
+                "Tekshiruv natijalariga aralashish va o‘zgartirish kiritish huquqi.",
+                "Tekshiruv tugaguniga qadar ishga chiqmaslik huquqi.",
+                "Komissiya a’zolarini o‘zgartirishni talab qilish huquqi."
+            ]
+        },
+        {
+            "№": 15,
+            "Savol": "Manfaatlar to‘qnashuvini yashirish yoki uni bartaraf etish choralarini ko‘rmaslik qanday oqibatlarga olib kelishi mumkin?",
+            "Javob": [
+                "Xodimning intizomiy javobgarlikka tortilishiga sabab bo‘ladi.",
+                "Hech qanday oqibatga olib kelmaydi.",
+                "Faqqt moddiy jarimaga.",
+                "Faqat og‘zaki tanbehga."
+            ]
+        }
+    ],
+    "Ijro_barchaga": [{
+            "№": 1,
+            "Savol": "Bank Boshqaruv organlari qaysilar hisoblanadi?",
+            "Javob": [
+                "Aksiyadorlar umumiy yig‘ilishi, Kuzatuv kengashi, Boshqaruv.",
+                "Aksiyadorlar umumiy yig‘ilishi, Kuzatuv kengashi, Boshqaruv raisi.",
+                "Kuzatuv kengashi, Boshqaruv, bank tarkibiy tuzilmalari.",
+                "Barcha javoblar to‘g‘ri."
+            ]
+        },
+        {
+            "№": 2,
+            "Savol": "Bank Boshqaruvi a’zolari nechta kishidan iborat bo‘lishi kerak?",
+            "Javob": ["7 ta.", "6 ta.", "8 ta.", "Cheklov yo‘q."]
+        },
+        {
+            "№": 3,
+            "Savol": "Bank kredit siyosati kim tomonidan tasdiqlanadi?",
+            "Javob": [
+                "Bank Kuzatuv kengashi.",
+                "Kredit qo‘mitasi.",
+                "Bank Boshqaruvi.",
+                "Bank aksiyadorlari."
+            ]
+        },
+        {
+            "№": 4,
+            "Savol": "Markaziy bank raisi necha yil muddatga saylanadi?",
+            "Javob": ["5 yil.", "4 yil.", "3 yil.", "2 yil."]
+        },
+        {
+            "№": 5,
+            "Savol": "Jismoniy va yuridik shaxslarning murojaatlari qo‘yilgan masalalarni hal etish vakolatiga kirmaydigan davlat organiga yuborilgan taqdirda necha kun ichida tegishli organlarga yo‘naltiriladi?",
+            "Javob": ["5 kunlik.", "3 kunlik muddatda.", "4 kunlik.", "6 kunlik."]
+        },
+        {
+            "№": 6,
+            "Savol": "Qo‘shimcha o‘rganishni talab qilmaydigan murojaatlar necha kun ichida ko‘rib chiqilishi lozim?",
+            "Javob": ["15 kunlik.", "5 kunlik.", "10 kunlik.", "20 kunlik."]
+        },
+        {
+            "№": 7,
+            "Savol": "Qanday holatlarda topshiriqlarning o‘z vaqtida va sifatli bajarilmaganligi uchun rahbariyatga ta’sir choralarini taklif etiladi?",
+            "Javob": [
+                "Ijrochi tomonidan belgilangan muddatga rioya qilinmaganda.",
+                "Tarkibiy bo‘linmaning talabiga ko‘ra.",
+                "Hujjat ijrosi kechiktirilganda, ammo to‘liq hujjatlangan holda.",
+                "Barcha javoblar to‘g‘ri."
+            ]
+        },
+        {
+            "№": 8,
+            "Savol": "Anonim murojaatlar deganda nimani tushunasiz?",
+            "Javob": [
+                "Barcha javoblar to‘g‘ri.",
+                "Murojaat muallifining familiyasi (ismi, sharifi) mavjud emasligi.",
+                "Muallifning yashash joyi to‘g‘risidagi ma’lumotlar ko‘rsatilmaganligi.",
+                "Muallifga oid ma’lumotlarning soxta ko‘rsatilganligi yoki imzo qo‘yilmaganligi."
+            ]
+        },
+        {
+            "№": 9,
+            "Savol": "Murojaatlar qanday turlarga bo‘linadi?",
+            "Javob": [
+                "Murojaatlar arizalar, takliflar va shikoyatlar tarzida bo‘lishi mumkin.",
+                "Ariza va shikoyat.",
+                "Shikoyat va taklif.",
+                "Yozma va elektron."
+            ]
+        },
+        {
+            "№": 10,
+            "Savol": "Murojaatlar qanday shakllarda bo‘ladi?",
+            "Javob": [
+                "Murojaatlar og‘zaki, yozma yoki elektron shaklda bo‘lishi mumkin.",
+                "Yozma va elektron shaklda.",
+                "Og‘zaki va yozma shaklda.",
+                "Barcha javoblar to‘g‘ri."
+            ]
+        },
+        {
+            "№": 11,
+            "Savol": "“Ijro.gov.uz” tizimini joriy etish maqsadida qaysi hujjat qabul qilingan?",
+            "Javob": [
+                "2021-yil 31-maydagi PQ-5132-sonli qaror.",
+                "O‘zbekiston Respublikasi Prezidentining 2021-yil 10-fevraldagi PF-6166-sonli Farmoni.",
+                "1999-yil 12-yanvardagi 12-sonli qaror.",
+                "2017-yil 9-avgustdagi F-5017-sonli farmoyish."
+            ]
+        },
+        {
+            "№": 12,
+            "Savol": "Nazorat qilinadigan hujjatlarning tayyorlangan ichki hujjati qancha muddatda hududiy boshqarmalarga yetkazilishi shart?",
+            "Javob": [
+                "1 kecha-kunduz ichida.",
+                "2 kun ichida.",
+                "3 ish kuni ichida.",
+                "Muddat belgilangan emas."
+            ]
+        },
+        {
+            "№": 13,
+            "Savol": "Jamoaviy murojaatlarga javoblar qanday tartibda yuboriladi?",
+            "Javob": [
+                "Agar murojaatda javobni boshqa shaxsga yuborish talab etilmagan bo‘lsa, ro‘yxatda birinchi ko‘rsatilgan shaxsga.",
+                "Murojaatda nomlari ko‘rsatilgan shaxslarning har biriga.",
+                "Murojaat qiluvchilarning ro‘yxatida birinchi ko‘rsatilgan shaxsga.",
+                "Barcha javoblar to‘g‘ri."
+            ]
+        },
+        {
+            "№": 14,
+            "Savol": "Murojaat qilish muddatlari qaysi javobda to‘g‘ri ko‘rsatilgan?",
+            "Javob": [
+                "Murojaatlarni berish muddatlari, qoida tariqasida, belgilanmaydi.",
+                "Bir oy muddatda.",
+                "15 kundan oshmagan muddatda.",
+                "1 oydan kechiktirmay."
+            ]
+        },
+        {
+            "№": 15,
+            "Savol": "Qanday murojaatlar ko‘rib chiqilmaydi?",
+            "Javob": [
+                "Barcha javoblar to‘g‘ri.",
+                "Anonim murojaatlar.",
+                "Jismoniy va yuridik shaxslarning vakillari orqali berilgan murojaatlar.",
+                "Murojaatchilarning vakolatini tasdiqlovchi hujjatlar mavjud bo‘lmagan taqdirda."
+            ]
+        },
+        {
+            "№": 16,
+            "Savol": "Murojaatlarni ko‘rib chiqish muddati qancha?",
+            "Javob": [
+                "Murojaat kelib tushgan kundan e’tiboran 15 kun ichida, qo‘shimcha o‘rganish va (yoki) tekshirish, qo‘shimcha hujjatlarni so‘rab olish talab etilganda esa, bir oyga qadar bo‘lgan muddatda.",
+                "Murojaat kelib tushgan kundan boshlab 15 kun ichida.",
+                "Murojaat kelib tushgan kundan boshlab 1 oyga qadar bo‘lgan muddatda.",
+                "Murojaat kelib tushgan kundan boshlab 15 kun ichida."
+            ]
+        },
+        {
+            "№": 17,
+            "Savol": "Nazorat qilinadigan hujjatlarning ijrosi bo‘yicha ichki hujjat tayyorlash muddati qanday hollarda o‘zgarishi mumkin?",
+            "Javob": [
+                "Agar boshqa muddat belgilangan bo‘lmasa.",
+                "Bank rahbariyatining ko‘rsatmasiga ko‘ra.",
+                "Hujjat kechiktirib kelib tushgan hollarda.",
+                "Xodimlarning bandlik darajasiga qarab."
+            ]
+        },
+        {
+            "№": 18,
+            "Savol": "Bank xodimlarini ishga qabul qilish, lavozimidan ozod etish, boshqa lavozimga o‘tkazish va ish haqi to‘lovlari bo‘yicha buyruqlar kim tomonidan qo‘shimcha ravishda imzolanishi lozim?",
+            "Javob": [
+                "Bunday buyruqlar qo‘shimcha ravishda Buxgalteriya hisobi va moliyaviy menejment departamenti rahbari tomonidan imzolanadi.",
+                "Bunday buyruqlar qo‘shimcha ravishda Kadrlar bo‘limi boshlig‘i tomonidan imzolanadi.",
+                "Bunday buyruqlar qo‘shimcha ravishda Yuridik departament direktori tomonidan imzolanadi.",
+                "Bunday buyruqlar qo‘shimcha ravishda barcha Boshqaruv raisi o‘rinbosari tomonidan imzolanadi."
+            ]
+        },
+        {
+            "№": 19,
+            "Savol": "“Fuqarolarning murojaatlari to‘g‘risida”gi Qonunning asosiy maqsad va vazifalari nimadan iborat?",
+            "Javob": [
+                "Ushbu qonun fuqarolarning davlat organlariga, muassasalariga murojaatlari sohasidagi munosabatlarni tartibga soladi.",
+                "Ushbu qonun fuqarolar o‘rtasidagi o‘zaro munosabatlarni tartibga soladi.",
+                "Ushbu qonun jismoniy va yuridik shaxslar o‘rtasidagi o‘zaro munosabatlarni tartibga soladi.",
+                "Barcha javoblar to‘g‘ri."
+            ]
+        },
+        {
+            "№": 20,
+            "Savol": "Ariza tushunchasiga ta’rif bering.",
+            "Javob": [
+                "Ariza – fuqarolarning o‘z huquqlari, erkinliklari va qonuniy manfaatlarini ro‘yobga chiqarishda yordam ko‘rsatish to‘g‘risidagi iltimosi bayon etilgan murojaatidir.",
+                "Ariza – fuqarolarning davlat va jamiyat faoliyatini takomillashtirishga doir tavsiyalarini o‘z ichiga olgan murojaatdir.",
+                "Ariza – fuqarolarning buzilgan huquqlari, erkinliklari va qonuniy manfaatlarini tiklash to‘g‘risidagi talabi bayon etilgan murojaatdir.",
+                "Barcha javoblar to‘g‘ri."
+            ]
+        },
+        {
+            "№": 21,
+            "Savol": "Qanday hollarda bildirshnoma loyihasini Ijro nazorati departamenti bilan kelishish talab etilmaydi?",
+            "Javob": [
+                "Ichki audit departamenti va Komplayens nazorati departamenti tekshiruv natijalari bo‘yicha.",
+                "Boshqaruv raisiga taqdim etilmaganda.",
+                "Asoslantiruvchi qismda xato bo‘lganda.",
+                "Taklif qism yo‘q bo‘lganda."
+            ]
+        },
+        {
+            "№": 22,
+            "Savol": "“Biznesni rivojlantirish banki” ATBning ishlab chiqilgan ichki tartiblari asosan qaysi hujjatlarga asoslanadi?",
+            "Javob": [
+                "Barcha javoblar to‘g‘ri.",
+                "Bankning ichki nizomlari va qoidalari.",
+                "O‘zbekiston Respublikasining “Banklar va bank faoliyati to‘g‘risida”gi Qonuni.",
+                "O‘zbekiston Respublikasi Prezidenti va Vazirlar Mahkamasi qarorlari."
+            ]
+        },
+        {
+            "№": 23,
+            "Savol": "Qarz oluvchining va (yoki) garovga qo‘yuvidning qanday huquqlari bank tomonidan cheklanishi mumkin emas?",
+            "Javob": [
+                "Barcha javoblar to‘g‘ri.",
+                "Murojaat qilish huquqi.",
+                "Sug‘urta kompaniyasini tanlash huquqi.",
+                "Baholovchini tanlash huquqi."
+            ]
+        },
+        {
+            "№": 24,
+            "Savol": "Bank tizimida ichki hujjatlarni tuzish va rasmiylashtirish qanday hujjatga asoslanadi?",
+            "Javob": [
+                "O‘zbekiston Respublikasi Vazirlar Mahkamasining 1999-yil 29-martdagi 140-sonli qarori.",
+                "1999-yil 12-yanvardagi 12-sonli qaror.",
+                "2021-yil 31-maydagi PQ-5132-sonli qaror.",
+                "O‘zbekiston Respublikasi Prezidentining 2021-yil 10-fevraldagi PF-6166-sonli Farmoni."
+            ]
+        },
+        {
+            "№": 25,
+            "Savol": "“Ijro.gov.uz” elektron tizimi asosida hujjatlarning ijrosi qanday maqsadlar uchun tashkil etiladi?",
+            "Javob": [
+                "Davlat organlari rahbarlarining shaxsiy mas’uliyatini kuchaytirish.",
+                "Xodimlar samaradorligini oshirish uchun hisob berish.",
+                "Idoralarda ijro tizimini avtomatlashtirish faoliyatini avtomatlashtirish.",
+                "Barcha javoblar to‘g‘ri."
+            ]
+        },
+        {
+            "№": 26,
+            "Savol": "Qonunlar, Prezident Farmonlari va qarorlari, Vazirlar Mahkamasining qaror va farmoyishlarida qo‘yilgan vazifalarni amalga oshirishni ta’minlovchi o‘z qarorlari (buyruq, farmoyish, choralar va h.k.) qancha muddatda tayyorlanishi lozim?",
+            "Javob": [
+                "Hujjat olingan sanadan boshlab 3 kun ichida, agar hujjatda boshqa muddat belgilangan bo‘lmasa.",
+                "Hujjat olingan sanadan boshlab 10 kun ichida.",
+                "Hujjat olingan sanadan boshlab bir hafta ichida.",
+                "Hujjat olingan sanadan boshlab 5 kun ichida."
+            ]
+        },
+        {
+            "№": 27,
+            "Savol": "Murojaatga dastlabki javob berish muddati necha kundan iborat?",
+            "Javob": ["15 kun.", "10 kun.", "30 kun.", "Muddat belgilangan emas."]
+        },
+        {
+            "№": 28,
+            "Savol": "Murojaatlar qaysi hollarda ko‘rmasdan qoldiriladi?",
+            "Javob": [
+                "Anonim murojaatlar; jismoniy va yuridik shaxslarning vakillari orqali berilgan murojaatlar, ularning vakolatini tasdiqlovchi hujjatlar mavjud bo‘lmagan taqdirda; qonunda belgilangan boshqa talabga mos kelmagan murojaatlar.",
+                "Anonim murojaatlar.",
+                "Jismoniy va yuridik shaxslarning vakillari orqali berilgan murojaatlar, ularning vakolatini tasdiqlovchi hujjatlar mavjud bo‘lmagan taqdirda.",
+                "Barcha javoblar to‘g‘ri."
+            ]
+        },
+        {
+            "№": 29,
+            "Savol": "Chiqish hujjatlarini rasmiylashtirishda imzo qo‘yishi lozim bo‘lgan rahbar o‘rniga chiziqcha bilan boshqa rahbar imzo qo‘yishi mumkinmi?",
+            "Javob": [
+                "Yo‘q, mumkin emas. Hujjat faqat belgilangan mas’ul rahbar tomonidan imzolanadi.",
+                "Ha, mumkin. Agar rahbar ish joyida bo‘lmasa, uning o‘rniga boshqa rahbar chiziqcha bilan imzo qo‘yishi mumkin, keyin bu haqida og‘zaki xabar berilsa yetarli.",
+                "Chiziqcha bilan imzo qo‘yish mumkin, lekin bu holda hujjatda “vazifasini bajaruvchi” deb yozilishi kerak.",
+                "Istisno ravishda shoshilinch hollarda uning o‘rnini bosuvchi shaxs to‘g‘ridan-to‘g‘ri vakolat berilgan buyruq asosida imzo qo‘yishi mumkin, ammo chiziqcha bilan emas."
+            ]
+        },
+        {
+            "№": 30,
+            "Savol": "Qonunga muvofiq kimlar O‘zbekiston Respublikasi davlat organlariga, tashkilotlariga va ularning mansabdor shaxslariga murojaat etish huquqiga ega?",
+            "Javob": [
+                "Jismoniy va yuridik shaxslar, xorijiy davlatlarning jismoniy va yuridik shaxslari, fuqaroligi bo‘lmagan shaxslar.",
+                "O‘zbekiston Respublikasi fuqarolari va O‘zbekiston Respublikasida faoliyat olib borayotgan barcha yuridik shaxslar.",
+                "Jismoniy va yuridik shaxslar, xorijiy davlatlarning jismoniy va yuridik shaxslari.",
+                "O‘zbekiston Respublikasi fuqarolari, yuridik shaxslar va fuqaroligi bo‘lmagan shaxslar."
+            ]
+        }
+    ],
+    "Yuridik_barchaga": [{
+            "№": 1,
+            "Savol": "Oʻzbekiston Respublikasining “Banklar va bank faoliyati toʻgʻrisida”gi Qonuniga koʻra, banklarga qaysi faoliyat turi bilan shugʻillanish taqiqlanadi?",
+            "Javob": [
+                "Banklar bevosita ishlab chiqarish, savdo, sugʻurta faoliyati hamda banklar va bank faoliyati toʻgʻrisidagi qonunchilikda nazarda tutilgan moliyaviy operatsiyalarni amalga oshirish bilan bogʻliq boʻlmagan boshqa faoliyat bilan shugʻullanishga haqli emas.",
+                "Bank kartalari asosida naqd pulsiz hisob-kitoblar tizimlarida foydalaniladigan ixtisoslashtirilgan uskunani va unga doir dasturiy taʼminotni sotish yoki ijaraga berish.",
+                "Oʻz aktivlarini sotish.",
+                "Sugʻurta tashkilotlari boʻlgan Oʻzbekiston Respublikasi rezidentlari nomidan sugʻurta shartnomasi tuzilishini tashkil etish boʻyicha faoliyatni amalga oshirish."
+            ]
+        },
+        {
+            "№": 2,
+            "Savol": "Banklar oʻz faoliyatini qaysi qonunlarga asosan amalga oshiradi?",
+            "Javob": [
+                "Oʻzbekiston Respublikasining “Banklar va bank faoliyati toʻgʻrisida”gi Qonuni, “Bank siri toʻgʻrisida”gi Qonuni, “Tijorat siri toʻgʻrisida”gi Qonuni, “Garov toʻgʻrisida”gi Qonun, “Markaziy bank toʻgʻrisida”gi Qonuni, “Banklarni sanatsiya qilish va tugatish toʻgʻrisida”gi Qonuni va boshqalar.",
+                "“Jinoiy faoliyatdan olingan daromadlarni legallashtirishga va terrorizmni moliyalashtirishga qarshi kurashish toʻgʻrisida”gi Qonun, Oʻzbekiston Respublikasi Markaziy banki tomonidan banklar va ularning filiallarida inspeksiya (tekshirish) oʻtkazish tartibi toʻgʻrisidagi nizom, Oʻzbekiston Respublikasi Markaziy banki tomonidan nobank kredit tashkilotlari faoliyatini tekshirish tartibi toʻgʻrisidagi nizom.",
+                "Bank xizmatlari isteʼmolchilari bilan oʻzaro munosabatlarni amalga oshirishda tijorat banklarining faoliyatiga qoʻyiladigan minimal talablar toʻgʻrisida Nizom, Oʻzbekiston Respublikasi tijorat banklarining axborot xavfsizligi va kiberxavfsizligiga doir minimal talablar toʻgʻrisidagi Nizom, Banklar tomonidan Omonatlarni kafolatlash jamgʻarmasiga badallar toʻlash tartibi toʻgʻrisidagi Nizom va shu kabi boshqalar.",
+                "Tijorat banklarining likvidliligini boshqarishga qoʻyiladigan talablar toʻgʻrisidagi Nizom, Tijorat banklari kapitalining monandligiga qoʻyiladigan talablar toʻgʻrisidagi Nizom, Oʻzbekiston Respublikasi Markaziy bankining hisob-kitoblar kliring tizimi toʻgʻrisidagi nizom va shu kabi boshqalar."
+            ]
+        },
+        {
+            "№": 3,
+            "Savol": "Oʻzbekiston Respublikasining Konstitutsiyasiga koʻra, Markaziy bank oʻzining qonunchilik tashabbusi huquqini qanday amalga oshiradi?",
+            "Javob": [
+                "Markaziy bankda qonunchilik tashabbusi huquqi mavjud emas.",
+                "Amaldagi qonunchilikka belgilangan tartibda tuzatish va oʻzgartirishlar kiritish orqali.",
+                "Bank faoliyatiga aloqador boʻlgan maʼlum bir qonun yoki qonun loyihasiga takliflar ishlab chiqib, uni qonunchilik palatasiga taqdim qilish orqali.",
+                "Faqat Oliy majlis senatiga xizmat yozishmasi yuborish orqali."
+            ]
+        },
+        {
+            "№": 4,
+            "Savol": "Oʻzbekiston Respublikasi Markaziy banki boshqaruvining raisi kim tomonidan lavozimiga tayinlanadi va undan ozod etiladi?",
+            "Javob": [
+                "Oʻzbekiston Respublikasi Prezidentining taqdimiga binoan Senat tomonidan tayinlanadi va lavozimidan ozod etiladi.",
+                "Oʻzbekiston Respublikasi Prezidenti tomonidan lavozimiga tayinlanadi va undan ozod etiladi.",
+                "Aksiyadorlarning umumiy yigʻilishi qarori bilan lavozimiga tayinlanadi va undan ozod etiladi.",
+                "Oʻzbekiston Respublikasi Bosh vazirining taqdimiga binoan Senat tomonidan tayinlanadi va lavozimidan ozod etiladi."
+            ]
+        },
+        {
+            "№": 5,
+            "Savol": "Fuqarolarning banklardagi omonatlarini himoyalash kafolatlari qaysi qonun bilan tartibga solinadi?",
+            "Javob": [
+                "“Fuqarolarning banklardagi omonatlarini himoyalash kafolatlari toʻgʻrisida”gi Qonun.",
+                "“Kredit va kredit munosabatlari toʻgʻrisida”gi Qonun.",
+                "“Bank faoliyati toʻgʻrisida”gi Qonun.",
+                "“Moliya bozori toʻgʻrisida”gi Qonun."
+            ]
+        },
+        {
+            "№": 6,
+            "Savol": "Agar bank litsenziyasi bekor qilinsa, fuqarolarning depozitlari qanday qilib qoplanadi?",
+            "Javob": [
+                "Omonatlar toʻliq miqdorda yoki fond kafolati asosida toʻlanadi.",
+                "Hech qanday toʻlov amalga oshirilmaydi.",
+                "Faqat bir qismi qoplanadi.",
+                "Faqat davlat qarzi orqali qoplanadi."
+            ]
+        },
+        {
+            "№": 7,
+            "Savol": "Bank sirini tashkil etuvchi maʼlumotlar kimlarga taqdim etilishi mumkin?",
+            "Javob": [
+                "Barcha javoblar toʻgʻri.",
+                "Mijozning oʻziga (vakiliga), u vakolat bergan vakilga.",
+                "Oʻzbekiston Respublikasi Hisob palatasiga.",
+                "Prokuratura, dastlabki tergov, surishtiruv organlari va tezkor-qidiruv faoliyatini amalga oshiruvchi organlar, shuningdek chet davlatlarning vakolatli organlari oʻrtasida bank sirini tashkil etuvchi maʼlumotlarni Oʻzbekiston Respublikasining qonunchiligida hamda xalqaro shartnomalarida nazarda tutilgan tartibda."
+            ]
+        },
+        {
+            "№": 8,
+            "Savol": "Kredit tashkilotlarini belgilang.",
+            "Javob": [
+                "Barcha javoblar toʻgʻri.",
+                "Ipotekani qayta moliyalashtirish tashkiloti.",
+                "Mikromoliya tashkiloti.",
+                "Lombard."
+            ]
+        },
+        {
+            "№": 9,
+            "Savol": "Korrupsiyaga qarshi kurashish boʻyicha faoliyatni bevosita amalga oshiruvchi davlat organlari qaysilar?",
+            "Javob": [
+                "Barcha javoblar toʻgʻri.",
+                "Oʻzbekiston Respublikasi Adliya vazirligi.",
+                "Oʻzbekiston Respublikasi Bosh prokuraturasi.",
+                "Oʻzbekiston Respublikasi Bosh prokuraturasi"
+            ]
+        },
+        {
+            "№": 10,
+            "Savol": "Murojaat shakllari toʻgʻri koʻrsatilgan javobni belgilang?",
+            "Javob": [
+                "Yozma, ogʻzaki va elektron.",
+                "Ariza, taklif va iltimosnoma.",
+                "Shikoyat va taklif.",
+                "Ariza, taklif va shikoyat."
+            ]
+        },
+        {
+            "№": 11,
+            "Savol": "Markaziy bank qaysi davlat organi oldida hisobdor?",
+            "Javob": [
+                "Oʻzbekiston Respublikasi Oliy Majlisi Senati.",
+                "Oʻzbekiston Respublikasining Prezidenti.",
+                "Oʻzbekiston Respublikasi Oliy Majlisi Qonunchilik palatasi.",
+                "Oʻzbekiston Respublikasi Bosh vaziri."
+            ]
+        },
+        {
+            "№": 12,
+            "Savol": "Markaziy bank raisining birinchi oʻrinbosari va oʻrinbosarlari kim tomonidan tayinlanadi va lavozimidan ozod qilinadi?",
+            "Javob": [
+                "Oʻzbekiston Respublikasi Prezidenti.",
+                "Oʻzbekiston Respublikasi Markaziy banki raisi.",
+                "Oʻzbekiston Respublikasi Oliy Majlisi Qonunchilik palatasi Spikeri.",
+                "Oʻzbekiston Respublikasi Oliy Majlisi Senati raisi."
+            ]
+        },
+        {
+            "№": 13,
+            "Savol": "Yangi Mehnat Kodeksiga koʻra xodimga ishlagan 6 oy oʻtguniga qadar ham mehnat taʼtili berilishi mumkinmi?",
+            "Javob": [
+                "Ha, mehnat shartnomasi taraflarining kelishuviga koʻra mumkin.",
+                "Yoʻq, 1-ish yili uchun mehnat taʼtili faqat xodim uzliksiz ishlagan 6 oy oʻtganidan keyin beriladi.",
+                "Ha, faqat kasaba uyushmasining roziligi bilan mumkin.",
+                "Yoʻq, faqat istisnoli holatlardagina mumkin."
+            ]
+        }
+    ],
+    "Axborot_texnologiyalar_departamenti": [{
+            "№": 1,
+            "Savol": "Ikkita dasturning birlashuvi nima deb ataladi?",
+            "Javob": [
+                "Integratsiya",
+                "Formatlash",
+                "Kompilyatsiya",
+                "Virtualizatsiya"
+            ]
+        },
+        {
+            "№": 2,
+            "Savol": "Kompyuterga matn kiritish uchun nima ishlatiladi?",
+            "Javob": ["Klaviatura", "Sichqoncha", "Monitor", "Printer"]
+        },
+        {
+            "№": 3,
+            "Savol": "Kompyuterda fayllar saqlanadigan joy nima?",
+            "Javob": ["Hard disk (HDD yoki SSD)", "RAM", "Protsessor", "Klaviatura"]
+        },
+        {
+            "№": 4,
+            "Savol": "Microsoft Word dasturi nima uchun ishlatiladi?",
+            "Javob": [
+                "Matnli hujjatlar yaratish, tahrirlash va saqlash uchun",
+                "Dastur kodini kompilyatsiya qilish",
+                "Jadval tuzish",
+                "Internetda sahifalar ochish uchun"
+            ]
+        },
+        {
+            "№": 5,
+            "Savol": "Google Chrome nima?",
+            "Javob": ["Internet brauzer", "Matn muharriri", "Antivirus", "O‘yin"]
+        },
+        {
+            "№": 6,
+            "Savol": "Fayl kengaytmasi “.docx” bo‘lsa, u qaysi dasturda ochiladi?",
+            "Javob": [
+                "Microsoft Word",
+                "Microsoft Excel",
+                "Microsoft PowerPoint",
+                "Paint"
+            ]
+        },
+        {
+            "№": 7,
+            "Savol": "Lokal hisoblash tarmog‘iga ulanadigan qurilma qanday ataladi?",
+            "Javob": ["Router", "UPS", "Monitor", "Klaviatura"]
+        },
+        {
+            "№": 8,
+            "Savol": "Kompyuterda audio fayllar qanday formatda bo‘ladi?",
+            "Javob": [".mp3", ".pdf", ".mp4", ".jpg"]
+        },
+        {
+            "№": 9,
+            "Savol": "Operatsion tizim nima?",
+            "Javob": [
+                "Kompyuterni boshqaruvchi dastur",
+                "Rasm chizuvchi dastur",
+                "Internet brauzer",
+                "Antivirus"
+            ]
+        },
+        {
+            "№": 10,
+            "Savol": "Quyidagilardan qaysi biri operatsion tizim emas?",
+            "Javob": ["Bitrix", "macOS", "Linux", "Windows"]
+        },
+        {
+            "№": 11,
+            "Savol": "Internetdagi veb-sahifalar qanday til yordamida yaratiladi?",
+            "Javob": ["HTML", "C++", "Python", "Word"]
+        },
+        {
+            "№": 12,
+            "Savol": "IP manzil nima uchun kerak?",
+            "Javob": [
+                "Tarmoqdagi qurilmani aniqlash uchun",
+                "Fayl nomlash uchun",
+                "Internet tezligini oshirish uchun",
+                "Parolni saqlash uchun"
+            ]
+        },
+        {
+            "№": 13,
+            "Savol": "“Firewall” dasturi nima qiladi?",
+            "Javob": [
+                "Tarmoqdagi kirishni himoya qiladi",
+                "Fayl siqadi",
+                "Video o‘ynaydi",
+                "Rasm tahrirlaydi"
+            ]
+        },
+        {
+            "№": 14,
+            "Savol": "“Phishing” deganda nimani tushunamiz?",
+            "Javob": [
+                "Soxta sahifa orqali ma’lumot o‘g‘irlash",
+                "Kompyuter o‘yini turi",
+                "Internetda qidiruv tizimi",
+                "Dasturiy xató"
+            ]
+        },
+        {
+            "№": 15,
+            "Savol": "Kompyuterning “operativ xotirasi” nima uchun kerak?",
+            "Javob": [
+                "Kompyuter ishlayotgan paytda dasturlar va ma’lumotlarni vaqtincha saqlash uchun",
+                "Uzoq muddatli saqlash uchun",
+                "Tarmoqni ulash uchun",
+                "Printerni boshqarish uchun"
+            ]
+        },
+        {
+            "№": 16,
+            "Savol": "“Server” so‘zi nimani anglatadi?",
+            "Javob": [
+                "Boshqa kompyuterlarga xizmat ko‘rsatuvchi kompyuter yoki dastur",
+                "Foydalanuvchi kompyuteri",
+                "Zaxira elektr energiyasi",
+                "Tarmoq kabeli"
+            ]
+        },
+        {
+            "№": 17,
+            "Savol": "LAN (Local Area Network) nima?",
+            "Javob": [
+                "Bir binoda yoki yaqin joylardagi kompyuterlarni o‘zaro bog‘laydigan mahalliy tarmoq",
+                "Faqat bitta kompyuterning ichki xotirasi",
+                "Sputnik orqali uzatiladigan global signal",
+                "Internet orqali butun dunyo bo‘ylab ulangan tarmoq"
+            ]
+        },
+        {
+            "№": 18,
+            "Savol": "IP manzilning asosiy ikki versiyasi qaysilar?",
+            "Javob": ["IPv4 va IPv6", "IPv3 va IPv5", "IPa va Ipb", "TCP va UDP"]
+        },
+        {
+            "№": 19,
+            "Savol": "“SSD” diskning afzalligi nimada?",
+            "Javob": [
+                "Ma’lumotlarni tezroq o‘qish va yozishida",
+                "Magnit plastinkalarda",
+                "Optik disklarda",
+                "Uzoq muddatli ishlaydi"
+            ]
+        },
+        {
+            "№": 20,
+            "Savol": "Ma’lumotlar bazasi (Database) nima uchun kerak?",
+            "Javob": [
+                "Ma’lumotlarni saqlash va boshqarish uchun",
+                "Grafik chizish uchun",
+                "Internet tezligini oshirish uchun",
+                "Kompyuter ekranini sozlash uchun"
+            ]
+        },
+        {
+            "№": 21,
+            "Savol": "BI (Business Intelligence) tizimlari nimani bajaradi?",
+            "Javob": [
+                "Ma’lumotlarni tahlil qilib qaror qabul qilishni osonlashtiradi",
+                "Kompyuter o‘yinlarini yaratadi",
+                "Elektr energiyasini tejaydi",
+                "Telefonlarni sinxronlashtiradi"
+            ]
+        },
+        {
+            "№": 22,
+            "Savol": "AI qaysi sohada qo‘llaniladi?",
+            "Javob": [
+                "Tibbiyot, moliya, transport, ta’lim va boshqalar",
+                "Faqat energetika sohasida",
+                "Faqat telefonlarda",
+                "Faqat davlat tizimlarida"
+            ]
+        },
+        {
+            "№": 23,
+            "Savol": "Big Data nima?",
+            "Javob": [
+                "Juda katta hajmdagi ma’lumotlar to‘plami",
+                "Server xotirasi",
+                "Kichik fayllar to‘plami",
+                "Faqat video fayllar"
+            ]
+        },
+        {
+            "№": 24,
+            "Savol": "AI qaysi texnologiyalar bilan chambarchas bog‘liq?",
+            "Javob": [
+                "Data Science, Machine Learning, Deep Learning",
+                "Grafik dizayn, video montaj",
+                "Internet marketing",
+                "Tarmoq xavfsizligi"
+            ]
+        },
+        {
+            "№": 25,
+            "Savol": "Sun’iy intellektning kelajakdagi asosiy maqsadi nima?",
+            "Javob": [
+                "Inson faoliyatini soddalashtirish va avtomatlashtirish",
+                "Insonlarni butunlay almashtirish",
+                "Faqat o‘yinlar yaratish",
+                "Ma’lumotlarni o‘chirish"
+            ]
+        },
+        {
+            "№": 26,
+            "Savol": "DWH tizimining asosiy maqsadi nima?",
+            "Javob": [
+                "Tashkilotdagi katta ma’lumotlarni saqlash, tahlil qilish va hisobot yaratish",
+                "Internetdan yuklab olish",
+                "Grafik chizish",
+                "Faqat matn saqlash"
+            ]
+        },
+        {
+            "№": 27,
+            "Savol": "WAN (Wide Area Network) nima?",
+            "Javob": [
+                "Butun dunyo yoki katta hududlarni qamrab oladigan keng tarmoq",
+                "Bir bino ichidagi kompyuterlarni bog‘laydigan tarmoq",
+                "Faqat simsiz tarmoq",
+                "Kompyuterning ichki xotirasi"
+            ]
+        },
+        {
+            "№": 28,
+            "Savol": "Quyidagi qurilmalardan qaysi biri kiritish qurilmasi hisoblanadi?",
+            "Javob": [
+                "Klaviatura, skaner",
+                "Printer, skaner",
+                "Skaner, monitor",
+                "UPS, klaviatura"
+            ]
+        },
+        {
+            "№": 29,
+            "Savol": "Quyidagi qurilmalardan qaysi biri chiqarish qurilmasidir?",
+            "Javob": [
+                "Printer, monitor",
+                "Klaviatura, printer",
+                "Skanner, monitor",
+                "Monitor, klaviatura"
+            ]
+        },
+        {
+            "№": 30,
+            "Savol": "“Algoritm” deganda nimani tushunasiz?",
+            "Javob": [
+                "Amallar ketma-ketligi",
+                "Kompyuter qismlari yig‘indisi",
+                "Matematik formulalar",
+                "Grafik interfeys"
+            ]
+        },
+        {
+            "№": 31,
+            "Savol": "Dashboard nima?",
+            "Javob": [
+                "Ma’lumotlarni vizual tarzda ko‘rsatish vositasi",
+                "Server apparati",
+                "Antivirus dasturi",
+                "Kompyuterning ichki xotirasi"
+            ]
+        },
+        {
+            "№": 32,
+            "Savol": "VPN nima?",
+            "Javob": [
+                "Xavfsiz tarmoq",
+                "Video fayl turi",
+                "Operatsion tizim",
+                "Bulut xizmati"
+            ]
+        },
+        {
+            "№": 33,
+            "Savol": "Router vazifasi nima?",
+            "Javob": [
+                "Tarmoq paketlarini yo‘naltirish",
+                "Kompyuter xotirasini tozalash",
+                "Fayl tahrirlash",
+                "Antivirus"
+            ]
+        },
+        {
+            "№": 34,
+            "Savol": "VLAN nima?",
+            "Javob": [
+                "Virtual tarmoq",
+                "Fizik server",
+                "SQL so‘rovi",
+                "Antivirus turi"
+            ]
+        },
+        {
+            "№": 35,
+            "Savol": "Machine Learning nima qiladi?",
+            "Javob": [
+                "Ma’lumotlardan o‘rganadi va qaror qabul qiladi",
+                "Serverni o'rranib, boshqaradi",
+                "O'qitish platformasi",
+                "SQL so‘rovini bajaradi"
+            ]
+        },
+        {
+            "№": 36,
+            "Savol": "Chatbot nima?",
+            "Javob": [
+                "Sun’iy intellekt asosida foydalanuvchi bilan tabiiy til orqali avtomatik muloqot qiluvchi dastur tizimi",
+                "Foydalanuvchi interfeysining vizual elementlarini yaratish uchun mo‘ljallangan grafik modul",
+                "Internet tarmoqlarida ma’lumot almashinuvini tezlashtiruvchi optimallashtirish vositasi",
+                "Ma’lumotlar bazasida murakkab SQL so‘rovlarini avtomatik shakllantiruvchi dastur"
+            ]
+        },
+        {
+            "№": 37,
+            "Savol": "HTML nima uchun ishlatiladi?",
+            "Javob": [
+                "Veb-sahifalarning tuzilmasi va tarkibini yaratish uchun belgilash tili",
+                "Ma’lumotlarni saqlash uchun ishlatiladigan baza tili",
+                "Internet xavfsizligini ta’minlovchi dastur",
+                "Server qurilmalarini boshqarish vositasi"
+            ]
+        },
+        {
+            "№": 38,
+            "Savol": "SSL sertifikatining asosiy vazifasi nimadan iborat?",
+            "Javob": [
+                "Foydalanuvchi va server o‘rtasidagi ma’lumot almashinuvini shifrlab, xavfsiz ulanishni ta’minlash",
+                "Internet sahifalarining yuklanish tezligini oshirish",
+                "Fayllarni arxivlash va hajmini kamaytirish",
+                "Monitorining rang sozlamalarini optimallashtirish"
+            ]
+        },
+        {
+            "№": 39,
+            "Savol": "Jira’da “Sprint” nima?",
+            "Javob": [
+                "Loyihani qisqa davrli iteratsiyalarga bo‘lib, jamoa tomonidan bajariladigan topshiriqlarni tizimli tarzda rejalashtirish",
+                "Foydalanuvchi interfeysini dizayn qilish jarayoni",
+                "Loyiha hisobotlarini chiqarish paneli",
+                "Loyihani yakunlash uchun umumiy vaqt belgilash"
+            ]
+        },
+        {
+            "№": 40,
+            "Savol": "Jira’da “Backlog” nima?",
+            "Javob": [
+                "Jamoa bajarishi kerak bo‘lgan barcha vazifalar va topshiriqlar ro‘yxatini vaqt va ustuvorlik bo‘yicha saqlaydigan markaziy joy",
+                "Loyiha vaqtini kuzatish vositasi",
+                "Loyiha a’zolarining ish yukini tahlil qiluvchi modul",
+                "Loyiha bosqichlarini umumiy rejalashtirish"
+            ]
+        },
+        {
+            "№": 41,
+            "Savol": "Jira’da “Kanban board” nima vazifa bajaradi?",
+            "Javob": [
+                "Jamoa ish jarayonini vizual tarzda kuzatish, vazifalarning qaysi bosqichda ekanligini aniq ko‘rsatish va ularni boshqarish imkonini beruvchi vosita",
+                "Sprintlar davomiyligini belgilash",
+                "Backlogdagi vazifalarni tahlil qilish",
+                "Epiclar bo‘yicha resurslarni ajratish"
+            ]
+        },
+        {
+            "№": 42,
+            "Savol": "HTML fayl qaysi kengaytmada saqlanadi?",
+            "Javob": [".html", ".css", ".db", ".exe"]
+        },
+        {
+            "№": 43,
+            "Savol": "CSS qaysi maqsadda ishlatiladi?",
+            "Javob": [
+                "Saytning dizayni",
+                "Saytni serverga ulash",
+                "Saytning ma’lumotlar bazasi",
+                "Brauzerni boshqarish"
+            ]
+        },
+        {
+            "№": 44,
+            "Savol": "IABS tizimi nima vazifa bajaradi?",
+            "Javob": [
+                "Bankning barcha moliyaviy operatsiyalari va mijoz ma’lumotlarini yagona tizimda avtomatlashtirish va boshqarish imkonini beradi",
+                "Faqat internet bank xizmatlarini ta’minlaydi",
+                "Faqat bank xodimlari ishini tezlashtiradi",
+                "Bank hisoblarini qo‘l bilan yuritishni osonlashtiradi"
+            ]
+        },
+        {
+            "№": 45,
+            "Savol": "Matn, rasm va grafiklarni birlashtirib, turli qurilmalarda o‘zgarmas ko‘rinishda saqlash imkonini beruvchi hujjat formati qaysi?",
+            "Javob": ["PDF", "TXT", "DOCX", "XLSX"]
+        },
+        {
+            "№": 46,
+            "Savol": "Jadvallar, formulalar va ma’lumotlarni tahlil qilish imkonini beruvchi elektron jadval formati qaysi?",
+            "Javob": ["XLS / XLSX", "DOCX", "PDF", "MP3"]
+        },
+        {
+            "№": 47,
+            "Savol": "Bir nechta fayl va papkalarni siqib, ularni bitta arxivda saqlash va oson uzatish imkonini beradi, qaysi format?",
+            "Javob": ["ZIP", "PDF", "HTML", "PNG"]
+        },
+        {
+            "№": 48,
+            "Savol": "Linux operatsion tizimining asosiy afzalligi nima?",
+            "Javob": [
+                "Bepul, ochiq kodli, server va tarmoq tizimlarida barqaror, xavfsiz va moslashuvchan ishlash imkonini beradi",
+                "Windows dasturlarini ishlatish imkonini beradi, lekin asosiy tizim sifatida ishlatilmaydi",
+                "Tezkor ishlash va resurslarni samarali boshqarish imkonini beradi",
+                "Moslashuvchan konfiguratsiya va turli qurilmalarda ishlash imkoniyatini beradi"
+            ]
+        },
+        {
+            "№": 49,
+            "Savol": "MacOS operatsion tizimi qaysi qurilmalarda ishlatiladi?",
+            "Javob": [
+                "Apple kompaniyasining Mac kompyuterlari va MacBook noutbuklarida ishlaydi",
+                "Faqat serverlar va ma’lumot markazlarida ishlaydi",
+                "Barcha mobil telefon va planshetlarda ishlaydi",
+                "Windows va Linux kompyuterlarda ishlaydi"
+            ]
+        },
+        {
+            "№": 50,
+            "Savol": "Kompyuter kutish (Sleep) rejimiga o‘tganda qanday jarayon sodir bo‘ladi?",
+            "Javob": [
+                "Kompyuter energiya sarfini kamaytiradi, barcha ishchi jarayonlar vaqtincha to‘xtaydi, lekin ish holati RAMda saqlanadi",
+                "Barcha fayllar va dasturlar o‘chiriladi va tizim to‘liq qayta yuklanadi",
+                "Faqat ekranning yorqinligi kamayadi, barcha dasturlar ishlashda davom etadi",
+                "Faqat internet aloqasi uziladi, boshqa resurslar ishlashda davom etadi"
+            ]
+        },
+        {
+            "№": 51,
+            "Savol": "Quyidagilardan qaysi biri bulutli saqlash xizmati emas?",
+            "Javob": ["Photoshop", "Google Drive", "OneDrive", "Dropbox"]
+        },
+        {
+            "№": 52,
+            "Savol": "Monolit va mikroservis tizimlari o‘rtasidagi asosiy farq nima?",
+            "Javob": [
+                "Mikroservislar mustaqil ishlaydi",
+                "Monolit tezroq ishlaydi",
+                "Mikroservislar bitta kodda yoziladi",
+                "Monolitlar bulutda ishlaydi"
+            ]
+        },
+        {
+            "№": 53,
+            "Savol": "“Deep Learning” nima?",
+            "Javob": [
+                "Ko‘p qatlamli neyron tarmoqlar asosida o‘rganish",
+                "Faqat ma’lumotlarni saqlash",
+                "Faqat video tahlil",
+                "Matn tahriri"
+            ]
+        },
+        {
+            "№": 54,
+            "Savol": "NLPning asosiy maqsadi nima?",
+            "Javob": [
+                "Kompyuterga inson tilini tushunishni o‘rgatish",
+                "Kompyuterlarni tarmoq orqali ulash",
+                "Grafik interfeys yaratish",
+                "Ma’lumotlar bazasini boshqarish"
+            ]
+        },
+        {
+            "№": 55,
+            "Savol": "NLP texnologiyasi asosan qaysi turdagi ma’lumot bilan ishlaydi?",
+            "Javob": [
+                "Inson tili – matn va nutq",
+                "Raqamli signallar",
+                "Grafik tasvirlar",
+                "Dasturiy kodlar"
+            ]
+        },
+        {
+            "№": 56,
+            "Savol": "Sun‘iy intellektda “Chatbot” nima?",
+            "Javob": [
+                "Foydalanuvchi bilan tabiiy til orqali muloqot qilish",
+                "Foydalanuvchining grafik dizaynini yaratish",
+                "Foydalanuvchi parolini himoya qilish",
+                "Foydalanuvchi IP manzilini aniqlash"
+            ]
+        },
+        {
+            "№": 57,
+            "Savol": "Chatbot javoblarini inson kabi tabiiy qilish uchun qanday usul qo‘llaniladi?",
+            "Javob": [
+                "Neyron tarmoqlar asosida til modelini o‘qitish",
+                "Tasodifiy tanlov yordamida javob yaratish",
+                "Qoidalar asosida qat’iy skriptlar tuzish",
+                "SQL ma’lumotlar bazasida so‘rov yuborish"
+            ]
+        },
+        {
+            "№": 58,
+            "Savol": "Scrum metodologiyasining asosiy maqsadi nimadan iborat?",
+            "Javob": [
+                "Loyihani kichik qismlarga bo‘lib, qisqa sikllarda (sprintlarda) natijani doimiy ravishda yaxshilab, jamoaviy hamkorlikni kuchaytirish",
+                "Dasturiy ta’minotni yagona, tugallangan shaklda ishlab chiqish va keyin sinovdan o‘tkazish",
+                "Loyiha hujjatlarini to‘liq avtomatlashtirish",
+                "Dasturlash jarayonini to‘liq sun’iy intellekt yordamida bajarish"
+            ]
+        },
+        {
+            "№": 59,
+            "Savol": "“Ping” buyrug‘ining tarmoq diagnostikasidagi asosiy vazifasi nimadan iborat?",
+            "Javob": [
+                "Ma’lum bir manzilga ICMP (Internet Control Message Protocol) paketi yuborib, aloqa mavjudligini va javob vaqtini aniqlash",
+                "Tarmoqdagi barcha qurilmalarni avtomatik tarzda IP manzili bo‘yicha qayta sozlash",
+                "Tarmoqdagi trafikni filtrlash va xavfsizlik devorini sozlash",
+                "Internet tezligini oshirish uchun paketlar yo‘nalishini o‘zgartirish"
+            ]
+        },
+        {
+            "№": 60,
+            "Savol": "BIOS nima va u kompyuter ish jarayonida qanday rol o‘ynaydi?",
+            "Javob": [
+                "Kompyuterning asosiy yuklanish jarayonini boshqaradigan quyi darajadagi dasturiy ta’minot",
+                "Operatsion tizimda fayllarni siqish uchun ishlatiladigan dastur",
+                "Internet ulanishini avtomatik sozlaydigan xizmat",
+                "Xotira modullarini tezlashtiruvchi apparat komponenti"
+            ]
+        },
+        {
+            "№": 61,
+            "Savol": "“Blue Screen” xatosi nimani bildiradi?",
+            "Javob": [
+                "Operatsion tizimda jiddiy xato yoki apparat muammosi tufayli tizim to‘xtaganini bildiradi",
+                "Internet ulanmaganligini bildiradi",
+                "Dastur yangilanayotganini bildiradi",
+                "Foydalanuvchi tizimdan chiqish tugmasini bosganini bildiradi"
+            ]
+        },
+        {
+            "№": 62,
+            "Savol": "Quyidagi ta’riflardan qaysi biri SSD va HDD orasidagi texnologik farqni to‘g‘ri ifodalaydi?",
+            "Javob": [
+                "SSD ma’lumotlarni flesh xotira chiplarida saqlaydigan tezkor saqlash qurilmasi, HDD esa aylanuvchi magnit plastinkalar yordamida ma’lumotlarni yozadi va o‘qiydi. Mexanik harakat tufayli tezligi past.",
+                "SSD ma’lumotlarni mexanik disklar yordamida saqlash qurilmasi, HDD esa elektron chiplar yordamida tezkor ishlaydi",
+                "HDD SSDdan tezroq ishlaydi, chunki unda ko‘proq mexanik qismlar mavjud",
+                "SSD va HDD o‘rtasida faqat sig‘im hajmi bo‘yicha farq mavjud, texnologiyasi bir xil"
+            ]
+        },
+        {
+            "№": 63,
+            "Savol": "UX va UI nima uchun kerak?",
+            "Javob": [
+                "Dastur yoki saytni foydalanuvchi uchun qulay va chiroyli qilish uchun",
+                "Kompyuterning tezligini oshirish uchun",
+                "Ma’lumotlarni saqlash uchun",
+                "Internet tezligini oshirish uchun"
+            ]
+        },
+        {
+            "№": 64,
+            "Savol": "Kompyuterda “driver” nima?",
+            "Javob": [
+                "Qurilma va operatsion tizim o‘rtasida aloqa o‘rnatadigan dastur",
+                "Internetni tezlashtiruvchi dastur",
+                "Kompyuterni sovituvchi qurilma",
+                "Fayllarni siqish uchun vosita"
+            ]
+        },
+        {
+            "№": 65,
+            "Savol": "Kompyuterda ikki operatsion tizim o‘rnatish mumkinmi?",
+            "Javob": [
+                "Ha, “dual boot” usuli orqali ikki tizimni bir kompyuterda o‘rnatish mumkin",
+                "Yo‘q, faqat bitta tizim ishlaydi",
+                "Faqat virtual mashinada mumkin",
+                "Faqat serverlarda mumkin"
+            ]
+        },
+        {
+            "№": 66,
+            "Savol": "API nima?",
+            "Javob": [
+                "Dasturlar o‘zaro ma’lumot almashishi uchun yaratilgan interfeys",
+                "Faqat internetda ishlaydigan dastur",
+                "Kompyuterning apparat qurilmasi",
+                "Foydalanuvchi uchun grafik oynali tizim"
+            ]
+        },
+        {
+            "№": 67,
+            "Savol": "Texnologik infrastruktura kontseptsiyasiga quyidagilardan qaysi komponentlar kiradi?",
+            "Javob": [
+                "Tashkilotning IT resurslari: serverlar, tarmoqlar, apparat va dasturiy ta’minotlar",
+                "Faqat dasturiy ta’minot va mobil ilovalar",
+                "Faqat foydalanuvchi interfeysi va dizayn elementlari",
+                "Internet tezligini oshirish va bulutli xotira"
+            ]
+        },
+        {
+            "№": 68,
+            "Savol": "Internet banking nima?",
+            "Javob": [
+                "Bank xizmatlarini internet orqali masofadan boshqarish tizimi",
+                "Faqat bank filialida ishlatiladigan ichki dastur",
+                "Internet tezligini oshiruvchi dastur",
+                "Faqat oflayn ishlaydigan to‘lov tizimi"
+            ]
+        },
+        {
+            "№": 69,
+            "Savol": "Dasturiy ta’minotni testlashning asosiy maqsadi nima?",
+            "Javob": [
+                "Dasturdagi xatolarni topish va uni yaxshilash",
+                "Dastur interfeysini yangilash",
+                "Dasturga yangi funksiyalar qo‘shish",
+                "Kodni qayta yozish orqali dizaynni o‘zgartirish"
+            ]
+        },
+        {
+            "№": 70,
+            "Savol": "Manual testing deganda nima tushuniladi?",
+            "Javob": [
+                "Testni inson o‘zi qo‘lda bajaradi",
+                "Faqat dizayn tekshiriladi",
+                "Test tizim tomonidan bajariladi",
+                "Test avtomatik bajariladi"
+            ]
+        },
+        {
+            "№": 71,
+            "Savol": "SSL sertifikat nima beradi?",
+            "Javob": [
+                "Ma’lumotlarni shifrlash va xavfsizlik",
+                "Internet tezligini oshirish",
+                "Monitor rangini sozlash",
+                "Fayllarni siqish"
+            ]
+        },
+        {
+            "№": 72,
+            "Savol": "DNS nima vazifa bajaradi?",
+            "Javob": [
+                "Domen nomini IP manzilga o‘zgartiradi",
+                "Internet tezligini oshiradi",
+                "Fayllarni boshqaradi",
+                "Printerni sozlaydi"
+            ]
+        },
+        {
+            "№": 73,
+            "Savol": "IT-analitikning asosiy vazifasi nimadan iborat?",
+            "Javob": [
+                "Maxsulotlar va xizmatlar uchun talablarni aniqlash",
+                "Texnologik xavfsizlikni ta’minlash",
+                "Programmalar yaratish",
+                "Maxsus qurilmalarni ishlab chiqish"
+            ]
+        },
+        {
+            "№": 74,
+            "Savol": "Tarmoq xavfsizligi uchun qanday choralar ko‘riladi?",
+            "Javob": [
+                "Ma’lumotlarni shifrlash",
+                "Elektron pochtani tekshirish",
+                "Har bir foydalanuvchi uchun parol tayinlash",
+                "Barkodlarni tekshirish"
+            ]
+        },
+        {
+            "№": 75,
+            "Savol": "Yuqori darajali dasturlash tillari nega keng qo‘llaniladi?",
+            "Javob": [
+                "Ularni o‘rganish oson va tushunarli",
+                "Faqat bitta platformada ishlaydi",
+                "Mashina tiliga o‘zgarmaydi",
+                "Kodlari faqat raqamli bo‘ladi"
+            ]
+        },
+        {
+            "№": 76,
+            "Savol": "Dasturning funksional talablari nima?",
+            "Javob": [
+                "Dastur yoki tizim bajarishi kerak bo‘lgan vazifalar",
+                "Dastur dizayni va interfeysining ko‘rinishi",
+                "Tizimning tezligi, xavfsizligi va barqarorligi",
+                "Server va tarmoq konfiguratsiyasi"
+            ]
+        },
+        {
+            "№": 77,
+            "Savol": "Dasturning nofunksional talablari nima?",
+            "Javob": [
+                "Tizimning sifat, tezlik, xavfsizlik kabi xususiyatlari",
+                "Dastur yoki tizim bajarishi kerak bo‘lgan vazifalar",
+                "Dasturiy interfeys dizayni",
+                "Faqat ma’lumotlar bazasi"
+            ]
+        },
+        {
+            "№": 78,
+            "Savol": "Ma’lumotlar bazasidagi katta hajmdagi ma’lumotlar qanday shaklda saqlanadi?",
+            "Javob": [
+                "Strukturali jadvallar va indekslar yordamida",
+                "Oddiy matn fayllarida",
+                "Faqat PDF fayllarda",
+                "Grafik rasm fayllarida"
+            ]
+        },
+        {
+            "№": 79,
+            "Savol": "Server loglari nima haqida ma’lumot beradi?",
+            "Javob": [
+                "Foydalanuvchi tizimga kirishlari, so‘rovlar va xatoliklar",
+                "Serverning apparat qismlarining joylashuvi",
+                "Faqat tarmoq adapterlarining MAC-manzillari haqida",
+                "Serverdagi apparat qurilmalarning ishlash harorati va voltaj o‘zgarishlari haqida"
+            ]
+        },
+        {
+            "№": 80,
+            "Savol": "Log nima?",
+            "Javob": [
+                "Dastur yoki tizim ishini yozib boradigan ma’lumotlar ro‘yxati",
+                "Kompyuter apparati",
+                "Internet tezligini oshiruvchi dastur",
+                "Fayl saqlash joyi"
+            ]
+        },
+        {
+            "№": 81,
+            "Savol": "Dasturning foydalanuvchi ko‘rmaydigan, server tomonida ishlaydigan va ma’lumotlarni boshqaruvchi dasturiy qism nima deb ataladi?",
+            "Javob": ["Backend", "Frontend", "API", "Database"]
+        },
+        {
+            "№": 82,
+            "Savol": "SEO nima vazifa bajaradi?",
+            "Javob": [
+                "Saytni qidiruv tizimlarida yuqori o‘rinlarga chiqaradi",
+                "Kompyuter apparatini boshqaradi",
+                "Faqat sayt dizaynini chizadi",
+                "Internet tezligini oshiradi"
+            ]
+        },
+        {
+            "№": 83,
+            "Savol": "Web-sahifani foydalanuvchiga ko‘rsatadigan qism qaysi?",
+            "Javob": ["Frontend", "Backend", "Server loglari", "API"]
+        },
+        {
+            "№": 84,
+            "Savol": "Open Source dastur deganda nimani tushunamiz?",
+            "Javob": [
+                "Foydalanuvchi tomonidan bepul ishlatiladigan va kodi ochiq dastur",
+                "Server dasturi",
+                "Faqat mobil ilovalar",
+                "Faqat kompaniya ichida ishlatiladigan dastur"
+            ]
+        },
+        {
+            "№": 85,
+            "Savol": "Cloud computing nima?",
+            "Javob": [
+                "Bulutli serverlarda ma’lumot saqlash va ishlatish",
+                "Faqat oflayn ishlash",
+                "Internet tezligini oshirish dasturi",
+                "Kompyuterning apparat qismlarini boshqarish"
+            ]
+        },
+        {
+            "№": 86,
+            "Savol": "Firewall qaysi turdagi xavfsizlikni ta’minlaydi?",
+            "Javob": [
+                "Tarmoq orqali kelayotgan va ketayotgan ma’lumotlarni nazorat qiladi",
+                "Foydalanuvchining kompyuterini jismoniy zararidan himoya qiladi",
+                "Dastur va fayllarga zarar yetkazilishidan himoya qiladi",
+                "Foydalanuvchi parollarini avtomatik boshqaradi"
+            ]
+        },
+        {
+            "№": 87,
+            "Savol": "Data Warehouse(DWH) tizimida saqlanadigan ma’lumot turi asosan qanday?",
+            "Javob": [
+                "Strukturali",
+                "Strukturalanmagan",
+                "Audio va video",
+                "Raw log fayllari"
+            ]
+        },
+        {
+            "№": 88,
+            "Savol": "Data Lake nima?",
+            "Javob": [
+                "Turli turdagi ma’lumotlarni raw formatda saqlash tizimi",
+                "Faqat strukturali ma’lumotlarni saqlash joyi",
+                "Faoliyat hisobotlari uchun maxsus jadval",
+                "Faqat video va audio fayllarni saqlash"
+            ]
+        },
+        {
+            "№": 89,
+            "Savol": "Data Warehouse (DWH) nima uchun ishlatiladi?",
+            "Javob": [
+                "Tozalanib va strukturaga solingan ma’lumotlarni tezkor hisobotlar uchun saqlash",
+                "Har xil turdagi raw ma’lumotlarni saqlash",
+                "Faqat matn fayllarini saqlash",
+                "Kompyuter apparatini boshqarish"
+            ]
+        },
+        {
+            "№": 90,
+            "Savol": "SQL tili nimaga ishlatiladi?",
+            "Javob": [
+                "Ma’lumotlar bazasini boshqarish",
+                "Video tahrir",
+                "Grafik interfeys yaratish",
+                "Internet tezligini oshirish"
+            ]
+        },
+        {
+            "№": 91,
+            "Savol": "BI tizimlari nima uchun ishlatiladi?",
+            "Javob": [
+                "Ma’lumotlarni tahlil qilib qaror qabul qilishni osonlashtirish",
+                "Internet tezligini oshirish",
+                "Kompyuter apparatini boshqarish",
+                "Programmalar yaratish"
+            ]
+        },
+        {
+            "№": 92,
+            "Savol": "Data Visualization nima?",
+            "Javob": [
+                "Ma’lumotlarni grafik ko‘rinishda ko‘rsatish",
+                "SQL so‘rovlarini bajarish",
+                "Matnni tahrirlash",
+                "Internet tezligini oshirish"
+            ]
+        },
+        {
+            "№": 93,
+            "Savol": "NLP nima?",
+            "Javob": [
+                "Inson tilini tushunish va ishlov berish",
+                "Kompyuter grafikasi chizish",
+                "Tarmoq xavfsizligini ta'minlash",
+                "Ma’lumotlarni siqish"
+            ]
+        },
+        {
+            "№": 94,
+            "Savol": "Deep Learning nima?",
+            "Javob": [
+                "Ko‘p qatlamli sun’iy neyron tarmoqlar yordamida murakkab ma’lumotlardan o‘z-o‘zini o‘rganish jarayoni",
+                "An’anaviy algoritmlarni qo‘llash orqali ma’lumotlarni qayta ishlash jarayoni",
+                "Ma’lumotlarni saqlash hajmini kamaytirish uchun optimallashtirish usuli",
+                "Kompyuter serverlarining ishlash samaradorligini oshirish uchun texnik sozlash"
+            ]
+        },
+        {
+            "№": 95,
+            "Savol": "Scrum yondashuvi loyihani boshqarishda qanday maqsadda qo‘llaniladi?",
+            "Javob": [
+                "Loyihani qisqa davrli bosqichlarga ajratib, jamoa ishini tezkor natijalarga yo‘naltirish uchun qo‘llaniladi",
+                "Dasturchilarga faqat kod yozish jarayonini avtomatlashtirish imkonini beradi",
+                "Ma’lumotlar bazasida so‘rovlarni tahlil qilish va optimallashtirish uchun ishlatiladi",
+                "Server apparatining texnik ishlashini nazorat qiluvchi tizim sifatida qo‘llaniladi"
+            ]
+        },
+        {
+            "№": 96,
+            "Savol": "NLP da Sentiment Analysis nima vazifa bajaradi?",
+            "Javob": [
+                "Matn yoki foydalanuvchi fikrining ijobiy, salbiy yoki neytral hissiy tonini aniqlash va tahlil qilish",
+                "Matn ichidagi muhim kalit so‘zlarni ajratib chiqarish va kategoriyalash",
+                "Foydalanuvchi xabarlarini avtomatik qismlarga ajratish va tartibga solish",
+                "Matnning mavzusini yoki kontekstini aniqlash orqali ma’lumotlarni saralash"
+            ]
+        },
+        {
+            "№": 97,
+            "Savol": "Load Testing nima vazifa bajaradi?",
+            "Javob": [
+                "Dastur yoki tizimning yuqori yuk ostida, ko‘p foydalanuvchi bilan ishlash sharoitida qanday ishlashini tekshirish va samaradorligini baholash",
+                "Dasturdagi ma’lumotlarni saqlash va qidiruv tizimini optimallashtirish",
+                "Ma’lumotlar bazasidagi so‘rovlar va ularning ishlash tezligini tekshirish",
+                "Foydalanuvchi interfeysi elementlarining vizual ko‘rinishini tekshirish"
+            ]
+        },
+        {
+            "№": 98,
+            "Savol": "Stress Testing nima vazifa bajaradi?",
+            "Javob": [
+                "Dastur yoki tizimni uning cheklovlaridan yuqori yuk ostida ishlatib, nosozliklar va barqarorlik darajasini aniqlash",
+                "Tizimning minimal ish yukida ishlashini tekshirish",
+                "Server apparatining ishlash tezligini oshirish",
+                "Loyihadagi vazifalarni tartibga solish"
+            ]
+        },
+        {
+            "№": 99,
+            "Savol": "Integration Testing nima vazifa bajaradi?",
+            "Javob": [
+                "Turli modul va komponentlarning birgalikda ishlashini va ularning o‘zaro bog‘liqligi hamda ma’lumot almashinuvi to‘g‘ri ekanligini tekshirish",
+                "Tizimdagi alohida modul yoki komponentlarning ishlashini mustaqil tarzda tekshiradi",
+                "Sprint davomida bajarilishi kerak bo‘lgan vazifalarni rejalashtiradi",
+                "Backlogdagi vazifalarni ustuvorlik bo‘yicha tartibga soladi"
+            ]
+        },
+        {
+            "№": 100,
+            "Savol": "CSS nima vazifa bajaradi?",
+            "Javob": [
+                "Veb-sahifa ranglari, shriftlari va ko‘rinishini sozlash imkonini beradi",
+                "Matn yozadi",
+                "Kompyuter apparatini boshqaradi",
+                "Loyihadagi vazifalarni tartibga soladi"
+            ]
+        },
+        {
+            "№": 101,
+            "Savol": "JavaScript nima qiladi?",
+            "Javob": [
+                "Saytga interaktivlik qo‘shadi",
+                "Saytni statik qiladi",
+                "Faqat rasm yuklaydi",
+                "Faqat serverni ishga tushiradi"
+            ]
+        },
+        {
+            "№": 102,
+            "Savol": "Git nima?",
+            "Javob": [
+                "Kod versiyasini boshqarish tizimi",
+                "Rasm tahrirlash dasturi",
+                "Antivirus",
+                "Internet brauzer"
+            ]
+        },
+        {
+            "№": 103,
+            "Savol": "“Bug” topilganda dasturchi nima qiladi?",
+            "Javob": [
+                "Xatoni tuzatish uchun kodni tekshiradi",
+                "Kompyuterni o‘chiradi",
+                "E’tibor bermaydi",
+                "Boshlash tugmasini bosadi"
+            ]
+        },
+        {
+            "№": 104,
+            "Savol": "“Responsive design” deganda nima tushuniladi?",
+            "Javob": [
+                "Sayt barcha ekran o‘lchamlariga moslashishi",
+                "Sayt faqat kompyuterda ishlashi",
+                "Saytning tez o‘chishi",
+                "Saytning faqat qora fon bilan ishlashi"
+            ]
+        },
+        {
+            "№": 105,
+            "Savol": "Veb-sahifa interaktiv bo‘lishi uchun nima kerak?",
+            "Javob": [
+                "HTML bilan tuzilma, CSS bilan dizayn va JavaScript bilan interaktivlik qo‘shish",
+                "Video va animatsiyalar qo‘shish, lekin ular foydalanuvchi harakatiga javob bermaydi",
+                "Sahifaga faqat matn va rasm qo‘yish",
+                "Faqat server yoki kompyuter orqali sahifani ko‘rsatish"
+            ]
+        },
+        {
+            "№": 106,
+            "Savol": "Ikki faktorli autentifikatsiya nima?",
+            "Javob": [
+                "Foydalanuvchining shaxsini ikki xil usul bilan tasdiqlash, masalan parol va SMS-kod orqali",
+                "Bir paroldan bir nechta saytlar uchun foydalanish",
+                "Ma’lumotlarni tashqi qurilmada saqlash",
+                "Tez-tez parolni o‘zgartirish"
+            ]
+        },
+        {
+            "№": 107,
+            "Savol": "Axborotni shifrlash nima?",
+            "Javob": [
+                "Axborotni kodga aylantirish",
+                "Keraksiz ma’lumotlarni o‘chirish",
+                "Zaxira nusxasini yaratish",
+                "Fayllarni siqish"
+            ]
+        },
+        {
+            "№": 108,
+            "Savol": "Malware nima?",
+            "Javob": [
+                "Tizimiga zarar yetkazish, ma’lumotlarni o‘g‘irlash yoki tizim ishlashini buzish uchun mo‘ljallangan zararli dastur",
+                "Foydalanuvchiga yordam beradigan oddiy dastur, masalan hujjat yoki jadval yaratish dasturi",
+                "Tizimni viruslardan himoya qiluvchi antivirus dasturi",
+                "Operatsion tizimni yangilash yoki optimallashtirish dasturi"
+            ]
+        },
+        {
+            "№": 109,
+            "Savol": "Virtual server nima vazifa bajaradi?",
+            "Javob": [
+                "Bitta fizik serverda bir nechta mustaqil ishlovchi serverlarni yaratish va ularni boshqarish imkonini beradi",
+                "Faqat fizik serverni tezlashtiradi",
+                "Internet tezligini oshiradi",
+                "Serverning texnik ishlashini nazorat qiluvchi tizim sifatida qo‘llaniladi"
+            ]
+        },
+        {
+            "№": 110,
+            "Savol": "Oracle-da SQL so‘rovlar nima vazifa bajaradi?",
+            "Javob": [
+                "Ma’lumotlar bazasidagi satr va ustunlar bilan ishlash, kerakli ma’lumotlarni tanlash, yangilash, o‘chirish va boshqarish imkonini beradi",
+                "Faqat foydalanuvchi interfeysini dizayn qilishga xizmat qiladi",
+                "Faqat ma’lumotlarni ko‘rsatish va chop etish bilan cheklangan",
+                "Faqat internet va tarmoq aloqasini boshqaradi"
+            ]
+        },
+        {
+            "№": 111,
+            "Savol": "BI tahlili qaysi bosqichlarni o‘z ichiga oladi?",
+            "Javob": [
+                "Ma’lumotlarni yig‘ish, tahlil qilish, vizualizatsiya va qaror qabul qilish",
+                "Faqat ma’lumotlarni yig‘ish va saqlash",
+                "Faqat grafik interfeys yaratish",
+                "Faqat foydalanuvchi parollarini boshqarish"
+            ]
+        },
+        {
+            "№": 112,
+            "Savol": "Kiberxavfsizlikning asosiy maqsadi nima?",
+            "Javob": [
+                "Tizim va ma’lumotlarni ruxsatsiz kirish va hujumlardan himoya qilish",
+                "Kompyuter va tarmoqlarni tezkor ishlashini ta’minlash",
+                "Foydalanuvchi interfeysini chiroyli qilish",
+                "Faqat antivirus va xavfsizlik dasturlarini o‘rnatish"
+            ]
+        },
+        {
+            "№": 113,
+            "Savol": "Kanban taxtasining asosiy vazifasi nima?",
+            "Javob": [
+                "Ish jarayonini vizual tarzda kuzatish va boshqarish",
+                "Faqat kod yozishni tezlashtirish",
+                "Internet tezligini oshirish",
+                "Foydalanuvchi interfeysini chiroyli qilish"
+            ]
+        },
+        {
+            "№": 114,
+            "Savol": "Data Lake va DWH farqi nima?",
+            "Javob": [
+                "Data Lake raw va har xil formatdagi ma’lumotlarni saqlaydi, DWH esa tozalanib, strukturaga solingan ma’lumotlar bilan ishlaydi",
+                "Data Lake faqat raqamli fayllar bilan ishlaydi, DWH esa video fayllar bilan",
+                "Data Lake tezroq ishlaydi, DWH esa sekinroq",
+                "Farqi yo‘q"
+            ]
+        },
+        {
+            "№": 115,
+            "Savol": "Mikroservis arxitekturaning asosiy afzalligi nima?",
+            "Javob": [
+                "Xizmatlar mustaqil ishlaydi va oson yangilanadi",
+                "Kodni tozalash qiyin",
+                "Faqat kichik loyihalar uchun mos",
+                "Bitta kod bazasida barcha funksiyalar"
+            ]
+        },
+        {
+            "№": 116,
+            "Savol": "Mikroservis arxitekturasi va Monolit arxitekturasi o‘rtasidagi asosiy farq nima?",
+            "Javob": [
+                "Monolit barcha komponentlar bitta kod bazasida ishlaydi, mikroservislar esa alohida mustaqil xizmatlar sifatida faoliyat yuritadi",
+                "Monolit faqat serverda ishlaydi, mikroservis faqat foydalanuvchi interfeysida",
+                "Ikkalasi ham bir xil",
+                "Mikroservis faqat ma’lumot saqlashga mos"
+            ]
+        },
+        {
+            "№": 117,
+            "Savol": "Cloud computing asosiy afzalligi nima?",
+            "Javob": [
+                "Ma’lumotlarni bulutda saqlash va istalgan joydan foydalanish",
+                "Faqat lokal kompyuterda ishlaydi",
+                "Internet tezligini oshirish",
+                "Faqat matn fayllari bilan ishlaydi"
+            ]
+        },
+        {
+            "№": 118,
+            "Savol": "Vector database nima uchun ishlatiladi?",
+            "Javob": [
+                "Embeddinglar yordamida o‘xshash ma’lumotlarni qidirish uchun",
+                "Rasm va matn fayllarini saqlash uchun",
+                "Faqat SQL so‘rovlarini bajarish uchun",
+                "Faqat raqamli hujjatlarni arxivlash uchun"
+            ]
+        },
+        {
+            "№": 119,
+            "Savol": "Semantic search nima?",
+            "Javob": [
+                "Matn ma’nosiga qarab qidirish",
+                "Matnni ranglarga ajratish",
+                "Faqat fayl nomlari orqali qidirish",
+                "Video fayllarni kompress qilish"
+            ]
+        },
+        {
+            "№": 120,
+            "Savol": "Vector database’lar an’anaviy SQL bazalardan nimasi bilan farq qiladi?",
+            "Javob": [
+                "Ma’lumotlarni vektor ko‘rinishida saqlab, o‘xshashlik qidirish imkonini beradi",
+                "Faqat matn fayllarini saqlaydi",
+                "Tezlikni oshirish uchun RAM ishlatmaydi",
+                "Faoliyat uchun internet talab qilmaydi"
+            ]
+        },
+        {
+            "№": 121,
+            "Savol": "IBM kompaniyasi tarixda birinchi qattiq diskni qaysi yilda chiqargan?",
+            "Javob": [1956, 1965, 1971, 1980]
+        },
+        {
+            "№": 122,
+            "Savol": "Eng keng tarqalgan sanoat ma’lumotlar bazasi boshqaruv tizimlari (MBBT / SUBD) qaysilar?",
+            "Javob": [
+                "MySQL, Oracle, Microsoft SQL Server",
+                "Linux, MySQL, Oracle",
+                "FTP, MySQL, Oracle",
+                "Excel, Oracle, Microsoft SQL Server"
+            ]
+        },
+        {
+            "№": 123,
+            "Savol": "Qaysi operatsion tizim ko‘proq zararli dasturlar nishoni hisoblangan?",
+            "Javob": ["Windows", "macOS", "Linux", "BSD"]
+        },
+        {
+            "№": 124,
+            "Savol": "Nima uchun Windows operatsion tizimi ko‘proq virus nishoni bo‘ladi?",
+            "Javob": [
+                "Bozor ulushi katta",
+                "Uning grafik interfeysi chiroyli",
+                "Foydalanuvchilar tez-tez yangilashadi",
+                "Antiviruslari avtomatik ishlaydi"
+            ]
+        },
+        {
+            "№": 125,
+            "Savol": "Linux qaysi turdagi operatsion tizim hisoblanadi?",
+            "Javob": ["Open-source", "Proprietary", "Closed-source", "Shareware"]
+        },
+        {
+            "№": 126,
+            "Savol": "Oracle DB qaysi turdagi ma’lumotlar bazasi sifatida ishlaydi?",
+            "Javob": [
+                "Jadval shaklida ma’lumotlarni saqlaydigan bazalar",
+                "Faqat matn fayllarida ma’lumot saqlaydigan bazalar",
+                "Key-value tizimida ishlaydigan bazalar",
+                "Blockchain texnologiyasida ishlaydigan bazalar"
+            ]
+        },
+        {
+            "№": 127,
+            "Savol": "Oracle DB’da so‘rovlarni bajarish uchun qaysi til ishlatiladi?",
+            "Javob": ["SQL", "HTML", "Python", "JavaScript"]
+        },
+        {
+            "№": 128,
+            "Savol": "SQL’da SELECT nima vazifa bajaradi?",
+            "Javob": [
+                "Ma’lumotlarni so‘raydi va chiqaradi",
+                "Ma’lumotlarni qo‘shadi",
+                "Ma’lumotlarni o‘chiradi",
+                "Jadval yaratadi"
+            ]
+        },
+        {
+            "№": 129,
+            "Savol": "DevOps nima?",
+            "Javob": [
+                "Dasturchilar va tizim administratorlari o‘rtasidagi jarayonlarni birlashtiruvchi amaliyot",
+                "Faqat dasturiy xatolarni tuzatish",
+                "Faqat server resurslarini oshirish",
+                "Faqat ma’lumotlar bazasini boshqarish"
+            ]
+        },
+        {
+            "№": 130,
+            "Savol": "GitHub nima?",
+            "Javob": [
+                "Onlayn kod saqlash va hamkorlik platformasi",
+                "Operatsion tizim",
+                "Ma’lumotlar bazasi",
+                "Antivirus dasturi"
+            ]
+        },
+        {
+            "№": 131,
+            "Savol": "Grafana qaysi turdagi dastur hisoblanadi?",
+            "Javob": [
+                "Open-source vizualizatsiya va monitoring platformasi",
+                "Ma’lumotlar bazasi",
+                "Antivirus dasturi",
+                "Operatsion tizim"
+            ]
+        },
+        {
+            "№": 132,
+            "Savol": "Middleware nima?",
+            "Javob": [
+                "Turli dasturlar o‘rtasida vositachi vazifasini bajaruvchi dastur",
+                "Antivirus dasturi",
+                "SQL server",
+                "Ma’lumotlar bazasi"
+            ]
+        },
+        {
+            "№": 133,
+            "Savol": "API Gateway ning asosiy vazifasi nima?",
+            "Javob": [
+                "Turli mikroservislar o‘rtasida xavfsiz va markazlashgan so‘rov boshqaruvi",
+                "Faqat server xotirasini boshqaradi",
+                "Foydalanuvchi interfeysini chiroyli qiladi",
+                "SQL so‘rovlarini bajaradi"
+            ]
+        },
+        {
+            "№": 134,
+            "Savol": "Python qaysi maqsadlarda ishlatiladi?",
+            "Javob": [
+                "Web dasturlash, Data Science, AI",
+                "Faqat printerlarni boshqarish",
+                "SQL optimizatsiyasi",
+                "Server apparatini sozlash"
+            ]
+        },
+        {
+            "№": 135,
+            "Savol": "GitLab va GitHub farqi?",
+            "Javob": [
+                "GitLab o‘z serveringizda ham ishlaydi, GitHub faqat cloud",
+                "GitHub faqat SQL serverda ishlaydi",
+                "Farqi yo‘q",
+                "Barchasi to'g'ri"
+            ]
+        },
+        {
+            "№": 136,
+            "Savol": "Continuous Integration (CI) nima vazifa bajaradi?",
+            "Javob": [
+                "Kod o‘zgarishlarini tez-tez birlashtirib, avtomatik test qiladi",
+                "Foydalanuvchi interfeysini yaratadi",
+                "SQL so‘rovlarini optimizatsiya qiladi",
+                "Server apparatini boshqaradi"
+            ]
+        },
+        {
+            "№": 137,
+            "Savol": "Continuous Deployment (CD) nima vazifa bajaradi?",
+            "Javob": [
+                "Kodni avtomatik serverga chiqaradi",
+                "SQL so‘rovlarini bajaradi",
+                "Faqat dastur interfeysini yangilaydi",
+                "Foydalanuvchi parollarini saqlaydi"
+            ]
+        },
+        {
+            "№": 138,
+            "Savol": "Project scope nima?",
+            "Javob": [
+                "Loyihaning doirasi va maqsadlari",
+                "Loyihaning byudjeti",
+                "Loyihada ishlatiladigan dastur",
+                "Loyihani bajarish vaqti"
+            ]
+        },
+        {
+            "№": 139,
+            "Savol": "Gantt diagrammasi nima uchun ishlatiladi?",
+            "Javob": [
+                "Loyihaning vazifalarini va vaqtini ko‘rsatish",
+                "Ishchilarni baholash",
+                "Byudjet hisoblash",
+                "Risklarni aniqlash"
+            ]
+        },
+        {
+            "№": 140,
+            "Savol": "General AI (Strong AI) ning asosiy xususiyati nima?",
+            "Javob": [
+                "Inson kabi turli sohalarda qaror qabul qila oladi",
+                "Hozirgi smartfonlarda mavjud",
+                "Faqat matematik vazifalarni yechadi",
+                "Faqat bitta vazifani bajaradi"
+            ]
+        },
+        {
+            "№": 141,
+            "Savol": "Jadvaldagi barcha ustunlarni tanlash uchun qaysi yozuv ishlatiladi?",
+            "Javob": [
+                "SELECT * FROM jadval",
+                "GET ALL FROM jadval",
+                "GET * FROM jadval",
+                "SHOW ALL FROM jadval"
+            ]
+        },
+        {
+            "№": 142,
+            "Savol": "Faqat “name” ustunini tanlash uchun to‘g‘ri yozuvni toping",
+            "Javob": [
+                "SELECT name FROM students",
+                "GET name FROM students",
+                "DISPLAY name FROM students",
+                "SHOW name FROM students"
+            ]
+        },
+        {
+            "№": 143,
+            "Savol": "Ma’lumotlarni faqat shartga mos satrlar bilan tanlash uchun qaysi so‘z ishlatiladi?",
+            "Javob": ["WHERE", "FROM", "ORDER BY", "GROUP BY"]
+        },
+        {
+            "№": 144,
+            "Savol": "Quyidagi so‘rov nima qiladi?\nSELECT * FROM employees WHERE age > 30;",
+            "Javob": [
+                "Faqat 30 yoshdan katta xodimlarni chiqaradi",
+                "Faqat 30 yoshli xodimlarni chiqaradi",
+                "Barcha xodimlarni chiqaradi",
+                "Jadvalni o‘chiradi"
+            ]
+        },
+        {
+            "№": 145,
+            "Savol": "Ma’lumotlarni tartib bilan chiqarish uchun qaysi so‘z ishlatiladi?",
+            "Javob": ["ORDER BY", "ARRANGE BY", "SORT BY", "GROUP BY"]
+        },
+        {
+            "№": 146,
+            "Savol": "“DISTINCT” so‘zi nima uchun ishlatiladi?",
+            "Javob": [
+                "Takroriy qiymatlarni olib tashlaydi",
+                "Natijalarni o‘chiradi",
+                "Jadvalni o‘zgartiradi",
+                "Natijalarni saralaydi"
+            ]
+        },
+        {
+            "№": 147,
+            "Savol": "Quyidagi so‘rov natijasini toping:\nSELECT COUNT(*) FROM students;",
+            "Javob": [
+                "Talabalar sonini chiqaradi",
+                "Talabalar ismlarini chiqaradi",
+                "Jadvalni o‘chiradi",
+                "Jadvalni yangilaydi"
+            ]
+        },
+        {
+            "№": 148,
+            "Savol": "“GROUP BY” operatori nima uchun ishlatiladi?",
+            "Javob": [
+                "Ma’lumotlarni guruhlash uchun",
+                "Ma’lumotlarni o‘chirish uchun",
+                "Ma’lumotlarni tartiblash uchun",
+                "Jadval yaratish uchun"
+            ]
+        },
+        {
+            "№": 149,
+            "Savol": "“LIKE” operatori nima uchun ishlatiladi?",
+            "Javob": [
+                "Ma’lumotlarni shartga o‘xshash tarzda qidirish uchun",
+                "Jadvalni o‘chirish uchun",
+                "Ustun nomini o‘zgartirish uchun",
+                "Ma’lumotlarni tartiblash uchun"
+            ]
+        },
+        {
+            "№": 150,
+            "Savol": "“IN” operatori nima uchun ishlatiladi?",
+            "Javob": [
+                "Bir nechta qiymatlardan biriga tengligini tekshirish uchun",
+                "Ma’lumotlarni o‘chirish uchun",
+                "Jadvalni yaratish uchun",
+                "Ma’lumotlarni tartiblash uchun"
+            ]
+        }
+    ],
+    "Axborot_xavfsizligi_departamenti": [{
+            "№": 1,
+            "Savol": "Server xonasiga o‘rnatilgan videokuzatuv tizimi qanday talablariga javob berishi kerak?",
+            "Javob": [
+                "Server xonasiga o‘rnatilgan videokuzatuv tizimi quyidagi talablarga javob berishi kerak: serverlar bilan bevosita jismoniy kontaktlar yozib borilishi; uzluksiz videokuzatuv amalga oshirilishi; oldi va orqa tarafini kechayu-kunduz nazorat qilish imkoniyati bo‘lishi; xodimlarning yuzlarini aniq farqlash imkoni bo‘lishi.",
+                "Videokuzatuv tizimi faqat server xonalariga kirish vaqtida amalga oshirilishi kerak.",
+                "Videokameralar faqat server xonalariga kirishni nazorat qilishga mo‘ljallanishi kerak.",
+                "Har qanday noqonuniy kirishni oldini olish uchun videoyozuvlar shifrlanishi zarur."
+            ]
+        },
+        {
+            "№": 2,
+            "Savol": "Server xonasi jihozlanishi qanday talablariga javob berishi kerak?",
+            "Javob": [
+                "Barcha javoblar to‘g‘ri.",
+                "Derazalar begona shaxslar kuzatishidan himoyalangan bo‘lishi, pardalar va ogohlantirish vositalari bilan jihozlangan bo‘lishi kerak.",
+                "Eshiklar mustahkam bo‘lishi, kodli qulf, yong‘inga qarshi himoya tizimi bo‘lishi kerak.",
+                "Xonaning devorlari mustahkam bo‘lishi kerak."
+            ]
+        },
+        {
+            "№": 3,
+            "Savol": "Axborot xavfsizligi va kiberxavfsizlik tavakkalchiligi deganda nima tushuniladi?",
+            "Javob": [
+                "Axborot tizimlariga tahdidlar natijasida moliyaviy zarar, operatsion faoliyatning izdan chiqishi yoki obro‘ga putur yetishi ehtimoli.",
+                "Kiberhujumlar natijasida har doim moliyaviy zarar yuzaga kelishi.",
+                "Faqat texnik nosozliklar yoki dasturiy ta’minotdagi xatoliklar tufayli ma’lumot yo‘qolishi holati.",
+                "Axborot xavfsizligi foydalanuvchi xatolari natijasida yuzaga keladigan ichki xatoliklardan iborat."
+            ]
+        },
+        {
+            "№": 4,
+            "Savol": "Axborot xavfsizligi va kiberxavfsizlik tavakkalchiliklarini boshqarish tizimi qaysi funksiyalarni o‘z ichiga oladi?",
+            "Javob": [
+                "Barcha javoblar to‘g‘ri.",
+                "Tavakkalchiliklarni aniqlash, yig‘ish, ro‘yxatga olish, baholash, kamaytirish choralari ko‘rish, monitoring va nazorat qilish; barqarorlikni ta’minlash ishlari.",
+                "Boshqarish bo‘yicha hisobot shakllantirish.",
+                "Tavakkalchiliklarni qayta ko‘rib chiqish."
+            ]
+        },
+        {
+            "№": 5,
+            "Savol": "Axborot aktivlaridan foydalanishda foydalanuvchi amalga oshirgan operatsiyalar to‘g‘risida qaysi ma’lumotlar qayd etilishi lozim?",
+            "Javob": [
+                "Barcha javoblar to‘g‘ri.",
+                "Bajarilgan operatsiya sanasi va vaqti, foydalanuvchi identifikatori.",
+                "Foydalanuvchi qurilmasining identifikatsiya ma’lumotlari (IP, MAC, qurilma nomi va boshqalar).",
+                "Tizimdagi faol sessiya davomida foydalanuvchining barcha amaliyotlari va harakatlari."
+            ]
+        },
+        {
+            "№": 6,
+            "Savol": "Bank axborot tizimlari va resurslaridan ruxsatsiz foydalanishni oldini olish uchun qanday choralar amalga oshiriladi?",
+            "Javob": [
+                "Barcha javoblar to‘g‘ri.",
+                "Foydalanuvchilarni identifikatsiya va autentifikatsiya qilish, muvaffaqiyatsiz kirishlarni aniqlash va bloklash.",
+                "Uzoq vaqt harakatsiz bo‘lganda sessiyani to‘xtatish, mulitisessiyani cheklash.",
+                "Axborot aktivlaridagi sozlamalarni o‘zgartirish imkoniyatini cheklash."
+            ]
+        },
+        {
+            "№": 7,
+            "Savol": "Masofaviy bank xizmatlarida foydalanuvchilarning harakati bo‘yicha qaysi ma’lumotlar elektron bayonnomalarda aks ettirilishi shart?",
+            "Javob": [
+                "Foydalanuvchilarning tizimga kirishi, axborot almashinuvi va ularning amallari to‘g‘risidagi to‘liq ma’lumotlar (IP, MAC, IMEI).",
+                "Tizimga kirishda ishlatilgan login va parol.",
+                "Foydalanuvchilarning ismi, familiyasi, tizimga kirgan va chiqqan vaqti.",
+                "Faqat umumiy statistik ko‘rsatkichlar (sessiya soni, minutlar)."
+            ]
+        },
+        {
+            "№": 8,
+            "Savol": "Bank tarmoq xavfsizligini ta’minlash uchun amalga oshirilishi lozim bo‘lgan asosiy ishlar nimalardan iborat?",
+            "Javob": [
+                "Barcha javoblar to‘g‘ri.",
+                "Kiber tahdidlarni real vaqtda kuzatish va bloklash, tarmoqda ruxsatsiz harakatlarni oldini olish, honeypot tizimlardan foydalanish.",
+                "Tarmoq qurilmalari va dasturiy ta’minotga ruxsatsiz kirish va o‘zgartirishni cheklash.",
+                "Tarmoqni segmentlarga bo‘lish, faoliyat ma’lumotlarini yig‘ish va tahlil qilish."
+            ]
+        },
+        {
+            "№": 9,
+            "Savol": "Xususiy virtual tarmoqlar (VPN) texnologiyasining mohiyati nimadan iborat?",
+            "Javob": [
+                "Barcha javoblar to‘g‘ri.",
+                "Boshqa tarmoq ustida bir yoki bir nechta virtual tarmoqlarni yaratish imkonini beradi.",
+                "Internet orqali ma’lumot almashuvini shifrlangan va xavfsiz kanalda amalga oshirish.",
+                "Ma’lumotlarni shifrlaydi, foydalanuvchi va server o‘rtasida xavfsiz tunnel yaratadi."
+            ]
+        },
+        {
+            "№": 10,
+            "Savol": "Bankning avtomatlashtirilgan tizimi ma’lumotlar bazasi serverlari va boshqa muhim serverlari tarmoqning qaysi segmentida joylashtirilishi lozim?",
+            "Javob": [
+                "Bankda alohida ajratilgan va muhofaza qilingan tarmoq segmentida.",
+                "Ichki LAN bilan Internetga to‘g‘ridan-to‘g‘ri bog‘langan umumiy segmentda.",
+                "Foydalanuvchilar uchun qulay bo‘lgan segmentda.",
+                "Foydalanuvchilar kompyuterlari bilan bir xil segmentda."
+            ]
+        },
+        {
+            "№": 11,
+            "Savol": "Mijozlar va hamkorlarni chalg‘itish maqsadida bankning ramziy belgi, ishbilarmonlik obro‘si va boshqa elementlardan noqonuniy foydalanish aniqlanganda qanday choralar ko‘riladi?",
+            "Javob": [
+                "Barcha javoblar to‘g‘ri.",
+                "O‘zbekistoni Respublikasi Markaziy bankiga bir kun ichida xabar berish.",
+                "Axborotlashtirish va telekommunikatsiya inspektsiyasiga bir kun ichida xabar berish.",
+                "Bankning rasmiy axborot manbalarida e’lon qilish."
+            ]
+        },
+        {
+            "№": 12,
+            "Savol": "Elektron raqamli imzo kalitlarini tarqalib ketishdan saqlash uchun qanday talablar qo‘yiladi?",
+            "Javob": [
+                "Maxsus yoki mobil qurilmalarda saqlanishi va ruxsatsiz nusxa olishdan himoyalangan bo‘lishi lozim.",
+                "Faqat ish joyidagi kompyuterda fayl ko‘rinishida saqlanishi kerak.",
+                "Faqat parol bilan himoyalangan fleshkada saqlanishi kerak.",
+                "Faqat mobil qurilmalarga yozilgan bo‘lishi kerak."
+            ]
+        },
+        {
+            "№": 13,
+            "Savol": "Elektron arxiv hujjatlari tarkibiga qaysi axborot resurslari kiritilishi lozim?",
+            "Javob": [
+                "Barcha javoblar to‘g‘ri.",
+                "Bank amaliyot kunidagi elektron ma’lumotlar bazasi, muddati tugagan shifrlash va EIM ochiq kalitlari.",
+                "Amaliyot kunlari dasturlari, muhim axborot infrastrukturasi bayonnomalari, noxush hodisalar bilan bog‘liq bayonnomalar (log fayllar).",
+                "Elektron pochta orqali qabul qilingan va uzatilgan to‘lov hujjatlari (buyruq, qaror) shifrlangan va shifrlanmagan ko‘rinishda."
+            ]
+        },
+        {
+            "№": 14,
+            "Savol": "Bank o‘z axborot aktivlariga masofadan ulanishda qanday xavfsizlik choralarini ko‘rishi lozim?",
+            "Javob": [
+                "Barcha javoblar to‘g‘ri.",
+                "Shaxsiy qurilmadan masofadan ulanishga ruxsat bermaslik.",
+                "VPN va ko‘p faktorli autentifikatsiya ishlatish.",
+                "Masofadan ishlashda foydalanuvchilar faqat zarur resurslardan foydalanishini ta’minlash va PAM orqali monitoring."
+            ]
+        },
+        {
+            "№": 15,
+            "Savol": "Man-in-the-middle (MITM) yoki \"Ortadagi odam\" kiberhujumida tajovuzkor...",
+            "Javob": [
+                "Barcha javoblar to‘g‘ri.",
+                "Aloqa kanaliga kirib yuborilgan xabarlarni ko‘rish imkoniyatiga ega bo‘ladi.",
+                "Aloqa kanaliga kirib xabarlarni o‘zgartirish imkoniyatiga ega bo‘ladi.",
+                "Aloqa kanaliga kirib xabarlarni o‘chirish imkoniyatiga ega bo‘ladi."
+            ]
+        },
+        {
+            "№": 16,
+            "Savol": "Zero-day hujumi nima?",
+            "Javob": [
+                "Dasturiy ta’minotning zaifligidan ishlab chiqaruvchi bartaraf etishdan oldin foydalanilgan hujum.",
+                "Yangilanishdan so‘ng test qilinmagan koddan foydalanilgan hujum.",
+                "Zararli dastur elektron pochta orqali yuborish yo‘li bilan amalga oshirilgan hujum.",
+                "Foydalanuvchi ma’lumotlarini taxmin qilish orqali amalga oshirilgan hujum."
+            ]
+        },
+        {
+            "№": 17,
+            "Savol": "Xesh summasining vazifasi nima?",
+            "Javob": [
+                "Fayl yoki ma’lumot uzatish jarayonida uning o‘zgarmaganini aniqlash.",
+                "Ma’lumot manbasini aniqlash va xatolik yoki soxtalikni tekshirish.",
+                "Fayl yoki ma’lumot uzatilganda shifrlanish va faqat ruxsat etilgan shaxs ochilishi.",
+                "Fayl yoki ma’lumot uzatishda manbasini aniqlash va yuboruvchini tasdiqlash."
+            ]
+        },
+        {
+            "№": 18,
+            "Savol": "Bankda konfidentsial ma’lumotlar va axborot aktivlaridan foydalanish monitoringi qanday tashkil etilishi lozim?",
+            "Javob": [
+                "Barcha javoblar to‘g‘ri.",
+                "SIEM yoki boshqa tizimlar orqali xavfsizlik hodisalarini tahlil qilish va monitoring qilish.",
+                "SOAR tizimlari orqali avtomatlashtirilgan javob berish jarayonini ta’minlash.",
+                "24/7 rejimida kuzatish, tahlil va barqarorlikni ta’minlash choralarini ko‘rish."
+            ]
+        },
+        {
+            "№": 19,
+            "Savol": "VLAN texnologiyasining mohiyati nimadan iborat?",
+            "Javob": [
+                "Jismoniy qurilmalarga bog‘liq bo‘lmagan holda virtual tarmoqlarni yaratish.",
+                "Jismoniy uskunalar asosida segment yaratish va foydalanuvchilarni birlashtirish.",
+                "Foydalanuvchilar faoliyatini nazorat qilish va jurnalga yozish.",
+                "Hodisa ta’sir qilgan jarayon uchun mas’ul rahbarni belgilash."
+            ]
+        },
+        {
+            "№": 20,
+            "Savol": "SIEM nima?",
+            "Javob": [
+                "Axborot xavfsizligi va kiberxavfsizlik hodisalarini tahlil qilish, monitoring va ogohlantirish tizimi.",
+                "Axborot hodisalarini yig‘ish va avtomatlashtirilgan javob berish tizimi.",
+                "Tarmoq foydalanuvchi va vositalarini boshqarish tizimi.",
+                "Viruslarni aniqlash va yo‘q qilishni tavsiya qiluvchi tizim."
+            ]
+        },
+        {
+            "№": 21,
+            "Savol": "SOAR nima?",
+            "Javob": [
+                "Axborot xavfsizligi va kiberxavfsizlik hodisalarini yig‘ish, tahlil va javob berish jarayonlarini avtomatlashtirish tizimi.",
+                "Axborot xavfsizligini monitoring va ogohlantirish tizimi.",
+                "Tarmoq foydalanuvchi va vositalarini boshqarish tizimi.",
+                "Viruslarni aniqlash va yo‘q qilishni tavsiya qiluvchi tizim."
+            ]
+        },
+        {
+            "№": 22,
+            "Savol": "Wi-Fi dan foydalanishda axborot xavfsizligi va kiberxavfsizlikni ta’minlash bo‘yicha qanday choralar ko‘rilgan bo‘lishi kerak?",
+            "Javob": [
+                "Barcha javoblar to‘g‘ri.",
+                "Foydalanuvchi identifikatsiyasi, client isolation va faqat internetga kirish ruxsati berish.",
+                "IPS/IDS yoki proxy filtr orqali shubhali va zararli trafikni bloklash, DoS hujumlarining oldini olish.",
+                "Himoyasiz ochiq Wi-Fi dan foydalanishni taqiqlash, real vaqt monitoring va hujumlarga urinishlarni kuzatish."
+            ]
+        },
+        {
+            "№": 23,
+            "Savol": "Bank va tashqi axborot tizimi o‘rtasida axborot almashinuvi uchun xavfsizlik talablari qanday belgilanadi?",
+            "Javob": [
+                "Barcha javoblar to‘g‘ri.",
+                "Ma’lumotlar ro‘yxati va shakli, bank tizimiga kirish imkoniyatlarini cheklash.",
+                "Autentifikatsiya va identifikatsiya, EIM, shifrlash va himoya vositalari.",
+                "Bank sirini saqlash, tarmoq xavfsizligi, xodim vazifalari va javobgarligi."
+            ]
+        },
+        {
+            "№": 24,
+            "Savol": "Elektron raqamli imzo kaliti sertifikatida qanday ma’lumotlar aks etadi?",
+            "Javob": [
+                "Barcha javoblar to‘g‘ri.",
+                "EIM yopiq kaliti egasining familiyasi, ismi va otasining ismi.",
+                "Xodimning lavozimi va shaxsini tasdiqlovchi hujjat, jismoniy shaxsning PINFL.",
+                "EIM ochiq kaliti, sertifikat beruvchi ro‘yxatga olish markazi va manzili."
+            ]
+        },
+        {
+            "№": 25,
+            "Savol": "Bank ICT infrastruktura va tizim administratorlarining harakatlari qaysi tizim yordamida nazorat qilinadi?",
+            "Javob": [
+                "PAM (Privileged Access Management) tizimi yordamida.",
+                "FIM (File Integrity Monitoring) tizimi yordamida.",
+                "WAF (Web Application Firewall) tizimi yordamida.",
+                "SOAR tizimi yordamida."
+            ]
+        },
+        {
+            "№": 26,
+            "Savol": "Axborot xavfsizligi va kiberxavfsizlikni ta’minlashda dasturiy-texnik vositalarga qanday talablar qo‘yiladi?",
+            "Javob": [
+                "Barcha javoblar to‘g‘ri.",
+                "Litsenziyalangan va sertifikatlangan bo‘lishi, aniq vazifalarni bajarish imkoniyati.",
+                "Yuqori ishonchlilik, 24/7 ishlash va monitoring tizimlari bilan integratsiya qila olish.",
+                "Ruxsat etilmagan foydalanuvchi tomonidan o‘zgartirilmasligi va xavfsizlik bo‘yicha tekshiruvlardan o‘tgan bo‘lishi."
+            ]
+        },
+        {
+            "№": 27,
+            "Savol": "Axborot tizimlarida foydalanuvchilarni autentifikatsiya qilishning qaysi usullari mavjud?",
+            "Javob": [
+                "Parol, token, biometrik usullar (barmoq izi, yuz tanish, iris skaneri) va ko‘p faktorli autentifikatsiya.",
+                "Faqat parol orqali.",
+                "Faqat token qurilmalar orqali.",
+                "Faqat biometrik usullar orqali."
+            ]
+        },
+        {
+            "№": 28,
+            "Savol": "Tizimga ruxsatsiz kirishni aniqlash va oldini olishda qanday vositalardan foydalaniladi?",
+            "Javob": [
+                "IDS/IPS tizimlari, firewall, SIEM va log monitoring tizimlari.",
+                "Faqat antivirus dasturlari.",
+                "Foydalanuvchilarni ogohlantirish va ichki qoidalar.",
+                "Qo‘lda jurnal yuritish va xodimlar kuzatuvi."
+            ]
+        },
+        {
+            "№": 29,
+            "Savol": "Ma’lumotlarni shifrlashning asosiy maqsadi nima?",
+            "Javob": [
+                "Ma’lumotlarni ruxsatsiz foydalanuvchilar uchun o‘qib bo‘lmas holga keltirish.",
+                "Ma’lumotlarni zaxira qilish va saqlash.",
+                "Ma’lumotlarni tahlil qilish va statistik hisoblash.",
+                "Ma’lumotlarni tezkor uzatish imkonini oshirish."
+            ]
+        },
+        {
+            "№": 31,
+            "Savol": "Bankda axborot xavfsizligi maqsadlariga erishish uchun axborot xavfsizligi sohasidagi vazifalar nimalardan iborat?",
+            "Javob": [
+                "Barcha javoblar to‘g‘ri.",
+                "Biznes, qonunchilik, xalqaro va davlat standartlari hamda O‘zbekiston Respublikasi boshqa normativ hujjatlar talablariga muvofiq axborot xavfsizligini boshqarish tizimini tashkil etish va rivojlantirish, axborot xavfsizligi sohasida mutaxassislar malakasini oshirish.",
+                "Bankning axborotlashtirish ob’ektlari va himoyalanadigan ma’lumotlarni turli tahdidlardan muhofaza qilish hamda axborot xavfsizligiga oid risklarni kamaytirish uchun axborot xavfsizligini boshqarishning samarali usullari va vositalarini joriy etish; axborotni qayta ishlash jarayonida xodimlar tomonidan axborotni himoya qilish talablariga rioya etilishi ustidan nazorat o‘rnatish.",
+                "Axborot xavfsizligi tahdidlarini o‘z vaqtida aniqlash va bartaraf etish maqsadida xavfsizlik holatini doimiy monitoringini ta’minlash; axborot xavfsizligi tahdidlariga tezkor choralar ko‘rish mexanizmi va shart-sharoitlarini yaratish; muhim axborotlashtirish ob’ektlarini himoyalanganlik darajasini oshirish va ularning ishonchli faoliyat ko‘rsatishini ta’minlash."
+            ]
+        },
+        {
+            "№": 32,
+            "Savol": "Qaysi ob’ektlar himoya qilinishi lozim bo‘lgan ob’ektlar tarkibiga kiradi?",
+            "Javob": [
+                "Barcha javoblar to‘g‘ri.",
+                "Konfidentsial ma’lumotlar saqlanadigan tashqi qurilmalar, texnologik jarayonlar, ishchi stansiyalar, serverlar, ma’lumotlar ombori (ma’lumotlarni saqlash tizimlari).",
+                "Bankomatlar, dasturiy ta’minotlar, axborot tizimlari, axborotni himoya qilish tizimlari.",
+                "Bankning korporativ tarmog‘i, Elektron raqamli imzo kalitlarini ro‘yxatga olish va sertifikatlash markazi."
+            ]
+        },
+        {
+            "№": 33,
+            "Savol": "Axborot xavfsizligi siyosati talablarini baholash jarayoni qanday masalalarni aniqlashga qaratilgan?",
+            "Javob": [
+                "Barcha javoblar to‘g‘ri.",
+                "Axborot xavfsizligi siyosatining amaldagi tashkiliy, texnologik va axborot infratuzilmalari hamda ularni Bankda yanada rivojlantirish istiqbollariga muvofiqligi.",
+                "Hodisa sabablarini va tahdidlarni paydo bo‘lish manbalarini, hodisa sodir bo‘lishida foydalanilgan zaifliklarni, hodisa yuzaga kelishi yoki uning ko‘lami va oqibatlariga ta’sir etgan xatoliklar va kamchiliklar.",
+                "Hodisaning sabablar va/yo‘ oqibatlari uchun aybdor shaxslar, hodisa oqibatlarining xarakteri, yetkazilgan ziyon yoki zarar miqdori, insidentlarga javob qaytarish samaradorligining bahosi."
+            ]
+        },
+        {
+            "№": 34,
+            "Savol": "Korporativ tarmoqning axborot xavfsizligini ta’minlash qaysi maqsadlar uchun zarur hisoblanadi?",
+            "Javob": [
+                "Barcha javoblar to‘g‘ri.",
+                "Axborot va tarmoq resurslarini tarmoqdan ruxsatsiz foydalanishga urinishlar va tarmoq hujumlaridan himoya qilish.",
+                "Axborot xavfsizligi sohasidagi normativ hujjatlar talablarini bajarish, korporativ tarmoq orqali uzatiladigan ma’lumotlarning konfidentsialligini ta’minlash.",
+                "Texnik ta’minotning alohida elementlari va alohida aloqa kanallarining ishlashi buzilgan hollarda korporativ tarmoq faoliyatini saqlab qolish."
+            ]
+        },
+        {
+            "№": 35,
+            "Savol": "Axborotni texnik himoya qilish vositalari -",
+            "Javob": [
+                "Axborotning hayotiy tsiklning barcha bosqichlarida (shakllantirish, uzatish, qabul qilish, o‘zgartirish, qayta ishlash va saqlash) uni himoya qilish va xavfsizligini ta’minlash uchun mo‘ljallangan apparat, dasturiy yoki apparat-dasturiy vositalar.",
+                "Axborot resurslarining foydalanuvchilar tomonidan to‘g‘ri qo‘llanilishini nazorat qilish, ularning huquqlarini cheklash va ichki tartib-qoidalarga rioya etilishini ta’minlashga qaratilgan ma’muriy va tashkiliy chora-tadbirlar majmuasi.",
+                "Axborot tizimlariga kirish manbalari, ulardan foydalanuvchilarning huquqlari va ruxsat darajasini boshqarishga qaratilgan identifikatsiya, autentifikatsiya va avtorizatsiya vositalari, shuningdek audit jurnallari orqali nazorat qilish texnologiyalari.",
+                "Bankning tashqi va ichki tarmoqlaridagi foydalanuvchilar harakatlarini nazorat qilish, ruxsatsiz kirishlarni cheklash va anomal faoliyatni aniqlash uchun mo‘ljallangan dasturiy vositalar."
+            ]
+        },
+        {
+            "№": 36,
+            "Savol": "Axborotni himoya qilish bo‘yicha texnik chora-tadbirlar qaysi asosiy yo‘nalishlarda amalga oshirilishi kerak?",
+            "Javob": [
+                "Barcha javoblar to‘g‘ri.",
+                "Tarmoq xavfsizligi, ruxsatsiz kirishdan himoya qilish.",
+                "Axborotni zararli dasturlardan himoya qilish, konfidentsial ma’lumotlarni kanallar orqali sizib chiqishidan himoya qilish.",
+                "Axborot xavfsizligi insidentlarini monitoring qilish va ularga javob qaytarish, axborot xavfsizligini ta’minlashni nazorat qilish va tahlil qilish."
+            ]
+        },
+        {
+            "№": 37,
+            "Savol": "Kryptografik tizim (kryptotizim) - ",
+            "Javob": [
+                "Axborotni kryptografik o‘zgartirishni va (yoki) boshqarishni, shu jumladan kryptografik kalitlarni tayyorlash va tarqatish jarayonini avtomatlashtirishni ta’minlovchi tashkiliy, texnikaviy va dasturiy vositalar majmui.",
+                "Kryptografik algoritmlardan foydalangan holda, shifrlaydigan, shifrni ochadigan, elektron imzolarni yaratadigan va tekshiradigan maxfiy belgilar ketma-ketligi.",
+                "Axborotni (ma’lumotlarni) buzishni oldini olish va ruxsatsiz foydalanishdan himoya qilish maqsadida axborotni (ma’lumotni) o‘zgartirishning matematik algoritmi.",
+                "Elektron hujjatda elektron raqamli imzo yaratilishini, elektron raqamli imzo haqiqiyligi tasdiqlanishini, elektron raqamli imzo ochiq va yopiq kalitlari yaratilishini ta’minlaydigan texnikaviy va dasturiy vositalar majmui."
+            ]
+        },
+        {
+            "№": 38,
+            "Savol": "Axborot xavfsizligining asosiy risklari quyidagilardan iborat:",
+            "Javob": [
+                "Axborotning yo‘qolishi, buzilishi, sizib chiqishi.",
+                "Texnik aralashuv, tarmoq uskunalarini ishlashdan chiqarish.",
+                "Axborotni buzib ko‘rsatish, hajmini kamaytirish, qayta kodlash.",
+                "Kompyuterlarda tez ishlashni ta’minlash, dasturlarni yangilab turish, foydalanuvchilarga qulay interfeys yaratish."
+            ]
+        },
+        {
+            "№": 39,
+            "Savol": "Bankning tarmoqlararo axborot almashinuvi qanday yo‘l bilan muhofazalanadi?",
+            "Javob": [
+                "Xususiy virtual tarmoqlar (VPN) orqali.",
+                "Barcha axborotni uzatish uchun aniq IP manzillar orqali.",
+                "Ma’lumotlarni almashish jarayonida ularni shifrlash orqali.",
+                "Tarmoqlararo axborot almashinuvi faqat internet orqali amalga oshiriladi."
+            ]
+        },
+        {
+            "№": 40,
+            "Savol": "Bankning barcha bo‘linmalari lokal hisoblash tarmog‘ida qanday yo‘l bilan bir-biridan ajratilishi lozim?",
+            "Javob": [
+                "VLAN – virtual local area network (virtual local tarmoq) hosil qilish yo‘li bilan.",
+                "Barcha axborot almashinuvi faqat lokal tarmoq (LAN) orqali o‘tkaziladi.",
+                "Barcha axborotni uzatish uchun aniq IP manzillar orqali xavfsiz aloqa ta’minlanadi.",
+                "Xususiy virtual tarmoqlar (VPN) orqali."
+            ]
+        },
+        {
+            "№": 41,
+            "Savol": "Bank axborot tizimlarida ma’lumotlarning konfidentsialligi nimani anglatadi?",
+            "Javob": [
+                "Ma’lumotlar faqat ruxsat berilgan shaxslar tomonidan ko‘rilishi va o‘zgartirilishi mumkinligi.",
+                "Ma’lumotlarning tezkor ravishda qayta ishlanishi.",
+                "Ma’lumotlarning saqlanish muddati.",
+                "Ma’lumotlarning tarqalishi va ommalashishi."
+            ]
+        },
+        {
+            "№": 42,
+            "Savol": "Axborot tizimlarida foydalanuvchi identifikatsiyasi va autentifikatsiyasi qanday maqsadda qo‘llaniladi?",
+            "Javob": [
+                "Foydalanuvchi haqiqiyligi va ruxsatlarini aniqlash uchun.",
+                "Ma’lumotlarni shifrlash uchun.",
+                "Foydalanuvchilarning hisob-kitobini yuritish uchun.",
+                "Ma’lumotlarni zaxira qilish uchun."
+            ]
+        },
+        {
+            "№": 43,
+            "Savol": "Server va ishchi stansiyalarni himoya qilish uchun qanday texnik choralar qo‘llaniladi?",
+            "Javob": [
+                "Antivirus dasturlari, firewall, kirish nazorati tizimlari.",
+                "Faqat fizik qulflar va eshiklar.",
+                "Foydalanuvchi parollari yoki PIN-kodlari.",
+                "Ma’lumotlarni qo‘lda saqlash."
+            ]
+        },
+        {
+            "№": 44,
+            "Savol": "Ma’lumotlarni rezervlashning asosiy maqsadi nima?",
+            "Javob": [
+                "Ma’lumotlarni yo‘qolishidan himoya qilish va tezkor tiklash imkonini yaratish.",
+                "Ma’lumotlarni shifrlash.",
+                "Ma’lumotlarni tahlil qilish.",
+                "Ma’lumotlarni tarqatish."
+            ]
+        },
+        {
+            "№": 45,
+            "Savol": "Axborot xavfsizligi insidentini aniqlash uchun qanday monitoring usullari qo‘llaniladi?",
+            "Javob": [
+                "Server jurnallari, IDS/IPS, SIEM tizimlari.",
+                "Faqat qo‘lda yozuvlar.",
+                "Foydalanuvchi hisobotlari.",
+                "Elektron pochta orqali xabarlar."
+            ]
+        },
+        {
+            "№": 46,
+            "Savol": "Kryptografiyada shifrlashning asosiy maqsadi nima?",
+            "Javob": [
+                "Ma’lumotlarni ruxsatsiz foydalanuvchilar uchun tushunarsiz qilish.",
+                "Ma’lumotlarni saqlash muddatini uzaytirish.",
+                "Ma’lumotlarni tahlil qilish.",
+                "Ma’lumotlarni uzatish tezligini oshirish."
+            ]
+        },
+        {
+            "№": 47,
+            "Savol": "Elektron raqamli imzo nima uchun qo‘llaniladi?",
+            "Javob": [
+                "Hujjatning haqiqiyligini va o‘zgarmasligini tasdiqlash uchun.",
+                "Hujjatni shifrlash uchun.",
+                "Hujjatni saqlash muddatini uzaytirish uchun.",
+                "Hujjatni tahlil qilish uchun."
+            ]
+        },
+        {
+            "№": 48,
+            "Savol": "Bank lokal tarmoqlarida VLAN nima maqsadda qo‘llaniladi?",
+            "Javob": [
+                "Bo‘limlar va foydalanuvchilarni tarmoqda alohida segmentlash uchun.",
+                "Hammasi ma’lumotlarni shifrlash uchun.",
+                "Ma’lumotlarni avtomatik rezervlash uchun.",
+                "Foydalanuvchilarni autentifikatsiya qilish uchun."
+            ]
+        },
+        {
+            "№": 49,
+            "Savol": "Tarmoq xavfsizligini ta’minlashda firewallning asosiy vazifasi nima?",
+            "Javob": [
+                "Ruxsatsiz kirishlarni bloklash va ma’lumot oqimini nazorat qilish.",
+                "Ma’lumotlarni shifrlash.",
+                "Serverlarni tezkorlik bilan qayta yuklash.",
+                "Foydalanuvchilarning parollarini saqlash."
+            ]
+        },
+        {
+            "№": 50,
+            "Savol": "IDS/IPS tizimlari nima uchun zarur?",
+            "Javob": [
+                "Tarmoqdagi tahdidlarni aniqlash va ularga javob qaytarish.",
+                "Ma’lumotlarni shifrlash uchun.",
+                "Hisob-kitobni yuritish uchun.",
+                "Ma’lumotlarni tarqatish uchun."
+            ]
+        },
+        {
+            "№": 51,
+            "Savol": "SIEM tizimi nima qiladi?",
+            "Javob": [
+                "Tarmoq va server jurnallarini tahlil qiladi, xavfli holatlarni aniqlaydi.",
+                "Ma’lumotlarni shifrlaydi.",
+                "Ma’lumotlarni saqlaydi.",
+                "Foydalanuvchi ro‘yxatini yuritadi."
+            ]
+        },
+        {
+            "№": 52,
+            "Savol": "Foydalanuvchi sessiyasini avtomatik bloklash nima uchun qo‘llaniladi?",
+            "Javob": [
+                "Sessiya vaqti tugaganda ma’lumot xavfsizligini ta’minlash uchun.",
+                "Ma’lumotlarni shifrlash uchun.",
+                "Server tezligini oshirish uchun.",
+                "Foydalanuvchi interfeysini qulay qilish uchun."
+            ]
+        },
+        {
+            "№": 53,
+            "Savol": "Axborot xavfsizligi siyosati nima uchun muhim?",
+            "Javob": [
+                "Bankda ma’lumotlarni muhofaza qilish va standartlar talablariga muvofiq faoliyatni ta’minlash uchun.",
+                "Ma’lumotlarni saqlash muddatini uzaytirish uchun.",
+                "Server tezligini nazorat qilish uchun.",
+                "Foydalanuvchi interfeysini qulay qilish uchun."
+            ]
+        },
+        {
+            "№": 54,
+            "Savol": "Foydalanuvchilarni ro‘yxatga olish va huquqlarini boshqarish nima uchun kerak?",
+            "Javob": [
+                "Foydalanuvchi kirish huquqlarini va mas’uliyatlarini aniqlash uchun.",
+                "Ma’lumotlarni shifrlash uchun.",
+                "Ma’lumotlarni tarqatish uchun.",
+                "Server tezligini nazorat qilish uchun."
+            ]
+        },
+        {
+            "№": 55,
+            "Savol": "Ma’lumotlarni kanallar orqali sizib chiqishdan himoya qilish uchun qanday choralar ko‘riladi?",
+            "Javob": [
+                "Shifrlash va virtual xususiy tarmoqlar (VPN).",
+                "Faqat fizik qulflar.",
+                "Ma’lumotlarni qo‘lda saqlash.",
+                "Server tezligini oshirish."
+            ]
+        },
+        {
+            "№": 56,
+            "Savol": "Bankda axborot xavfsizligi tahdidlarini aniqlash va kamaytirish uchun nima qilinadi?",
+            "Javob": [
+                "Har doim monitoring, audit va xavf tahlillari o‘tkaziladi.",
+                "Ma’lumotlar shifrlanadi.",
+                "Ma’lumotlar tarqatiladi.",
+                "Serverlar qayta yuklanadi."
+            ]
+        },
+
+        {
+            "№": 57,
+            "Savol": "Axborot xavfsizligini ta’minlashda foydalanuvchi parollari uchun qanday talablar bor?",
+            "Javob": [
+                "Murakkab va muntazam yangilanishi, qiyin topiladigan va unik bo‘lishi.",
+                "Faqat eng oddiy va oson parollar.",
+                "Barcha foydalanuvchilar uchun bir xil parol.",
+                "Parollar saqlanmaydi, foydalanuvchi ularni eslab turishi kerak."
+            ]
+        },
+        {
+            "№": 58,
+            "Savol": "Axborot xavfsizligini ta’minlashda foydalanuvchi ma’lumotlariga ruxsat darajalari qanday belgilanadi?",
+            "Javob": [
+                "Har bir foydalanuvchining vazifalari va mas’uliyatlariga muvofiq, minimal huquqlar prinsipi asosida.",
+                "Barcha foydalanuvchilar bir xil ruxsatlarga ega bo‘ladi.",
+                "Faqat administratorlar barcha ma’lumotlarga kirishi mumkin.",
+                "Ruxsatlar tasodifiy belgilanadi."
+            ]
+        },
+        {
+            "№": 59,
+            "Savol": "Axborot xavfsizligini monitoring qilish va auditning asosiy maqsadi nima?",
+            "Javob": [
+                "Tahdidlarni aniqlash, zaifliklarni bartaraf etish va xavfsizlik darajasini oshirish.",
+                "Ma’lumotlarni tarqatish va zaxiralash.",
+                "Foydalanuvchi ishini tezlashtirish.",
+                "Serverlarni tezkor qayta yuklash."
+            ]
+        },
+        {
+            "№": 60,
+            "Savol": "Axborot xavfsizligini ta’minlash bo‘yicha xodimlarni o‘qitish nimani maqsad qiladi?",
+            "Javob": [
+                "Xodimlarning axborot xavfsizligi bo‘yicha bilim va ko‘nikmalarini oshirish, tahdidlardan himoyalanishni ta’minlash.",
+                "Faqat texnik jihozlarni yangilashni o‘rgatadi.",
+                "Ma’lumotlarni shifrlash algoritmlarini tushuntiradi, lekin amalda ishlatishni o‘rgatmaydi.",
+                "Xodimlarga parollarni eslab qolishni o‘rgatadi."
+            ]
+        },
+
+        {
+            "№": 61,
+            "Savol": "Ma’lumotlarning yaxlitligi nimani anglatadi?",
+            "Javob": [
+                "Ma’lumotlar o‘zgarmasligi va ruxsatsiz o‘zgartirilmasligini ta’minlash.",
+                "Ma’lumotlarni tezkor qayta ishlash.",
+                "Ma’lumotlarni saqlash muddati.",
+                "Ma’lumotlarni tarqatish."
+            ]
+        },
+        {
+            "№": 62,
+            "Savol": "Bank axborot tizimlarida qanday xavf turlari mavjud?",
+            "Javob": [
+                "Kiberhujumlar, ichki xatolar, tabiiy ofatlar.",
+                "Faqat texnik nosozliklar.",
+                "Faqat xodimlarning xatolari.",
+                "Faqat viruslar."
+            ]
+        },
+        {
+            "№": 63,
+            "Savol": "Parol siyosati nimalardan iborat bo‘lishi kerak?",
+            "Javob": [
+                "Murakkab, unik va muntazam yangilanadigan parollar.",
+                "Oddiy va qisqa parollar.",
+                "Barchaga bir xil parol.",
+                "Parolsiz tizimlar."
+            ]
+        },
+        {
+            "№": 64,
+            "Savol": "Bank tizimlarida ikki faktorli autentifikatsiya nima uchun ishlatiladi?",
+            "Javob": [
+                "Xavfsizlikni oshirish va foydalanuvchi identifikatsiyasini mustahkamlash uchun.",
+                "Ma’lumotlarni shifrlash uchun.",
+                "Serverlarni tezlashtirish uchun.",
+                "Xodimlarni nazorat qilish uchun."
+            ]
+        },
+
+        {
+            "№": 65,
+            "Savol": "Firewallning asosiy vazifasi nima?",
+            "Javob": [
+                "Ruxsatsiz kirishlarni bloklash va ma’lumot oqimini nazorat qilish.",
+                "Ma’lumotlarni shifrlash.",
+                "Serverlarni tiklash.",
+                "Xodimlarni kuzatish."
+            ]
+        },
+        {
+            "№": 66,
+            "Savol": "IDS/IPS tizimlari nima uchun ishlatiladi?",
+            "Javob": [
+                "Tarmoqqa bo‘lgan tahdidlarni aniqlash va ularga javob qaytarish uchun.",
+                "Ma’lumotlarni shifrlash uchun.",
+                "Hisob-kitob yuritish uchun.",
+                "Ma’lumotlarni tarqatish uchun."
+            ]
+        },
+        {
+            "№": 67,
+            "Savol": "SIEM tizimi nima qiladi?",
+            "Javob": [
+                "Tarmoq va server jurnallarini tahlil qiladi, xavfli holatlarni aniqlaydi.",
+                "Ma’lumotlarni shifrlaydi.",
+                "Ma’lumotlarni saqlaydi.",
+                "Foydalanuvchi ro‘yxatini yuritadi."
+            ]
+        },
+        {
+            "№": 68,
+            "Savol": "VLAN nima maqsadda ishlatiladi?",
+            "Javob": [
+                "Bo‘limlar va foydalanuvchilarni tarmoqda alohida segmentlash uchun.",
+                "Ma’lumotlarni shifrlash uchun.",
+                "Ma’lumotlarni avtomatik zaxiralash uchun.",
+                "Foydalanuvchilarni autentifikatsiya qilish uchun."
+            ]
+        },
+        {
+            "№": 69,
+            "Savol": "Axborot xavfsizligi auditi nima uchun o‘tkaziladi?",
+            "Javob": [
+                "Boshqaruv va tizimlar xavfsizligini baholash uchun.",
+                "Ma’lumotlarni shifrlash.",
+                "Server tezligini oshirish.",
+                "Foydalanuvchilarni ro‘yxatdan o‘tkazish."
+            ]
+        },
+        {
+            "№": 70,
+            "Savol": "Ma’lumotlarni zaxiralashning asosiy maqsadi nima?",
+            "Javob": [
+                "Ma’lumotlarni yo‘qolishdan himoya qilish va tiklash imkonini yaratish.",
+                "Ma’lumotlarni shifrlash.",
+                "Ma’lumotlarni tahlil qilish.",
+                "Ma’lumotlarni tarqatish."
+            ]
+        },
+        {
+            "№": 71,
+            "Savol": "Axborot xavfsizligi siyosati nima uchun muhim?",
+            "Javob": [
+                "Boshqaruv standartlariga rioya qilish va himoya mexanizmlarini ta’minlash uchun.",
+                "Ma’lumotlarni saqlash muddatini uzaytirish uchun.",
+                "Server tezligini nazorat qilish uchun.",
+                "Foydalanuvchi interfeysini qulay qilish uchun."
+            ]
+        },
+        {
+            "№": 72,
+            "Savol": "Foydalanuvchi soddalashtirilgan parol ishlatsa nima bo‘ladi?",
+            "Javob": [
+                "Xavfsizlik tahdidi oshadi va tizim xavf ostida bo‘ladi.",
+                "Hech qanday oqibat bo‘lmaydi.",
+                "Server avtomatik qayta ishga tushadi.",
+                "Ma’lumotlar yo‘qoladi."
+            ]
+        },
+        {
+            "№": 73,
+            "Savol": "Ma’lumotlarning konfidensialligini ta’minlash uchun nima qilinadi?",
+            "Javob": [
+                "Ma’lumotlar faqat ruxsatli foydalanuvchilar tomonidan ko‘riladi va o‘zgartiriladi.",
+                "Ma’lumotlarni tezkor qayta ishlash.",
+                "Ma’lumotlarni tarqatish.",
+                "Ma’lumotlarni arxivlash."
+            ]
+        },
+        {
+            "№": 74,
+            "Savol": "Axborot xavfsizligi tahdidlarini kamaytirish uchun nima qilinadi?",
+            "Javob": [
+                "Monitoring, audit va xavf tahlillari o‘tkaziladi.",
+                "Ma’lumotlarni shifrlash.",
+                "Serverlarni tezlashtirish.",
+                "Foydalanuvchi interfeysini qulay qilish."
+            ]
+        },
+        {
+            "№": 75,
+            "Savol": "Foydalanuvchi identifikatsiyasi va autentifikatsiyasi nima uchun kerak?",
+            "Javob": [
+                "Foydalanuvchi haqiqiyligini va ruxsatlarini aniqlash uchun.",
+                "Ma’lumotlarni shifrlash.",
+                "Hisob-kitob yuritish.",
+                "Server tezligini oshirish."
+            ]
+        },
+        {
+            "№": 76,
+            "Savol": "Elektron raqamli imzo nima uchun ishlatiladi?",
+            "Javob": [
+                "Hujjatning haqiqiyligini va o‘zgarmasligini tasdiqlash uchun.",
+                "Hujjatni shifrlash uchun.",
+                "Hujjatni saqlash muddatini uzaytirish uchun.",
+                "Hujjatni tahlil qilish uchun."
+            ]
+        },
+        {
+            "№": 77,
+            "Savol": "Ma’lumotlar kanallardan sizib chiqishidan himoya qilish uchun qanday vositalar ishlatiladi?",
+            "Javob": [
+                "Shifrlash va VPN.",
+                "Faqat fizik qulflar.",
+                "Qo‘lda saqlash.",
+                "Server tezligini oshirish."
+            ]
+        },
+        {
+            "№": 78,
+            "Savol": "Axborot xavfsizligi bo‘yicha xodimlarni o‘qitish nima uchun zarur?",
+            "Javob": [
+                "Xodimlar xavfsizlik talablariga amal qilishini ta’minlash uchun.",
+                "Server tezligini oshirish uchun.",
+                "Ma’lumotlarni tarqatish uchun.",
+                "Foydalanuvchi interfeysini qulay qilish uchun."
+            ]
+        },
+        {
+            "№": 79,
+            "Savol": "Foydalanuvchi sessiyasini avtomatik bloklash nima uchun kerak?",
+            "Javob": [
+                "Sessiya vaqti tugaganda xavfsizlikni ta’minlash uchun.",
+                "Ma’lumotlarni shifrlash uchun.",
+                "Server tezligini oshirish uchun.",
+                "Foydalanuvchi interfeysini qulay qilish uchun."
+            ]
+        },
+        {
+            "№": 80,
+            "Savol": "Axborot xavfsizligini ta’minlashda foydalanuvchi parollariga qanday talablar qo‘yiladi?",
+            "Javob": [
+                "Murakkab, muntazam yangilanishi va unik bo‘lishi.",
+                "Faqat oddiy va osongina topiladigan bo‘lishi.",
+                "Barcha foydalanuvchilarga bir xil parol.",
+                "Parol saqlanmaydi, foydalanuvchi o‘zgartiradi."
+            ]
+        },
+        {
+            "№": 81,
+            "Savol": "Server va ishchi stansiyalarni himoya qilishda qanday choralar ko‘riladi?",
+            "Javob": [
+                "Antivirus, firewall va kirish nazorati tizimlari.",
+                "Faqat fizik qulflar.",
+                "Foydalanuvchi PIN-kodlari.",
+                "Ma’lumotlarni qo‘lda saqlash."
+            ]
+        },
+        {
+            "№": 82,
+            "Savol": "Axborot xavfsizligi insidentlarini aniqlashda qanday vositalar ishlatiladi?",
+            "Javob": [
+                "Server jurnallari, IDS/IPS, SIEM tizimlari.",
+                "Faqat qo‘lda yozuvlar.",
+                "Foydalanuvchi hisobotlari.",
+                "Email orqali ogohlantirishlar."
+            ]
+        },
+        {
+            "№": 83,
+            "Savol": "Axborot xavfsizligi auditi qaysi maqsadga xizmat qiladi?",
+            "Javob": [
+                "Tizim va siyosatni baholash uchun.",
+                "Ma’lumotlarni shifrlash.",
+                "Server tezligini nazorat qilish.",
+                "Foydalanuvchilarni ro‘yxatdan o‘tkazish."
+            ]
+        },
+        {
+            "№": 84,
+            "Savol": "Ma’lumotlar yaxlitligini saqlash nima uchun zarur?",
+            "Javob": [
+                "Ma’lumotlar o‘zgarmasligini va ruxsatsiz o‘zgartirilmasligini ta’minlash uchun.",
+                "Tezkor qayta ishlash.",
+                "Saqlash muddatini uzaytirish.",
+                "Ma’lumotlarni tarqatish."
+            ]
+        },
+        {
+            "№": 85,
+            "Savol": "Axborot xavfsizligi tahdidlarini kamaytirish uchun qanday jarayonlar mavjud?",
+            "Javob": [
+                "Monitoring, audit va xavf tahlillari.",
+                "Ma’lumotlarni shifrlash.",
+                "Serverlarni tezlashtirish.",
+                "Foydalanuvchi interfeysini qulay qilish."
+            ]
+        },
+        {
+            "№": 86,
+            "Savol": "Axborot xavfsizligini ta’minlash siyosati kim tomonidan belgilanadi?",
+            "Javob": [
+                "Boshqaruv va xavfsizlik bo‘limi tomonidan.",
+                "Faqat xodimlar tomonidan.",
+                "Faqat IT mutaxassislari tomonidan.",
+                "Foydalanuvchilar tomonidan."
+            ]
+        },
+        {
+            "№": 87,
+            "Savol": "Axborot xavfsizligi siyosatini buzgan xodimga nima bo‘ladi?",
+            "Javob": [
+                "Ma’muriy choralar ko‘riladi va ogohlantirish beriladi.",
+                "Hech qanday oqibat bo‘lmaydi.",
+                "Server avtomatik qayta ishga tushadi.",
+                "Ma’lumotlar yo‘qoladi."
+            ]
+        },
+        {
+            "№": 88,
+            "Savol": "Tarmoq xavfsizligini ta’minlashda qanday vositalar ishlatiladi?",
+            "Javob": [
+                "Firewall, IDS/IPS, VLAN.",
+                "Faqat antivirus.",
+                "Foydalanuvchi PIN-kodlari.",
+                "Ma’lumotlarni tarqatish."
+            ]
+        },
+        {
+            "№": 89,
+            "Savol": "Axborot xavfsizligi bo‘yicha xodimlarni o‘qitishda nima e’tibor beriladi?",
+            "Javob": [
+                "Xavfsizlik qoidalari, parol siyosati va tahdidlardan himoya choralari.",
+                "Server tezligi va apparat sozlamalar.",
+                "Ma’lumotlarni tahlil qilish.",
+                "Foydalanuvchi interfeysini qulay qilish."
+            ]
+        },
+        {
+            "№": 90,
+            "Savol": "Axborot xavfsizligini ta’minlashning umumiy maqsadi nima?",
+            "Javob": [
+                "Ma’lumotlarni himoya qilish, tizim ish faoliyatini ta’minlash va xavf tahdidlarni kamaytirish.",
+                "Server tezligini oshirish.",
+                "Foydalanuvchi interfeysini qulay qilish.",
+                "Ma’lumotlarni tezkor tarqatish."
+            ]
+        },
+
+        {
+            "№": 91,
+            "Savol": "Hakerlar tomonidan ishlatiladigan \"Trojan\" nima?",
+            "Javob": [
+                "Kompyuterga yashirincha o‘rnatilgan zararli dastur.",
+                "Shifrlovchi dastur.",
+                "Kompyuter virusi.",
+                "Ko‘plab so‘rovlar bilan serverni to‘lib-toshirish."
+            ]
+        },
+        {
+            "№": 92,
+            "Savol": "DDoS hujumi nima?",
+            "Javob": [
+                "Ko‘plab so‘rovlar bilan serverni to‘lib-toshirish.",
+                "Kompyuterga zararli kod kiritish.",
+                "Shaxsiy ma’lumotlarni o‘g‘irlash.",
+                "Tarmoqdagi barcha ma’lumotlarni shifrlash."
+            ]
+        },
+        {
+            "№": 93,
+            "Savol": "\"Social Engineering\" nima?",
+            "Javob": [
+                "Foydalanuvchini manipulyatsiya qilish orqali maxfiy ma’lumotlarni o‘g‘irlashga urinish.",
+                "Kompyuter viruslarini aniqlash.",
+                "Ma’lumotlarni internet orqali xavfsiz uzatish.",
+                "VLAN – virtual local area network hosil qilish."
+            ]
+        },
+        {
+            "№": 94,
+            "Savol": "Axborot xavfsizligi siyosati - bu",
+            "Javob": [
+                "Tashkilot yoki tashkilot xodimlari axborot resurslarini himoya qilish uchun kundalik amaliyotida amal qiladigan choralar, qoidalar va tamoyillar to‘plami.",
+                "Elektron hukumatni qurish, davlat organlari faoliyatini raqamlashtirish bilan bog‘liq choralar, qoidalar va tamoyillar to‘plami.",
+                "Axborot xavfsizligi sohasida huquqiy boshqarish, axborot xavfsizligining tashkiliy – ma’muriy ta’minoti, axborot xavfsizligi bo‘yicha standartlar.",
+                "Axborot resurslari va axborot tizimlaridan foydalanishni tartibga solish."
+            ]
+        },
+        {
+            "№": 95,
+            "Savol": "Axborot xavfsizligi siyosatining asosiy maqsadi nima?",
+            "Javob": [
+                "Axborot xavfsizligi tahdidlarni oldini olish yoki oqibatlarini minimalizatsiya qilish orqali bankni moddiy, jismoniy, ma’naviy va zarar yetkazilishidan himoya qilish.",
+                "Axborot resurslari va axborot tizimlaridan foydalanishni tartibga solish.",
+                "Axborot tizimlari va resurslarining axborot xavfsizligini ta’minlash uchun qo‘llaniladigan apparat, apparat-dasturiy hamda dasturiy vositalarni sertifikatlashni tartibga solish.",
+                "Muhim axborot infratuzilmasi ob’ektlarini toifalash va ularning yagona reestrini shakllantirishni tartibga solish."
+            ]
+        },
+        {
+            "№": 96,
+            "Savol": "Ikki faktorli autentifikatsiya (2FA — Two-Factor Authentication):",
+            "Javob": [
+                "Foydalanuvchini ikki turli xil autentifikatsiya ma’lumotlarini so‘rov yordamida identifikatsiya qilish usuli.",
+                "Maxsus algoritm asosida belgilar ketma-ketligidan iborat maxfiy kalitni buzuvchi komandalar ketma-ketligi.",
+                "Ob’ekt yoki subyektni unga berilgan identifikatorga mosligini tekshirish va belgilar ketma-ketligidan iborat maxfiy kodini tekshirish orqali aslligini aniqlash.",
+                "Ma’lumotlarni maxfiylashtirish va faqat maxsus kalit yordamida o‘qish."
+            ]
+        },
+        {
+            "№": 97,
+            "Savol": "Axborot xavfsizligi markazi qanday vazifalarni bajaradi?",
+            "Javob": [
+                "Axborot xavfsizligi va kiberxavfsizlikni tashkil qilish, boshqarish va nazorat qilishni amalga oshiradi, axborotni muhofaza qilish choralarini belgilaydi va joriy etadi. Shu bilan birga, kiberhujumlar va noxush hodisalarni aniqlash, tahlil qilish va bartaraf etish, konfidentsial ma’lumotlarni himoya qilishni ta’minlaydi hamda axborot tizimlarining uzluksiz ishlashini nazorat qiladi.",
+                "Bankning axborot tizimlari va infratuzilmasini yaratish, rivojlantirish hamda ularning uzluksiz va xavfsiz ishlashini ta’minlaydi. Shu bilan birga, serverlar va tarmoqlarga xizmat ko‘rsatish, ma’lumotlar bazalarini boshqarish, foydalanuvchilarga texnik yordam ko‘rsatish hamda yangi texnologiyalarni joriy etish bilan shug‘ullanadi.",
+                "Bankga taalluqli bo‘lgan konfidentsial ma’lumotlar, shu jumladan bank sirini tashkil etuvchi va shaxsga doir ma’lumotlar ro‘yxatini belgilaydi va uning aktualiligini ta’minlaydi.",
+                "Ishchi stansiyalar va boshqa hisoblash texnikalarining operatsion tizimi, antivirus dasturi va boshqa dasturiy o‘zgartirishlarni test-sinovdan o‘tkazadi va tizimlarni test-sinov yakuniga ko‘ra ishga tushiradi. Ma’lumotlar bazasiga kiritiladigan barcha dasturiy o‘zgartirishlar avval test-sinov serverida tekshiriladi va ijobiy natija olinsa ishchi serverga joriy etiladi."
+            ]
+        },
+        {
+            "№": 98,
+            "Savol": "Axborot aktivlari deganda nima tushuniladi?",
+            "Javob": [
+                "Axborot aktivlari — bank faoliyati uchun muhim bo‘lgan ma’lumotlar (mijoz ma’lumotlari, operatsion ma’lumotlar, dasturiy ta’minot, ma’lumotlar bazalari, hodisalar jurnallari va boshqalar) hamda ularni saqlash, uzatish, qayta ishlash va muhofaza qilishga xizmat qiluvchi barcha resurslar (axborot tizimlari va resurslari, serverlar, ma’lumotlar omborlari, aloqa kanallari va dasturiy ilovalar).",
+                "Axborot aktivlari — bank faoliyatida qo‘llaniladigan faqat texnik vositalar va uskuna (kompyuterlar, serverlar, tarmoq qurilmalari, aloqa vositalari va boshqalar) hisoblanadi.",
+                "Axborot aktivlari — faqat mijozlar ma’lumotlari va bank operatsiyalariga oid hisobotlardan tashkil topgan ma’lumotlar to‘plamidir.",
+                "Axborot aktivlari — bankning moddiy va moliyaviy resurslari (binolar, uskuna, xizmat vositalari, avtotransport va boshqalar) hisoblanib, ularning axborot xavfsizligi tizimiga aloqasi yo‘q."
+            ]
+        },
+        {
+            "№": 99,
+            "Savol": "Axborot xavfsizligi noxush hodisasi nima?",
+            "Javob": [
+                "Axborot xavfsizligining kutilmagan voqealari bo‘lib, ushbu voqealar tufayli axborotning oshkor bo‘lishi va xavfsizlikka tahdidlar ehtimoli.",
+                "Axborot tizimlarining yangilanishi yoki texnik xizmat ko‘rsatish paytida yuzaga keladigan tabiiy jarayon.",
+                "Axborot tizimlaridan foydalanishdagi odatiy ish jarayonlari.",
+                "Axborot tizimlarini muhofaza qilish bo‘yicha rejalashtirilgan choralar yig‘indisi."
+            ]
+        },
+        {
+            "№": 100,
+            "Savol": "Shaxsga doir ma’lumotlar deganda nima tushuniladi?",
+            "Javob": [
+                "Muayyan jismoniy shaxsga taalluqli bo‘lgan yoki uni identifikatsiya qilish imkonini beruvchi, elektron, qog‘ozda va boshqa modda shakllarida qayd etilgan axborot.",
+                "Muayyan shaxsga taalluqli bo‘lgan va faqat elektron shaklda qayd etilgan axborot.",
+                "Muayyan shaxsga taalluqli bo‘lgan va faqat qog‘ozda qayd etilgan axborot.",
+                "Muayyan shaxsning faqat ish joyidagi vazifalari va xizmat faoliyatiga oid ma’lumotlar."
+            ]
+        },
+        {
+            "№": 101,
+            "Savol": "Bankning axborot xavfsizligi siyosati deganda nima tushuniladi?",
+            "Javob": [
+                "Barcha javoblar to‘g‘ri.",
+                "Bankning axborot xavfsizligi siyosati — bu bank va xodimlarining axborot resurslarini himoya qilish uchun kundalik amaliyotida amal qiladigan choralar, qoidalar va tamoyillar to‘plamidir.",
+                "Axborot siyosatida barcha tizimlar va resurslarda xavfsizlik va kiberxavfsizlik talablarini belgilaydi.",
+                "Axborot xavfsizligi siyosati bankda xavfsizlikni boshqarish tizimini yaratish uchun asos bo‘ladi."
+            ]
+        },
+        {
+            "№": 102,
+            "Savol": "Bankda texnik vositalardan foydalanganda noxush hodisalarni oldini olish uchun nima qilish kerak?",
+            "Javob": [
+                "Barcha javoblar to‘g‘ri.",
+                "Texnik vositalardan ruxsatsiz foydalanishni taqiqlash.",
+                "Monitoring va hodisalarning elektron bayonlarini arxivda saqlash va ruxsatsiz o‘zgartirishdan himoya qilish.",
+                "Tizimlarni kiberxavfsizlik talablariga muvofiq ekspertizadan o‘tkazish."
+            ]
+        },
+        {
+            "№": 103,
+            "Savol": "Boshqa tashkilotlarning bank ma’lumotlar bazasiga ulanish qanday amalga oshirilishi kerak?",
+            "Javob": [
+                "Faqatgina web-service (API) orqali.",
+                "To‘g‘ridan-to‘g‘ri (DB Link) orqali.",
+                "Xususiy virtual tarmoqlar (VPN) orqali.",
+                "Web-service (API) yoki to‘g‘ridan-to‘g‘ri (DB Link) orqali."
+            ]
+        },
+        {
+            "№": 104,
+            "Savol": "Bankning lokal tarmog‘i tashqi tarmoqlardan qanday muhofaza qilinadi?",
+            "Javob": [
+                "Tarmoqara ekran (Firewall) qurilmalari yordamida.",
+                "Xususiy virtual tarmoqlar (VPN) yordamida.",
+                "Tahdidlarni aniqlash va oldini olish tizimi (IDS/IPS) yordamida.",
+                "Virtual lokal tarmoq (VLAN) texnologiyasi yordamida."
+            ]
+        },
+        {
+            "№": 105,
+            "Savol": "Bankda antivirus himoyasini tashkil etishda nima ta’minlanishi kerak?",
+            "Javob": [
+                "Barcha javoblar to‘g‘ri.",
+                "Litsenziyaga ega antivirus dasturlaridan foydalanish va ularning amal qilish muddatini ta’minlash.",
+                "Antivirus dasturlarini markazlashgan boshqarish; bazalarni har kuni yangilash.",
+                "Barcha hisoblash vositalariga antivirus dasturlarini o‘rnatish."
+            ]
+        },
+        {
+            "№": 106,
+            "Savol": "Bankga tegishli bo‘lmagan kompyuter uskuna bank korporativ tarmog‘iga qanday ulangan bo‘lishi kerak?",
+            "Javob": [
+                "Axborot xavfsizligi markazi bilan kelishilgan holda bank rahbariyatining ruxsati bilan.",
+                "Axborot texnologiyalari departamenti bilan kelishilgan holda rahbar ruxsati bilan.",
+                "Har bir bo‘lim mustaqil qaror asosida.",
+                "Markaz rahbarining og‘zaki ko‘rsatmasi asosida."
+            ]
+        },
+        {
+            "№": 107,
+            "Savol": "Bankning internet tarmog‘i orqali ulanuvchi tizimlar va resurslar qanday himoyalanishi kerak?",
+            "Javob": [
+                "Barcha javoblar to‘g‘ri.",
+                "IDS/IPS yordamida.",
+                "WAF (Web Application Firewall) yordamida.",
+                "Anti-DDoS yordamida."
+            ]
+        },
+        {
+            "№": 108,
+            "Savol": "Bank uchinchi shaxslar bilan ishlashda xavfsizlikni qanday ta’minlaydi?",
+            "Javob": [
+                "Barcha javoblar to‘g‘ri.",
+                "Ma’lumotlardan foydalanish huquqini berishdan oldin xavf darajasini baholash va NDA imzolash.",
+                "Faqat kerakli ma’lumotlarga kirish ruxsatini berish.",
+                "Har bir xodim uchun alohida akkaunt yaratish va 2FA qo‘llash."
+            ]
+        },
+        {
+            "№": 109,
+            "Savol": "Elektron raqamli imzo kaliti sertifikatining amal qilish muddati va uzaytirilishi qanday?",
+            "Javob": [
+                "24 oydan oshmasligi, maksimal ikki marta uzaytirilishi mumkin.",
+                "12 oydan oshmasligi, maksimal ikki marta uzaytirilishi mumkin.",
+                "5 yildan oshmasligi, uzaytirilishi mumkin emas.",
+                "Faqat bir marta beriladi, muddati cheklanmagan."
+            ]
+        },
+        {
+            "№": 110,
+            "Savol": "Elektron pochtadagi zararli kodlarni tekshirish qaysi tizim yordamida amalga oshiriladi?",
+            "Javob": [
+                "Sandbox tizimi yordamida.",
+                "Antivirus dasturi yordamida.",
+                "FIM (File Integrity Monitoring) tizimi yordamida.",
+                "SOAR (Security Orchestration, Automation and Response) tizimi yordamida."
+            ]
+        },
+        {
+            "№": 111,
+            "Savol": "Axborot xavfsizligi hodisasi nima?",
+            "Javob": [
+                "Axborot xavfsizligining yagona yoki bir qator kutilmagan voqealari, bu orqali axborotning oshkor bo‘lishi va xavfsizlikka tahdidlar ehtimoli.",
+                "Ob’ekt yoki subyektning identifikatorga mosligini tekshirish jarayoni.",
+                "Maxfiy kalitni axborotga qo‘shish (shifrlash) jarayoni.",
+                "Har bir xodim uchun alohida akkaunt va 2FA jarayoni."
+            ]
+        },
+        {
+            "№": 112,
+            "Savol": "Bankda axborot xavfsizligi hodisalarini boshqarishning asosiy maqsadlari?",
+            "Javob": [
+                "Barcha javoblar to‘g‘ri.",
+                "Yo‘qotish va zararlarni minimalizatsiya qilish.",
+                "Tahdidlarni lokalizatsiya qilish va oqibatlarini bartaraf etish.",
+                "Zaifliklarni baholash va takrorlanish xavfini kamaytirish."
+            ]
+        },
+        {
+            "№": 113,
+            "Savol": "Axborot xavfsizligi hodisasini tahlil qilishda nima aniqlanishi kerak?",
+            "Javob": [
+                "Barcha javoblar to‘g‘ri.",
+                "Tahdidlarning xususiyatlari va oxirgi davrda uchrash chastotasi, chora-tadbirlar va natijasi.",
+                "Hodisa sabab va manbalari, zaifliklar, oqibatlar va xatoliklar.",
+                "Hodisa sabab/oqibatlari, aybdorlar, yetkazilgan zarar va javob samaradorligi."
+            ]
+        },
+        {
+            "№": 114,
+            "Savol": "Axborot xavfsizligini boshqarish tizimiga to‘g‘ri tarifni tanlang.",
+            "Javob": [
+                "Biznes-risklarni baholashga asoslangan, xavfsizlikni shakllantirish, joriy etish, faoliyat yuritish, monitoring, tahlil, xizmat ko‘rsatish va takomillashtirishga qaratilgan umumiy boshqaruv tizimining qismi.",
+                "Kutilmagan voqealarni boshqarish.",
+                "Resurslardan foydalanishni tartibga solish.",
+                "Zarur ma’lumotlarga kirishni boshqarish."
+            ]
+        },
+        {
+            "№": 115,
+            "Savol": "Axborot xavfsizligiga tahdidlarning asosiy manbalari:",
+            "Javob": [
+                "Ma’lumotlarni tutib olish, o‘g‘irlash, tizim arxitekturasini o‘zgartirish.",
+                "Qattiq disklarni o‘g‘irlash, tarmoqqa ulanish, insayderlik.",
+                "Ma’lumotlarni o‘g‘irlash, adminlarni sotib olish, ish tartibini buzish.",
+                "Kompyuterlarni yangilash, dasturlarni litsenziyalash, parollarni mustahkamlash."
+            ]
+        },
+
+        {
+            "№": 116,
+            "Savol": "Axborot xavfsizligida zaiflik deganda nima tushuniladi?",
+            "Javob": [
+                "Axborot tizimi yoki aktivlarda mavjud bo‘lgan xatolik yoki kamchiliklar, ularni tahdidlar ekspluatatsiya qilishi mumkin.",
+                "Foydalanuvchi tomonidan qilinadigan noto‘g‘ri amal.",
+                "Tashqi kiberhujumlar natijasida yuzaga keladigan zarar.",
+                "Texnik uskuna eskirishi va ishlash tezligining pasayishi."
+            ]
+        },
+        {
+            "№": 117,
+            "Savol": "Axborot xavfsizligida xavf nima?",
+            "Javob": [
+                "Axborot aktivlariga zarar yetkazish yoki ularni oshkor qilish imkoniyatiga ega bo‘lgan har qanday holat yoki hodisa.",
+                "Foydalanuvchi tomonidan tizimga kiritilgan ma’lumotlar.",
+                "Axborot tizimlarining tezkor ishlash ko‘rsatkichi.",
+                "Serverning tarmoq bilan bog‘lanish tezligi."
+            ]
+        },
+        {
+            "№": 118,
+            "Savol": "Kiberxavfsizlik tahdidlari qaysilar bo‘lishi mumkin?",
+            "Javob": [
+                "Viruslar, trojanlar, phishing, DDoS hujumlari.",
+                "Faqat tabiiy ofatlar va nosozliklar.",
+                "Faqat xodimlarning xatolari.",
+                "Faqat tarmoqqa ulanmagan kompyuterlar."
+            ]
+        },
+        {
+            "№": 119,
+            "Savol": "Axborot xavfsizligini ta’minlashda autentifikatsiya nima uchun zarur?",
+            "Javob": [
+                "Foydalanuvchini tizimda aniqlash va uning kirish huquqlarini nazorat qilish uchun.",
+                "Ma’lumotlarni shifrlash uchun.",
+                "Tarmoq tezligini oshirish uchun.",
+                "Serverlarni zaxiralash uchun."
+            ]
+        },
+        {
+            "№": 120,
+            "Savol": "Axborot xavfsizligi bo‘yicha eng asosiy printsiplar qaysilar?",
+            "Javob": [
+                "Maxfiylik, yaxlitlik va mavjudlik (Confidentiality, Integrity, Availability).",
+                "Tezkorlik, samaradorlik va arzonlik.",
+                "Foydalanuvchi qulayligi, interfeys soddaligi, dizayn estetikasi.",
+                "Shaxsiy ma’lumotlarni ommaviylash, tarqatish va ulashish."
+            ]
+        }
+    ]
+}
