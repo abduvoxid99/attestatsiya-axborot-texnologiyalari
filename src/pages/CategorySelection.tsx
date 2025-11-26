@@ -1,14 +1,4 @@
-import {
-  Building2,
-  BookOpen,
-  Shield,
-  Award,
-  Briefcase,
-  Scale,
-  Computer,
-  Layers,
-  Database,
-} from "lucide-react";
+import { Building2, Layers } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 interface CategorySelectionProps {

@@ -153,7 +153,7 @@ export const QuizPage: React.FC<QuizPageProps> = ({ category, onBack }) => {
     initializeQuiz(shuffledQuestions);
 
     // Set total time: 1 minute per question
-    setTotalMinutes(questions.length);
+    setTotalMinutes(45);
   }, [category]);
 
   const handleTimeUp = useCallback(() => {
@@ -233,7 +233,7 @@ export const QuizPage: React.FC<QuizPageProps> = ({ category, onBack }) => {
           category={categoryName}
           timer={
             <TotalTimer
-              totalMinutes={1}
+              totalMinutes={totalMinutes}
               isRunning={!state.isCompleted}
               onTimeUp={handleTimeUp}
             />
