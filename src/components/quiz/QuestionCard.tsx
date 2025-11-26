@@ -25,9 +25,12 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
   const correctAnswerIndex = question.correctAnswerIndex ?? 0;
 
   // Capitalize first letter of text
-  const capitalizeFirst = (text: string) => {
-    if (!text) return text;
-    return text.charAt(0).toUpperCase() + text.slice(1);
+  const capitalizeFirst = (text: any): string => {
+    if (text === null || text === undefined) return "";
+    // Convert to string if it's not already
+    const textStr = typeof text === "string" ? text : String(text);
+    if (!textStr || textStr.length === 0) return textStr;
+    return textStr.charAt(0).toUpperCase() + textStr.slice(1);
   };
 
   // Get letter label (A, B, C, D) for answer option
@@ -99,29 +102,37 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
       </h2>
 
       <div className="space-y-3 md:space-y-4">
-        {question["Javob"].map((answerText, index) => (
-          <button
-            key={index}
-            onClick={() => onSelectAnswer(index)}
-            disabled={!!answer}
-            className={cn(
-              "w-full text-left p-3 md:p-4 rounded-xl border-2 transition-all duration-200",
-              "flex items-center justify-between gap-2 md:gap-4",
-              getAnswerClassName(index),
-              !answer && "cursor-pointer active:scale-[0.98]"
-            )}
-          >
-            <div className="flex items-start gap-3 md:gap-4 flex-1">
-              <span className="shrink-0 w-8 h-8 md:w-10 md:h-10 rounded-full bg-indigo-100 text-indigo-700 font-bold text-sm md:text-base flex items-center justify-center">
-                {getAnswerLabel(index)}
-              </span>
-              <span className="text-gray-800 flex-1 text-sm md:text-base">
-                {capitalizeFirst(answerText)}
-              </span>
-            </div>
-            {getAnswerBadge(index)}
-          </button>
-        ))}
+        {question["Javob"].map((answerText, index) => {
+          // Ensure answerText is always a string (defensive check for runtime safety)
+          const answerTextStr: string =
+            typeof answerText === "string"
+              ? answerText
+              : String(answerText ?? "");
+
+          return (
+            <button
+              key={index}
+              onClick={() => onSelectAnswer(index)}
+              disabled={!!answer}
+              className={cn(
+                "w-full text-left p-3 md:p-4 rounded-xl border-2 transition-all duration-200",
+                "flex items-center justify-between gap-2 md:gap-4",
+                getAnswerClassName(index),
+                !answer && "cursor-pointer active:scale-[0.98]"
+              )}
+            >
+              <div className="flex items-start gap-3 md:gap-4 flex-1">
+                <span className="shrink-0 w-8 h-8 md:w-10 md:h-10 rounded-full bg-indigo-100 text-indigo-700 font-bold text-sm md:text-base flex items-center justify-center">
+                  {getAnswerLabel(index)}
+                </span>
+                <span className="text-gray-800 flex-1 text-sm md:text-base">
+                  {capitalizeFirst(answerTextStr)}
+                </span>
+              </div>
+              {getAnswerBadge(index)}
+            </button>
+          );
+        })}
       </div>
     </div>
   );

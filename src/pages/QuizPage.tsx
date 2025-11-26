@@ -33,14 +33,14 @@ export const QuizPage: React.FC<QuizPageProps> = ({ category, onBack }) => {
     nextQuestion,
     previousQuestion,
     finishQuiz,
-    restartQuiz,
     getCurrentQuestion,
     getQuestionAnswer,
   } = useQuiz();
 
   const [totalMinutes, setTotalMinutes] = useState(0);
 
-  useEffect(() => {
+  // Function to generate questions based on category
+  const generateQuestions = useCallback(() => {
     let questions: any[] = [];
 
     if (category === "Hammasi_aralash") {
@@ -137,7 +137,7 @@ export const QuizPage: React.FC<QuizPageProps> = ({ category, onBack }) => {
 
       if (!categoryData) {
         console.error(`Category ${category} not found`);
-        return;
+        return [];
       }
 
       questions = categoryData.map((q: any) => ({
@@ -150,10 +150,16 @@ export const QuizPage: React.FC<QuizPageProps> = ({ category, onBack }) => {
     // Shuffle answers for all questions
     const shuffledQuestions = shuffleAllQuestionAnswers(questions);
 
-    initializeQuiz(shuffledQuestions);
+    return shuffledQuestions;
+  }, [category]);
 
-    // Set total time: 1 minute per question
-    setTotalMinutes(45);
+  useEffect(() => {
+    const shuffledQuestions = generateQuestions();
+    if (shuffledQuestions.length > 0) {
+      initializeQuiz(shuffledQuestions);
+      setTotalMinutes(45);
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [category]);
 
   const handleTimeUp = useCallback(() => {
@@ -176,7 +182,12 @@ export const QuizPage: React.FC<QuizPageProps> = ({ category, onBack }) => {
           <ResultsCard
             stats={state.stats}
             category={categoryName}
-            onRestart={restartQuiz}
+            onRestart={() => {
+              const shuffledQuestions = generateQuestions();
+              if (shuffledQuestions.length > 0) {
+                initializeQuiz(shuffledQuestions);
+              }
+            }}
           />
           <div className="flex justify-center mt-4 md:mt-6">
             <Button
