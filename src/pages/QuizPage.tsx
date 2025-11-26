@@ -163,13 +163,8 @@ export const QuizPage: React.FC<QuizPageProps> = ({ category, onBack }) => {
 
   const currentQuestion = getCurrentQuestion();
   const currentAnswer = getQuestionAnswer(state.currentQuestionIndex);
-  const isLastQuestion =
-    state.currentQuestionIndex === state.questions.length - 1;
   const canGoNext =
-    !isLastQuestion &&
-    state.currentQuestionIndex < state.questions.length - 1 &&
-    currentAnswer;
-  const canFinish = isLastQuestion && currentAnswer;
+    state.currentQuestionIndex < state.questions.length - 1 && currentAnswer;
   const canGoPrevious = state.currentQuestionIndex > 0;
   const categoryName = categoryNames[category] || category;
 
@@ -223,7 +218,7 @@ export const QuizPage: React.FC<QuizPageProps> = ({ category, onBack }) => {
           </Button>
         </div>
 
-        {/* <QuizHeader stats={state.stats} /> */}
+        <QuizHeader stats={state.stats} />
 
         <QuestionCard
           question={currentQuestion}
@@ -239,7 +234,6 @@ export const QuizPage: React.FC<QuizPageProps> = ({ category, onBack }) => {
             />
           }
           onSelectAnswer={answerQuestion}
-          isCompleted={state.isCompleted}
         />
 
         <div className="flex flex-wrap items-center justify-center gap-2 md:gap-4 mt-4 md:mt-6">
@@ -265,26 +259,14 @@ export const QuizPage: React.FC<QuizPageProps> = ({ category, onBack }) => {
             </Button>
           )}
 
-          {canFinish ? (
-            <Button
-              onClick={finishQuiz}
-              size="lg"
-              className="bg-red-600 hover:bg-red-700 text-white flex-1 sm:flex-none"
-            >
-              <Square className="w-4 h-4 md:w-5 md:h-5 mr-1 md:mr-2" />
-              Yakunlash
-            </Button>
-          ) : (
-            <Button
-              onClick={finishQuiz}
-              size="lg"
-              className="bg-red-600 hover:bg-red-700 text-white flex-1 sm:flex-none opacity-50"
-              disabled
-            >
-              <Square className="w-4 h-4 md:w-5 md:h-5 mr-1 md:mr-2" />
-              Yakunlash
-            </Button>
-          )}
+          <Button
+            onClick={finishQuiz}
+            size="lg"
+            className="bg-red-600 hover:bg-red-700 text-white flex-1 sm:flex-none"
+          >
+            <Square className="w-4 h-4 md:w-5 md:h-5 mr-1 md:mr-2" />
+            Yakunlash
+          </Button>
         </div>
       </div>
     </div>

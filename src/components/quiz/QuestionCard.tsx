@@ -11,7 +11,6 @@ interface QuestionCardProps {
   category: string;
   timer?: ReactNode;
   onSelectAnswer: (answerIndex: number) => void;
-  isCompleted?: boolean;
 }
 
 export const QuestionCard: React.FC<QuestionCardProps> = ({
@@ -22,7 +21,6 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
   category,
   timer,
   onSelectAnswer,
-  isCompleted = false,
 }) => {
   const correctAnswerIndex = question.correctAnswerIndex ?? 0;
 
@@ -38,19 +36,10 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
   };
 
   const getAnswerClassName = (index: number) => {
-    const isSelected = answer?.selectedAnswerIndex === index;
+    if (!answer) return "bg-white hover:bg-gray-50 border-gray-200";
 
-    // During quiz: only show selected state
-    if (!isCompleted) {
-      if (isSelected) {
-        return "bg-indigo-50 border-indigo-400 border-2";
-      }
-      return "bg-white hover:bg-gray-50 border-gray-200";
-    }
-
-    // After completion: show correct/incorrect feedback
-    if (isSelected) {
-      return answer?.isCorrect
+    if (answer.selectedAnswerIndex === index) {
+      return answer.isCorrect
         ? "bg-green-50 border-green-400 border-2"
         : "bg-red-50 border-red-400 border-2";
     }
@@ -64,8 +53,7 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
   };
 
   const getAnswerBadge = (index: number) => {
-    // Only show badges after quiz is completed
-    if (!isCompleted || !answer) return null;
+    if (!answer) return null;
 
     if (answer.selectedAnswerIndex === index) {
       return answer.isCorrect ? (
@@ -115,12 +103,12 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
           <button
             key={index}
             onClick={() => onSelectAnswer(index)}
-            disabled={isCompleted}
+            disabled={!!answer}
             className={cn(
               "w-full text-left p-3 md:p-4 rounded-xl border-2 transition-all duration-200",
               "flex items-center justify-between gap-2 md:gap-4",
               getAnswerClassName(index),
-              !isCompleted && "cursor-pointer active:scale-[0.98]"
+              !answer && "cursor-pointer active:scale-[0.98]"
             )}
           >
             <div className="flex items-start gap-3 md:gap-4 flex-1">
