@@ -1,4 +1,15 @@
-import { Building2, Layers } from "lucide-react";
+import {
+  Building2,
+  Layers,
+  // Database,
+  Computer,
+  BookOpen,
+  Shield,
+  Award,
+  Briefcase,
+  Scale,
+  Lock,
+} from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 interface CategorySelectionProps {
@@ -15,7 +26,7 @@ export const CategorySelection: React.FC<CategorySelectionProps> = ({
     //   subtitle: "Barcha bo'limlardan aralash savollar",
     //   icon: Database,
     //   color: "from-slate-600 to-slate-800",
-    //   questionCount: 255,
+    //   questionCount: 493,
     // },
     {
       id: "Barchasi_aralash",
@@ -25,54 +36,62 @@ export const CategorySelection: React.FC<CategorySelectionProps> = ({
       color: "from-red-500 to-pink-600",
       questionCount: 50,
     },
-    // {
-    //   id: "Axborot_texnologiyalar_departamenti",
-    //   title: "AT",
-    //   subtitle: "Axborot texnologiyalari departamenti",
-    //   icon: Computer,
-    //   color: "from-cyan-500 to-blue-600",
-    //   questionCount: 150,
-    // },
-    // {
-    //   id: "Strategiya_barchaga",
-    //   title: "Strategiya",
-    //   subtitle: "Bankimiz Strategiyasi bo'yicha",
-    //   icon: BookOpen,
-    //   color: "from-blue-500 to-indigo-600",
-    //   questionCount: 29,
-    // },
-    // {
-    //   id: "Komplaens_barchaga",
-    //   title: "Komplaens",
-    //   subtitle: "Ichki nazorat va Korrupsiyaga qarshi kurashish",
-    //   icon: Shield,
-    //   color: "from-green-500 to-emerald-600",
-    //   questionCount: 18,
-    // },
-    // {
-    //   id: "Odob_axloq_barchaga",
-    //   title: "Odob-Axloq",
-    //   subtitle: "Xizmat odob-axloqi va professional etika",
-    //   icon: Award,
-    //   color: "from-pink-500 to-rose-600",
-    //   questionCount: 15,
-    // },
-    // {
-    //   id: "Ijro_barchaga",
-    //   title: "Ijro",
-    //   subtitle: "Ijro intizomi va boshqaruv faoliyati",
-    //   icon: Briefcase,
-    //   color: "from-amber-500 to-orange-600",
-    //   questionCount: 30,
-    // },
-    // {
-    //   id: "Yuridik_barchaga",
-    //   title: "Yuridik",
-    //   subtitle: "Huquqiy asoslar va qonunchilik",
-    //   icon: Scale,
-    //   color: "from-purple-500 to-violet-600",
-    //   questionCount: 13,
-    // },
+    {
+      id: "Axborot_texnologiyalar_departamenti",
+      title: "AT",
+      subtitle: "Axborot texnologiyalari departamenti",
+      icon: Computer,
+      color: "from-cyan-500 to-blue-600",
+      questionCount: 150,
+    },
+    {
+      id: "Axborot_xavfsizligi_departamenti",
+      title: "AX",
+      subtitle: "Axborot xavfsizligi departamenti",
+      icon: Lock,
+      color: "from-teal-500 to-cyan-600",
+      questionCount: 120,
+    },
+    {
+      id: "Strategiya_barchaga",
+      title: "Strategiya",
+      subtitle: "Bankimiz Strategiyasi bo'yicha",
+      icon: BookOpen,
+      color: "from-blue-500 to-indigo-600",
+      questionCount: 29,
+    },
+    {
+      id: "Komplaens_barchaga",
+      title: "Komplaens",
+      subtitle: "Ichki nazorat va Korrupsiyaga qarshi kurashish",
+      icon: Shield,
+      color: "from-green-500 to-emerald-600",
+      questionCount: 18,
+    },
+    {
+      id: "Odob_axloq_barchaga",
+      title: "Odob-Axloq",
+      subtitle: "Xizmat odob-axloqi va professional etika",
+      icon: Award,
+      color: "from-pink-500 to-rose-600",
+      questionCount: 15,
+    },
+    {
+      id: "Ijro_barchaga",
+      title: "Ijro",
+      subtitle: "Ijro intizomi va boshqaruv faoliyati",
+      icon: Briefcase,
+      color: "from-amber-500 to-orange-600",
+      questionCount: 30,
+    },
+    {
+      id: "Yuridik_barchaga",
+      title: "Yuridik",
+      subtitle: "Huquqiy asoslar va qonunchilik",
+      icon: Scale,
+      color: "from-purple-500 to-violet-600",
+      questionCount: 13,
+    },
   ];
 
   return (
@@ -92,13 +111,13 @@ export const CategorySelection: React.FC<CategorySelectionProps> = ({
         </div>
 
         {/* Category Cards */}
-        <div className="flex justify-center  gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 md:gap-6">
           {categories.map((category) => {
             const Icon = category.icon;
             return (
               <div
                 key={category.id}
-                className="bg-white rounded-2xl shadow-xl overflow-hidden hover:shadow-2xl transition-all duration-300 transform hover:scale-[1.02] max-w-[400px]"
+                className="bg-white rounded-2xl shadow-xl overflow-hidden hover:shadow-2xl transition-all duration-300 transform hover:scale-[1.02]"
               >
                 <div
                   className={`bg-linear-to-br ${category.color} p-6 md:p-8 text-white`}

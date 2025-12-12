@@ -2427,292 +2427,292 @@
     ],
     "Axborot_xavfsizligi_departamenti": [{
             "№": 1,
-            "Savol": "Server xonasiga o‘rnatilgan videokuzatuv tizimi qanday talablariga javob berishi kerak?",
+            "Savol": "Server xonasiga o‘rnatilgan videokuzatuv tizimi qanday talablarga javob berishi kerak?",
             "Javob": [
-                "Server xonasiga o‘rnatilgan videokuzatuv tizimi quyidagi talablarga javob berishi kerak: serverlar bilan bevosita jismoniy kontaktlar yozib borilishi; uzluksiz videokuzatuv amalga oshirilishi; oldi va orqa tarafini kechayu-kunduz nazorat qilish imkoniyati bo‘lishi; xodimlarning yuzlarini aniq farqlash imkoni bo‘lishi.",
+                "Server xonasiga o‘rnatilgan videokuzatuv tizimi quyidagi talablarga javob berishi kerak: serverlar bilan bevosita jismoniy kontaktlar yozib borilishi; uzluksiz videokuzatuv amalga oshirilishi; serverlarning (server shkaflarining) oldi va orqa tarafini kechayu-kunduz nazorat qilish imkoniyati bo‘lishi; videokameralarning tasvirga olish imkoniyatlari texnologik qurilmalarga xizmat ko‘rsatayotgan xodimlarning yuzlarini ishonch bilan farqlashiga yetarli bo‘lishi.",
                 "Videokuzatuv tizimi faqat server xonalariga kirish vaqtida amalga oshirilishi kerak.",
-                "Videokameralar faqat server xonalariga kirishni nazorat qilishga mo‘ljallanishi kerak.",
-                "Har qanday noqonuniy kirishni oldini olish uchun videoyozuvlar shifrlanishi zarur."
+                "Videokameralar faqat server xonalariga kirishni nazorat qilishga mo‘ljallanishi kerak",
+                "Har qanday noqonuniy kirishni oldini olish uchun videokuzatuv ma’lumotlari shifrlanishi zarur."
             ]
         },
         {
             "№": 2,
             "Savol": "Server xonasi jihozlanishi qanday talablariga javob berishi kerak?",
             "Javob": [
-                "Barcha javoblar to‘g‘ri.",
-                "Derazalar begona shaxslar kuzatishidan himoyalangan bo‘lishi, pardalar va ogohlantirish vositalari bilan jihozlangan bo‘lishi kerak.",
-                "Eshiklar mustahkam bo‘lishi, kodli qulf, yong‘inga qarshi himoya tizimi bo‘lishi kerak.",
-                "Xonaning devorlari mustahkam bo‘lishi kerak."
+                "Barcha javoblar to‘g‘ri",
+                "Derazalar xonaga kirishdan himoya qilish vositalariga ega bo‘lishi, shuningdek begona shaxslarning ko‘z yoki maxsus qurilmalar bilan kuzatishidan himoya qiluvchi deraza pardalari, qo‘riqlash va ogohlantirish qurilmalari bilan jihozlanishi kerak. ",
+                "Ishonchli (kodli) qulflar o‘rnatilgan mustahkam eshiklar, yong‘inga qarshi himoya tizimi va vositalari bilan jihozlanishi kerak.",
+                "Mustahkam devorlar ega bo‘lishi kerak."
             ]
         },
         {
             "№": 3,
             "Savol": "Axborot xavfsizligi va kiberxavfsizlik tavakkalchiligi deganda nima tushuniladi?",
             "Javob": [
-                "Axborot tizimlariga tahdidlar natijasida moliyaviy zarar, operatsion faoliyatning izdan chiqishi yoki obro‘ga putur yetishi ehtimoli.",
-                "Kiberhujumlar natijasida har doim moliyaviy zarar yuzaga kelishi.",
-                "Faqat texnik nosozliklar yoki dasturiy ta’minotdagi xatoliklar tufayli ma’lumot yo‘qolishi holati.",
-                "Axborot xavfsizligi foydalanuvchi xatolari natijasida yuzaga keladigan ichki xatoliklardan iborat."
+                "Axborot xavfsizligi va kiberxavfsizlik tavakkalchiligi – axborot tizimlari, axborot-kommunikatsiya texnologiyalari infratuzilmasi yoki raqamli xizmatlariga qarshi yo‘naltirilgan tahdidlar natijasida yuzaga kelishi mumkin bo‘lgan moliyaviy zarar, operatsion faoliyatning izdan chiqishi yoki tashkilot obro‘siga putur yetishi ehtimoli.",
+                "Axborot xavfsizligi va kiberxavfsizlik tavakkalchiligi – axborot tizimlariga qarshi qilingan barcha kiberxujumlarning aniq oqibati bo‘lib, u doimiy ravishda moliyaviy yo‘qotishlarga olib keladi.",
+                "Axborot xavfsizligi va kiberxavfsizlik tavakkalchiligi – faqat texnik xatoliklar yoki dasturiy ta’minotdagi nosozliklar tufayli yuzaga keladigan jismoniy zarar yoki ma’lumotlarning yo‘qolishi holati.",
+                "Axborot xavfsizligi va kiberxavfsizlik tavakkalchiligi – axborot tizimlaridan foydalanuvchilarning xatolari tufayli ma’lumotlar o‘zgarishi yoki to‘g‘ri ishlatilmasligi natijasida yuzaga keladigan ichki muammolar majmuasi."
             ]
         },
         {
             "№": 4,
             "Savol": "Axborot xavfsizligi va kiberxavfsizlik tavakkalchiliklarini boshqarish tizimi qaysi funksiyalarni o‘z ichiga oladi?",
             "Javob": [
-                "Barcha javoblar to‘g‘ri.",
-                "Tavakkalchiliklarni aniqlash, yig‘ish, ro‘yxatga olish, baholash, kamaytirish choralari ko‘rish, monitoring va nazorat qilish; barqarorlikni ta’minlash ishlari.",
-                "Boshqarish bo‘yicha hisobot shakllantirish.",
-                "Tavakkalchiliklarni qayta ko‘rib chiqish."
+                "Barcha javoblar to‘g‘ri",
+                "Axborot xavfsizligi va kiberxavfsizlik tavakkalchiliklarini aniqlash, yig‘ish, ro‘yxatga olish, baholash, kamaytirish choralarini ko‘rish, monitoring va nazorat qilish; axborot xavfsizligi va kiberxavfsizlik tavakkalchiliklarini bartaraf etish ishlarini rejalashtirish va boshqarish; ",
+                " Axborot xavfsizligi va kiberxavfsizlik tavakkalchiliklarini boshqarish bo‘yicha hisobotni shakllantirish;",
+                "Axborot xavfsizligi va kiberxavfsizlik tavakkalchiliklarini qayta ko‘rib chiqish."
             ]
         },
         {
             "№": 5,
             "Savol": "Axborot aktivlaridan foydalanishda foydalanuvchi amalga oshirgan operatsiyalar to‘g‘risida qaysi ma’lumotlar qayd etilishi lozim?",
             "Javob": [
-                "Barcha javoblar to‘g‘ri.",
-                "Bajarilgan operatsiya sanasi va vaqti, foydalanuvchi identifikatori.",
-                "Foydalanuvchi qurilmasining identifikatsiya ma’lumotlari (IP, MAC, qurilma nomi va boshqalar).",
-                "Tizimdagi faol sessiya davomida foydalanuvchining barcha amaliyotlari va harakatlari."
+                "Barcha javoblar to‘g‘ri",
+                "Bajarilgan operatsiya sanasi (kun, oy, yil) va vaqti (soat, daqiqa, soniya), foydalanuvchiga tizimlarda hamda axborot dasturlarida berilgan identifikatori. ",
+                "Foydalanuvchi qurilmasining identifikatsiya ma’lumotlari (IP-manzil, MAC-manzil, qurilmaning nomi va boshqa identifikatorlari); ",
+                "foydalanuvchining tizimdagi faol sessiyasi davrida bajargan barcha amaliyotlari va harakatlari "
             ]
         },
         {
             "№": 6,
-            "Savol": "Bank axborot tizimlari va resurslaridan ruxsatsiz foydalanishni oldini olish uchun qanday choralar amalga oshiriladi?",
+            "Savol": "Bank axborot tizimlari va resurslaridan ruxsat-siz foydalanishni oldini olish uchun qanday choralar amalga oshiriladi?",
             "Javob": [
-                "Barcha javoblar to‘g‘ri.",
-                "Foydalanuvchilarni identifikatsiya va autentifikatsiya qilish, muvaffaqiyatsiz kirishlarni aniqlash va bloklash.",
-                "Uzoq vaqt harakatsiz bo‘lganda sessiyani to‘xtatish, mulitisessiyani cheklash.",
-                "Axborot aktivlaridagi sozlamalarni o‘zgartirish imkoniyatini cheklash."
+                "Barcha javoblar to‘g‘ri",
+                "Foydalanuvchilarni identifikatsiya va autentifikatsiya qilish hamda ushbu jarayonni boshqarish, muvaffaqiyatsiz kirishga urinishlarni aniqlash va ularni cheklash hamda ushbu foydalanuvchining axborot tizimlari va resurslariga kirish huquqini (akkauntini) bloklash ",
+                "Foydalanuvchining uzoq vaqt oralig‘ida harakatsizligi aniqlanganda ish sessiyasini to‘xtatish, axborot aktivlari hamda ishchi stansiyalarda foydalanuvchining ishlash davrida foydalanuvchi akkauntining bir vaqtning o‘zida bir nechta qurilmalarda ishlashini (multisessiya) cheklash",
+                "foydalanuvchining axborot aktivlarida shu axborot aktivlarining faoliyatiga ta’sir etadigan sozlamalarini (parametrlarini) o‘zgartirish imkoniyatini cheklash."
             ]
         },
         {
             "№": 7,
             "Savol": "Masofaviy bank xizmatlarida foydalanuvchilarning harakati bo‘yicha qaysi ma’lumotlar elektron bayonnomalarda aks ettirilishi shart?",
             "Javob": [
-                "Foydalanuvchilarning tizimga kirishi, axborot almashinuvi va ularning amallari to‘g‘risidagi to‘liq ma’lumotlar (IP, MAC, IMEI).",
-                "Tizimga kirishda ishlatilgan login va parol.",
-                "Foydalanuvchilarning ismi, familiyasi, tizimga kirgan va chiqqan vaqti.",
-                "Faqat umumiy statistik ko‘rsatkichlar (sessiya soni, minutlar)."
+                "Foydalanuvchilarning tizimga kirishi, axborot almashinuvi va ularning amallari to‘g‘risidagi to‘liq ma’lumotlar (IP va MAC manzili, mobil telefondan foydalanganda — IMEI-kod) ",
+                "Foydalanuvchilarning tizimga kirishda foydalanilgan login va parollari.",
+                "Foydalanuvchilarning ismi va familiyasi, tizimga kirgan va undan chiqib ketgan vaqti.",
+                "Faqat umumiy statistik ko‘rsatkichlar (sessiya soni, minutlar)"
             ]
         },
         {
             "№": 8,
             "Savol": "Bank tarmoq xavfsizligini ta’minlash uchun amalga oshirilishi lozim bo‘lgan asosiy ishlar nimalardan iborat?",
             "Javob": [
-                "Barcha javoblar to‘g‘ri.",
-                "Kiber tahdidlarni real vaqtda kuzatish va bloklash, tarmoqda ruxsatsiz harakatlarni oldini olish, honeypot tizimlardan foydalanish.",
-                "Tarmoq qurilmalari va dasturiy ta’minotga ruxsatsiz kirish va o‘zgartirishni cheklash.",
-                "Tarmoqni segmentlarga bo‘lish, faoliyat ma’lumotlarini yig‘ish va tahlil qilish."
+                "Barcha javoblar to‘g‘ri",
+                "Kibertahdidlarni real vaqtda kuzatish va bloklash, tarmoqda ruxsat-siz harakatlarni oldini olish. tuzoq (honeypot) tizimlaridan foydalanish",
+                "Tarmoq qurilmalari va dasturiy ta’minotga ruxsat-siz kirish va o‘zgartirishni cheklash. ",
+                "Tarmoqni segmentlarga bo‘lish, tarmoqdagi faollik to‘g‘risidagi ma’lumotlarni yig‘ish va saqlash, tarmoq trafigini tahlil qilib borish; "
             ]
         },
         {
             "№": 9,
             "Savol": "Xususiy virtual tarmoqlar (VPN) texnologiyasining mohiyati nimadan iborat?",
             "Javob": [
-                "Barcha javoblar to‘g‘ri.",
-                "Boshqa tarmoq ustida bir yoki bir nechta virtual tarmoqlarni yaratish imkonini beradi.",
-                "Internet orqali ma’lumot almashuvini shifrlangan va xavfsiz kanalda amalga oshirish.",
-                "Ma’lumotlarni shifrlaydi, foydalanuvchi va server o‘rtasida xavfsiz tunnel yaratadi."
+                "Barcha javoblar to‘g‘ri",
+                "Boshqa tarmoq (masalan, Internet) ustida bir yoki bir nechta tarmoq ulanishlarini (mantiqiy tarmoqni) ta’minlash imkonini yaratadi.",
+                "Umumiy (internet) tarmoq orqali ma’lumot almashinuvini shifrlangan va xavfsiz kanalda amalga oshirishni ta’minlaydi.",
+                "Ma’lumotlarni shifrlaydi, foydalanuvchi va server o‘rtasida xavfsiz tunnel yaratadi, tarmoqlararo axborot almashinuvida maxfiylik va yaxlitlikni ta’minlaydi."
             ]
         },
         {
             "№": 10,
-            "Savol": "Bankning avtomatlashtirilgan tizimi ma’lumotlar bazasi serverlari va boshqa muhim serverlari tarmoqning qaysi segmentida joylashtirilishi lozim?",
+            "Savol": "Bankning avtomatlashtirilgan tizimi ma’lumotlar bazasi serverlari va boshqa muhim serverlari tarmoqning qaday segmentida joylashtirilishi lozim?",
             "Javob": [
-                "Bankda alohida ajratilgan va muhofaza qilingan tarmoq segmentida.",
-                "Ichki LAN bilan Internetga to‘g‘ridan-to‘g‘ri bog‘langan umumiy segmentda.",
-                "Foydalanuvchilar uchun qulay bo‘lgan segmentda.",
-                "Foydalanuvchilar kompyuterlari bilan bir xil segmentda."
+                "Bankda tashkil etilgan alohida ajratilgan va muhofaza qilingan tarmoq segmentida. ",
+                "Bankning ichki lokal tarmog‘i bilan Internet tarmog‘i to‘g‘ridan-to‘g‘ri bog‘langan umumiy segmentda.",
+                "Foydalanuvchilar uchun qulay bo‘lgan tarmoq segmentida.",
+                "Foydalanuvchilar kompyuterlari bilan bir xil tarmoq segmentida."
             ]
         },
         {
             "№": 11,
-            "Savol": "Mijozlar va hamkorlarni chalg‘itish maqsadida bankning ramziy belgi, ishbilarmonlik obro‘si va boshqa elementlardan noqonuniy foydalanish aniqlanganda qanday choralar ko‘riladi?",
+            "Savol": "Mijozlar va hamkorlarni chalg‘itish maqsadida bankning ramziy belgisi, ishbilarmonlik obro‘si va boshqa elementlaridan noqonuniy foydalanish aniqlanganda qanday choralar ko‘riladi? ",
             "Javob": [
-                "Barcha javoblar to‘g‘ri.",
-                "O‘zbekistoni Respublikasi Markaziy bankiga bir kun ichida xabar berish.",
-                "Axborotlashtirish va telekommunikatsiya inspektsiyasiga bir kun ichida xabar berish.",
-                "Bankning rasmiy axborot manbalarida e’lon qilish."
+                "Barcha javoblar to‘g‘ri",
+                "Bu haqda bir kun ichida O‘zbekiston Respublikasi Markaziy bankiga xabar berish lozim. ",
+                "Bu haqda bir kun ichida O‘zbekiston Respublikasi Raqamli texnologiyalar vazirligi huzuridagi Axborotlashtirish va telekommunikatsiyalar sohasida nazorat inspeksiyasiga xabar berishi lozim.",
+                "Bu haqda bank o‘zining rasmiy axborot manbalarida e’lon qilishi lozim."
             ]
         },
         {
             "№": 12,
             "Savol": "Elektron raqamli imzo kalitlarini tarqalib ketishdan saqlash uchun qanday talablar qo‘yiladi?",
             "Javob": [
-                "Maxsus yoki mobil qurilmalarda saqlanishi va ruxsatsiz nusxa olishdan himoyalangan bo‘lishi lozim.",
-                "Faqat ish joyidagi kompyuterda fayl ko‘rinishida saqlanishi kerak.",
-                "Faqat parol bilan himoyalangan fleshkada saqlanishi kerak.",
-                "Faqat mobil qurilmalarga yozilgan bo‘lishi kerak."
+                "Foydalanuvchilarining elektron raqamli imzo kalitlari maxsus yoki mobil qurilmalarga yozilgan bo‘lishi hamda har qanday usul bilan ruxsat-siz nusxa olishdan himoyalangan bo‘lishi lozim.",
+                "Foydalanuvchilarining elektron raqamli imzo kalitlari faqat ish joyidagi kompyuterda fayl ko‘rinishida saqlanishi lozim.",
+                "Foydalanuvchilarining elektron raqamli imzo kalitlari faqat parol bilan muhofazalangan fleshkada saqlanishi lozim.",
+                "Foydalanuvchilarining elektron raqamli imzo kalitlari faqat mobil qurilmalarga yozilgan bo‘lishi lozim."
             ]
         },
         {
             "№": 13,
             "Savol": "Elektron arxiv hujjatlari tarkibiga qaysi axborot resurslari kiritilishi lozim?",
             "Javob": [
-                "Barcha javoblar to‘g‘ri.",
-                "Bank amaliyot kunidagi elektron ma’lumotlar bazasi, muddati tugagan shifrlash va EIM ochiq kalitlari.",
-                "Amaliyot kunlari dasturlari, muhim axborot infrastrukturasi bayonnomalari, noxush hodisalar bilan bog‘liq bayonnomalar (log fayllar).",
-                "Elektron pochta orqali qabul qilingan va uzatilgan to‘lov hujjatlari (buyruq, qaror) shifrlangan va shifrlanmagan ko‘rinishda."
+                "Barcha javoblar to‘g‘ri",
+                "Bank amaliyot kunidagi elektron ma’lumotlarning to‘liq bazasi, muddati tugagan shifrlash va elektron raqamli imzo kalitlarining ochiq kalitlari.",
+                "Bank amaliyot kuni dasturlari, muhim axborot infratuzilmasi elektron bayonnomalari, noxush hodisalar bilan bog‘liq elektron bayonnomalar (log fayllar). ",
+                "Elektron pochta orqali qabul qilingan va uzatilgan to‘lovlarga tegishli (farmoyish, qaror va boshqa) hujjatlar, shifrlangan va shifrlanmagan ko‘rinishdagi barcha kiruvchi va chiquvchi elektron to‘lov hujjatlari."
             ]
         },
         {
             "№": 14,
-            "Savol": "Bank o‘z axborot aktivlariga masofadan ulanishda qanday xavfsizlik choralarini ko‘rishi lozim?",
+            "Savol": "Bank o‘z axborot aktivlariga masofadan ulanishda qanday xavfsizlik choralarini ko‘rish lozim?",
             "Javob": [
-                "Barcha javoblar to‘g‘ri.",
-                "Shaxsiy qurilmadan masofadan ulanishga ruxsat bermaslik.",
-                "VPN va ko‘p faktorli autentifikatsiya ishlatish.",
-                "Masofadan ishlashda foydalanuvchilar faqat zarur resurslardan foydalanishini ta’minlash va PAM orqali monitoring."
+                "Barcha javoblar to‘g‘ri",
+                "Bank xodimlariga axborot aktivlariga o‘zining shaxsiy qurilmalaridan foydalangan holda masofadan turib ulanishiga ruxsat bermaslik. ",
+                "Xodimlarni korporativ tarmoqqa masofadan turib ulashda virtual xususiy tarmoqlardan (VPN) foydalanish va ko‘p faktorli autentifikatsiyadan o‘tkazish. ",
+                "Masofadan turib ishlashda foydalanuvchilarning barcha harakati PAM tizimi orqali amalga oshirilishini ta’minlash; xodimlarga masofadan turib ishlashda faqatgina o‘z vazifalarini bajarishlari uchun zarur bo‘ladigan axborot resurslaridan foydalanishiga ruxsat berish."
             ]
         },
         {
             "№": 15,
-            "Savol": "Man-in-the-middle (MITM) yoki \"Ortadagi odam\" kiberhujumida tajovuzkor...",
+            "Savol": "Man-in-the-middle (MITM) yoki \"O‘rtadagi odam\" kiberhujumida tajovuzkor...",
             "Javob": [
-                "Barcha javoblar to‘g‘ri.",
-                "Aloqa kanaliga kirib yuborilgan xabarlarni ko‘rish imkoniyatiga ega bo‘ladi.",
-                "Aloqa kanaliga kirib xabarlarni o‘zgartirish imkoniyatiga ega bo‘ladi.",
-                "Aloqa kanaliga kirib xabarlarni o‘chirish imkoniyatiga ega bo‘ladi."
+                "Barcha javoblar to‘g‘ri",
+                "foydalanuvchi va server o‘rtasidagi aloqa kanaliga kirib oladi va yuborilgan barcha xabarlarning tarkibini ko‘rish imkoniyatiga ega bo‘ladi.",
+                "foydalanuvchi va server o‘rtasidagi aloqa kanaliga kirib oladi va yuborilgan barcha xabarlarning tarkibini o‘zgartirish imkoniyatiga ega bo‘ladi.",
+                "foydalanuvchi va server o‘rtasidagi aloqa kanaliga kirib oladi va yuborilgan barcha xabarlarni o‘chirish imkoniyatiga ega bo‘ladi."
             ]
         },
         {
             "№": 16,
             "Savol": "Zero-day hujumi nima?",
             "Javob": [
-                "Dasturiy ta’minotning zaifligidan ishlab chiqaruvchi bartaraf etishdan oldin foydalanilgan hujum.",
-                "Yangilanishdan so‘ng test qilinmagan koddan foydalanilgan hujum.",
-                "Zararli dastur elektron pochta orqali yuborish yo‘li bilan amalga oshirilgan hujum.",
-                "Foydalanuvchi ma’lumotlarini taxmin qilish orqali amalga oshirilgan hujum."
+                "Dasturiy ta’minotning zaifligidan uni ishlab chiquvchi bartaraf etishga ulgurmasdan foydalanib qilingan hujum. ",
+                "Dastur yangilanishidan keyin avtomatik ravishda test qilinmagan koddandan foydalanilgan hujum.",
+                " Elektron pochta orqali zararli dastur jo‘natish yo‘li bilan amalga oshirilgan hujum.",
+                "Tizimga kirish uchun foydalanuvchi ma’lumotlarini taxmin qilish orqali amalga oshirilgan hujum."
             ]
         },
         {
             "№": 17,
-            "Savol": "Xesh summasining vazifasi nima?",
+            "Savol": "Xesh summasining vazifasi nima ?",
             "Javob": [
-                "Fayl yoki ma’lumot uzatish jarayonida uning o‘zgarmaganini aniqlash.",
-                "Ma’lumot manbasini aniqlash va xatolik yoki soxtalikni tekshirish.",
-                "Fayl yoki ma’lumot uzatilganda shifrlanish va faqat ruxsat etilgan shaxs ochilishi.",
-                "Fayl yoki ma’lumot uzatishda manbasini aniqlash va yuboruvchini tasdiqlash."
+                "Fayl yoki ma’lumot uzatish jarayonida uni o‘zgarmaganini aniqlash.",
+                "Ma’lumotning manbasini aniqlash va xato yoki soxtalikni o‘z ichiga olgan ko‘rsatkichlarni tekshirish.",
+                "Fayl yoki ma’lumot uzatish vaqtida ularning shifrlanishini va faqat ruxsat etilgan shaxslar tomonidan ochilishi ta’minlanishi.",
+                "Fayl yoki ma’lumot uzatish jarayonida ularning manbasini aniqlash va yuboruvchini tasdiqlash."
             ]
         },
         {
             "№": 18,
-            "Savol": "Bankda konfidentsial ma’lumotlar va axborot aktivlaridan foydalanish monitoringi qanday tashkil etilishi lozim?",
+            "Savol": "Bankda konfidentsial ma’lumotlar va axborot aktivlaridan foydalanish monitoringi qanday tarzda tashkil etilishi lozim?",
             "Javob": [
-                "Barcha javoblar to‘g‘ri.",
-                "SIEM yoki boshqa tizimlar orqali xavfsizlik hodisalarini tahlil qilish va monitoring qilish.",
-                "SOAR tizimlari orqali avtomatlashtirilgan javob berish jarayonini ta’minlash.",
-                "24/7 rejimida kuzatish, tahlil va barqarorlikni ta’minlash choralarini ko‘rish."
+                "Barcha javoblar to‘g‘ri",
+                "Axborot xavfsizligi va kiberxavfsizlik hodisalarini tahlil qilish, axborot xavfsizligi va kiberxavfsizlik holatini monitoring qilish hamda ogohlantirish imkonini beruvchi SIEM (Security Information and Event Management) yoki boshqa tizimlarni joriy qilish lozim.",
+                " Axborot xavfsizligi va kiberxavfsizlik hodisalari to‘g‘risidagi ma’lumotlarni to‘plash, tahlil qilish va ularga javob berish jarayonlarini avtomatlashtirish imkonini beruvchi SOAR (Security Orchestration, Automation and Response) tizimlarni joriy qilish lozim.",
+                "Axborot xavfsizligi va kiberxavfsizlikning ta’minlanganlik holatini monitoring qilish tizimi ma’lumotlarini tahlil qilib borish va aniqlangan holatlarni bartaraf etish va ularni oldini olish bo‘yicha choralar ko‘rish hamda axborot xavfsizligi va kiberxavfsizlik holatini tun-u kun (24/7) rejimida monitoring qilish ishlarini tashkil etish lozim. "
             ]
         },
         {
             "№": 19,
-            "Savol": "VLAN texnologiyasining mohiyati nimadan iborat?",
+            "Savol": "Virtual mahalliy tarmoq (VLAN) texnologiyasining mohiyati nimadan iborat?",
             "Javob": [
-                "Jismoniy qurilmalarga bog‘liq bo‘lmagan holda virtual tarmoqlarni yaratish.",
-                "Jismoniy uskunalar asosida segment yaratish va foydalanuvchilarni birlashtirish.",
-                "Foydalanuvchilar faoliyatini nazorat qilish va jurnalga yozish.",
-                "Hodisa ta’sir qilgan jarayon uchun mas’ul rahbarni belgilash."
+                "Jismoniy qurilmalarga bog‘liq bo‘lmagan holda virtual tarmoqlarni barpo etish imkonini beradi.",
+                "Jismoniy uskunalar asosida tarmoqni yaratish va foydalanuvchilarni bir segmentga birlashtirish imkonini beradi.",
+                "Foydalanuvchilarning faoliyatini nazorat qilish va ularning tarmoqdagi harakatlarini jurnalga yozish uchun xizmat qiladi.",
+                "Hodisa ta’sir ko‘rsatgan texnologik jarayon uchun mas’ul bo‘lgan tarkibiy bo‘linmalar rahbari."
             ]
         },
         {
             "№": 20,
-            "Savol": "SIEM nima?",
+            "Savol": "SIEM (Security Information and Event Management) o‘zi nima?",
             "Javob": [
-                "Axborot xavfsizligi va kiberxavfsizlik hodisalarini tahlil qilish, monitoring va ogohlantirish tizimi.",
-                "Axborot hodisalarini yig‘ish va avtomatlashtirilgan javob berish tizimi.",
-                "Tarmoq foydalanuvchi va vositalarini boshqarish tizimi.",
-                "Viruslarni aniqlash va yo‘q qilishni tavsiya qiluvchi tizim."
+                "Axborot xavfsizligi va kiberxavfsizlik hodisalarini tahlil qilish, axborot xavfsizligi va kiberxavfsizlik holatini monitoring qilish hamda ogohlantirish tizimi.",
+                "Axborot xavfsizligi va kiberxavfsizlik hodisalari to‘g‘risidagi ma’lumotlarni to‘plash va ularga javob berish jarayonlarini avtomatlashtirish tizimi.",
+                "Tarmoq obyektlari bo‘lgan foydalanuvchilar va texnik vositalarni boshqarish tizimi.",
+                "Viruslarni aniqlash uchun mo‘ljallangan va ularni yo‘q qilish taklifini berishi mumkin bo‘lgan yoki yo‘q qiluvchi tizim."
             ]
         },
         {
             "№": 21,
-            "Savol": "SOAR nima?",
+            "Savol": "SOAR (Security Orchestration, Automation and Response) o‘zi nima?",
             "Javob": [
-                "Axborot xavfsizligi va kiberxavfsizlik hodisalarini yig‘ish, tahlil va javob berish jarayonlarini avtomatlashtirish tizimi.",
-                "Axborot xavfsizligini monitoring va ogohlantirish tizimi.",
-                "Tarmoq foydalanuvchi va vositalarini boshqarish tizimi.",
-                "Viruslarni aniqlash va yo‘q qilishni tavsiya qiluvchi tizim."
+                "Axborot xavfsizligi va kiberxavfsizlik hodisalari to‘g‘risidagi ma’lumotlarni to‘plash, tahlil qilish va ularga javob berish jarayonlarini avtomatlashtirish tizimi.",
+                "Axborot xavfsizligi va kiberxavfsizlik hodisalarini tahlil qilish, axborot xavfsizligi va kiberxavfsizlik holatini monitoring qilish hamda ogohlantirish tizimi.",
+                "Tarmoq obyektlari bo‘lgan foydalanuvchilar va texnik vositalarni boshqarish tizimi.",
+                "Viruslarni aniqlash uchun mo‘ljallangan va ularni yo‘q qilish taklifini berishi mumkin bo‘lgan yoki yo‘q qiluvchi tizim."
             ]
         },
         {
             "№": 22,
-            "Savol": "Wi-Fi dan foydalanishda axborot xavfsizligi va kiberxavfsizlikni ta’minlash bo‘yicha qanday choralar ko‘rilgan bo‘lishi kerak?",
+            "Savol": "Wi-Fi dan foydalanishda axborot xavfsizligi va kiberxavfsizlikni ta’minlash bo‘yicha qanday choralari ko‘rilgan bo‘lishi kerak?",
             "Javob": [
-                "Barcha javoblar to‘g‘ri.",
-                "Foydalanuvchi identifikatsiyasi, client isolation va faqat internetga kirish ruxsati berish.",
-                "IPS/IDS yoki proxy filtr orqali shubhali va zararli trafikni bloklash, DoS hujumlarining oldini olish.",
-                "Himoyasiz ochiq Wi-Fi dan foydalanishni taqiqlash, real vaqt monitoring va hujumlarga urinishlarni kuzatish."
+                "Barcha javoblar to‘g‘ri",
+                "Wi-Fi tarmog‘i orqali faqatgina internet tarmog‘iga kirishga ruxsat berish, mijozni identifikatsiyadan o‘tkazish, mijozlararo ulanishni taqiqlash (client isolation).",
+                "IPS/IDS yoki proksi filtrlash orqali shubhali va zararli trafikni bloklash, DoS hujumlarini oldini olishda tezlik (QoS) va sessiyalarni cheklash.",
+                "Himoyasiz ochiq parolli (shifrlanmagan) Wi-Fi tarmog‘idan foydalanishni taqiqlash, real vaqt rejimida anomal faollik, skanerlash va hujumga urinishlar hamda taqiqlangan resurslarga ulanishni kuzatish."
             ]
         },
         {
             "№": 23,
-            "Savol": "Bank va tashqi axborot tizimi o‘rtasida axborot almashinuvi uchun xavfsizlik talablari qanday belgilanadi?",
+            "Savol": "Bank va tashqi axborot tizimi o‘rtasida axborot almashinuvi amalga oshirilishi uchun qanday axborot xavfsizligi va kiberxavfsizlikni ta’minlash talablari belgilab olinishi kerak:",
             "Javob": [
-                "Barcha javoblar to‘g‘ri.",
-                "Ma’lumotlar ro‘yxati va shakli, bank tizimiga kirish imkoniyatlarini cheklash.",
-                "Autentifikatsiya va identifikatsiya, EIM, shifrlash va himoya vositalari.",
-                "Bank sirini saqlash, tarmoq xavfsizligi, xodim vazifalari va javobgarligi."
+                "Barcha javoblar to‘g‘ri",
+                "Bank tomonidan beriladigan ma’lumotlar ro‘yxati va shakli, bankning axborot tizimiga kirish imkoniyatlarini chegaralash chora-tadbirlari.",
+                "Axborot almashinuvida autentifikatsiya va identifikatsiya jarayonlari, elektron raqamli imzo, shifrlash va boshqa axborot muhofazasi qurilmalari, dasturlari va uskunalari,",
+                "Bank siri ma’lumotlarini tashqariga chiqishining oldini olish, tarmoq xavfsizligi talablari bajarilishi, axborot almashinuvida qatnashuvchi xodimlarni tayinlash, ularning vazifalari, majburiyatlari va javobgarliklari."
             ]
         },
         {
             "№": 24,
-            "Savol": "Elektron raqamli imzo kaliti sertifikatida qanday ma’lumotlar aks etadi?",
+            "Savol": "Elektron raqamli imzo kaliti sertifikatida qanday ma’lumotlar aks ettiriladi?",
             "Javob": [
-                "Barcha javoblar to‘g‘ri.",
-                "EIM yopiq kaliti egasining familiyasi, ismi va otasining ismi.",
-                "Xodimning lavozimi va shaxsini tasdiqlovchi hujjat, jismoniy shaxsning PINFL.",
-                "EIM ochiq kaliti, sertifikat beruvchi ro‘yxatga olish markazi va manzili."
+                "Barcha javoblar to‘g‘ri",
+                "Elektron raqamli imzo yopiq kaliti egasining familiyasi, ismi va otasining ismi.",
+                "Xodimning lavozimi va shaxsini tasdiqlovchi hujjat ma’lumotlari, jismoniy shaxsning shaxsiy identifikatsiya raqami.",
+                "Elektron raqamli imzoning ochiq kaliti, sertifikatni bergan ro‘yxatga olish markazining nomi va joylashgan manzili. "
             ]
         },
         {
             "№": 25,
-            "Savol": "Bank ICT infrastruktura va tizim administratorlarining harakatlari qaysi tizim yordamida nazorat qilinadi?",
+            "Savol": "Bank axborot-kommunikatsiya texnologiyalari infratuzilmasi va axborot tizimlari administratorlarining harakatlari qaysi tizim yordamida nazorat qilinadi?",
             "Javob": [
-                "PAM (Privileged Access Management) tizimi yordamida.",
+                "PAM (Privileged Access Management) tizimi yordamida",
                 "FIM (File Integrity Monitoring) tizimi yordamida.",
                 "WAF (Web Application Firewall) tizimi yordamida.",
-                "SOAR tizimi yordamida."
+                "SOAR (Security Orchestration, Automation and Response) tizimi yordamida."
             ]
         },
         {
             "№": 26,
-            "Savol": "Axborot xavfsizligi va kiberxavfsizlikni ta’minlashda dasturiy-texnik vositalarga qanday talablar qo‘yiladi?",
+            "Savol": "Axborot xavfsizligi va kiberxavfsizlikni ta’minlashda foydalaniladigan dasturiy-texnik vositalarga qanday talablar qo‘yiladi?",
             "Javob": [
-                "Barcha javoblar to‘g‘ri.",
-                "Litsenziyalangan va sertifikatlangan bo‘lishi, aniq vazifalarni bajarish imkoniyati.",
-                "Yuqori ishonchlilik, 24/7 ishlash va monitoring tizimlari bilan integratsiya qila olish.",
-                "Ruxsat etilmagan foydalanuvchi tomonidan o‘zgartirilmasligi va xavfsizlik bo‘yicha tekshiruvlardan o‘tgan bo‘lishi."
+                "Barcha javoblar to‘g‘ri",
+                "Litsenziyalangan va sertifikatlangan bo‘lishi, shu bilan birga axborot xavfsizligini ta’minlashga qaratilgan aniq vazifalarni bajarish imkoniyatiga ega bo‘lishi lozim. ",
+                "Yuqori ishonchlilikka ega bo‘lishi, uzluksiz 24/7 rejimida faoliyat yuritishi hamda katta hajmdagi ma’lumotlarni qayta ishlashda yuqori samaradorlikni ta’minlashi lozim. ",
+                "Bankning axborot infratuzilmasi rivojlanishiga mos ravishda, qo‘llanilayotgan tizimlar moslashuvchan va kengaytirish imkoniyatiga ega bo‘lishi lozim. Shu bilan birga, ular boshqa axborot xavfsizligi tizimlari bilan samarali ma’lumot almashishni ta’minlaydigan standart protokollarni qo‘llab-quvvatlashi zarur."
             ]
         },
         {
             "№": 27,
-            "Savol": "Axborot tizimlarida foydalanuvchilarni autentifikatsiya qilishning qaysi usullari mavjud?",
+            "Savol": "FIM (File Integrity Monitoring) tizimi bankda qanday maqsadda joriy etiladi?",
             "Javob": [
-                "Parol, token, biometrik usullar (barmoq izi, yuz tanish, iris skaneri) va ko‘p faktorli autentifikatsiya.",
-                "Faqat parol orqali.",
-                "Faqat token qurilmalar orqali.",
-                "Faqat biometrik usullar orqali."
+                "Axborot aktivlarida ruxsat etilmagan o‘zgarishlarni o‘z vaqtida aniqlash va konfiguratsiya fayllarining yaxlitligini doimiy nazorat qilishni ta’minlash maqsadida.",
+                "Axborot aktivlarida foydalanuvchilar tomonidan kiritilgan o‘zgarishlarni tasdiqlash va fayllarni avtomatik tarzda yangilash maqsadida.",
+                "Axborot aktivlaridan foydalanish huquqlarini belgilash va foydalanuvchilarn tizimga kirishini nazorat qilish maqsadida.",
+                "Axborot tizimlari ma’lumotlar bazasi arxivini yaratish jarayonlarini nazorat qilish maqsadida."
             ]
         },
         {
             "№": 28,
-            "Savol": "Tizimga ruxsatsiz kirishni aniqlash va oldini olishda qanday vositalardan foydalaniladi?",
+            "Savol": "Elektron raqamli imzo kalitini saqlashda qanday cheklovlar qo‘llaniladi?",
             "Javob": [
-                "IDS/IPS tizimlari, firewall, SIEM va log monitoring tizimlari.",
-                "Faqat antivirus dasturlari.",
-                "Foydalanuvchilarni ogohlantirish va ichki qoidalar.",
-                "Qo‘lda jurnal yuritish va xodimlar kuzatuvi."
+                "Barcha javoblar to‘g‘ri",
+                "Elektron tashuvchi yoki maxsus kriptografik vositada saqlanishi lozim. ",
+                "Ish kompyuter xotirasida yoki ish kompyuteriga doimiy ulangan holatda turuvchi tashqi xotirada saqlash taqiqlanadi.",
+                "Kalit faqat uning egasiga ma’lum bo‘lishi va uchinchi shaxslarga ochiqlanmasligi lozim."
             ]
         },
         {
             "№": 29,
-            "Savol": "Ma’lumotlarni shifrlashning asosiy maqsadi nima?",
+            "Savol": "Internet tarmog‘idan foydalanishda axborot muhofazasi qanday vositalar orqali ta’minlanadi?",
             "Javob": [
-                "Ma’lumotlarni ruxsatsiz foydalanuvchilar uchun o‘qib bo‘lmas holga keltirish.",
-                "Ma’lumotlarni zaxira qilish va saqlash.",
-                "Ma’lumotlarni tahlil qilish va statistik hisoblash.",
-                "Ma’lumotlarni tezkor uzatish imkonini oshirish."
+                "Barcha javoblar to‘g‘ri",
+                "Tarmoqlararo ekran (Firewall) vositalari orqali.",
+                "Proksi-serverlar, antivirus vositalari yordamida ",
+                "Ruxsat-siz kirishni aniqlash va oldini olish (IDS/IPS) vositalari yordamida"
             ]
         },
         {
@@ -2720,18 +2720,18 @@
             "Savol": "Bankda axborot xavfsizligi maqsadlariga erishish uchun axborot xavfsizligi sohasidagi vazifalar nimalardan iborat?",
             "Javob": [
                 "Barcha javoblar to‘g‘ri.",
-                "Biznes, qonunchilik, xalqaro va davlat standartlari hamda O‘zbekiston Respublikasi boshqa normativ hujjatlar talablariga muvofiq axborot xavfsizligini boshqarish tizimini tashkil etish va rivojlantirish, axborot xavfsizligi sohasida mutaxassislar malakasini oshirish.",
-                "Bankning axborotlashtirish ob’ektlari va himoyalanadigan ma’lumotlarni turli tahdidlardan muhofaza qilish hamda axborot xavfsizligiga oid risklarni kamaytirish uchun axborot xavfsizligini boshqarishning samarali usullari va vositalarini joriy etish; axborotni qayta ishlash jarayonida xodimlar tomonidan axborotni himoya qilish talablariga rioya etilishi ustidan nazorat o‘rnatish.",
-                "Axborot xavfsizligi tahdidlarini o‘z vaqtida aniqlash va bartaraf etish maqsadida xavfsizlik holatini doimiy monitoringini ta’minlash; axborot xavfsizligi tahdidlariga tezkor choralar ko‘rish mexanizmi va shart-sharoitlarini yaratish; muhim axborotlashtirish ob’ektlarini himoyalanganlik darajasini oshirish va ularning ishonchli faoliyat ko‘rsatishini ta’minlash."
+                "Biznes, qonunchilik, xalqaro va davlat standartlari hamda O‘zbekiston Respublikasining boshqa normativ hujjatlari talablariga muvofiq axborot xavfsizligini boshqarish tizimini tashkil etish va rivojlantirish, axborot xavfsizligi sohasida mutaxassislar malakasini oshirish.",
+                "Bankning axborotlashtirish obyektlari va himoyalanadigan ma'lumotlarni turli tahdidlardan muhofaza qilish hamda axborot xavfsizligiga oid risklarni kamaytirish uchun axborot xavfsizligini boshqarishning samarali usullari va vositalarini joriy etish; axborotni qayta ishlash jarayonida xodimlar tomonidan axborotni himoya qilish talablariga rioya etilishi ustidan nazorat o‘rnatish.",
+                "Axborot xavfsizligi tahdidlarini o‘z vaqtida aniqlash va bartaraf etish maqsadida xavfsizlik holatini doimiy monitoringini ta'minlash; axborot xavfsizligi tahdidlariga tezkor chora ko‘rish mexanizmi va shart-sharoitlarini yaratish; muhim axborotlashtirish obyektlarini himoyalanganlik darajasini oshirish va ularning ishonchli faoliyat ko‘rsatishini ta'minlash."
             ]
         },
         {
             "№": 32,
-            "Savol": "Qaysi ob’ektlar himoya qilinishi lozim bo‘lgan ob’ektlar tarkibiga kiradi?",
+            "Savol": "Qaysi obyektlar himoya qilinishi lozim bo‘lgan obyektlar tarkibiga kiradi?",
             "Javob": [
                 "Barcha javoblar to‘g‘ri.",
-                "Konfidentsial ma’lumotlar saqlanadigan tashqi qurilmalar, texnologik jarayonlar, ishchi stansiyalar, serverlar, ma’lumotlar ombori (ma’lumotlarni saqlash tizimlari).",
-                "Bankomatlar, dasturiy ta’minotlar, axborot tizimlari, axborotni himoya qilish tizimlari.",
+                "Konfidensial ma'lumotlar saqlanadigan tashqi qurilmalar, texnologik jarayonlari, ishchi stansiyalar, serverlar, ma'lumotlar ombori (ma'lumotlarni saqlash tizimlari).",
+                "Bankomatlar, dasturiy ta'minotlar, axborot tizimlari, axborotni himoya qilish tizimlari.",
                 "Bankning korporativ tarmog‘i, Elektron raqamli imzo kalitlarini ro‘yxatga olish va sertifikatlash markazi."
             ]
         },
@@ -2740,29 +2740,29 @@
             "Savol": "Axborot xavfsizligi siyosati talablarini baholash jarayoni qanday masalalarni aniqlashga qaratilgan?",
             "Javob": [
                 "Barcha javoblar to‘g‘ri.",
-                "Axborot xavfsizligi siyosatining amaldagi tashkiliy, texnologik va axborot infratuzilmalari hamda ularni Bankda yanada rivojlantirish istiqbollariga muvofiqligi.",
-                "Hodisa sabablarini va tahdidlarni paydo bo‘lish manbalarini, hodisa sodir bo‘lishida foydalanilgan zaifliklarni, hodisa yuzaga kelishi yoki uning ko‘lami va oqibatlariga ta’sir etgan xatoliklar va kamchiliklar.",
-                "Hodisaning sabablar va/yo‘ oqibatlari uchun aybdor shaxslar, hodisa oqibatlarining xarakteri, yetkazilgan ziyon yoki zarar miqdori, insidentlarga javob qaytarish samaradorligining bahosi."
+                "Axborot xavfsizligi siyosatining amaldagi tashkiliy, texnologik va axborot infratuzilmalariga va ularni Bankda yanada rivojlantirish istiqbollariga muvofiqligi.",
+                "Hodisa sabablari va tahdidlarni paydo bo‘lish manbalari, hodisa sodir bo‘lishida foydalanilgan zaifliklar, hodisa yuzaga kelishi yoki uning ko‘lami va oqibatlariga ta'sir etgan xatoliklar va kamchiliklar.",
+                "Hodisaning sabablari va/yoki oqibatlari uchun aybdor shaxslar, hodisa oqibatlarining xarakteri, yetkazilgan ziyon yoki zarar miqdori, insidentlarga javob qaytarish samaradorligining bahosi."
             ]
         },
         {
             "№": 34,
-            "Savol": "Korporativ tarmoqning axborot xavfsizligini ta’minlash qaysi maqsadlar uchun zarur hisoblanadi?",
+            "Savol": "Korporativ tarmoqning axborot xavfsizligini ta'minlash qaysi maqsadlar uchun zarur hisoblanadi?",
             "Javob": [
                 "Barcha javoblar to‘g‘ri.",
                 "Axborot va tarmoq resurslarini tarmoqdan ruxsatsiz foydalanishga urinishlar va tarmoq hujumlaridan himoya qilish.",
-                "Axborot xavfsizligi sohasidagi normativ hujjatlar talablarini bajarish, korporativ tarmoq orqali uzatiladigan ma’lumotlarning konfidentsialligini ta’minlash.",
-                "Texnik ta’minotning alohida elementlari va alohida aloqa kanallarining ishlashi buzilgan hollarda korporativ tarmoq faoliyatini saqlab qolish."
+                "Axborot xavfsizligi sohasidagi normativ hujjatlar talablarini bajarish, korporativ tarmoq orqali uzatiladigan ma'lumotlarning konfidensialligini ta'minlash.",
+                "Texnik ta'minotning alohida elementlari va alohida aloqa kanallarining ishlashi buzilgan hollarda korporativ tarmoq faoliyatining saqlab qolish."
             ]
         },
         {
             "№": 35,
             "Savol": "Axborotni texnik himoya qilish vositalari -",
             "Javob": [
-                "Axborotning hayotiy tsiklning barcha bosqichlarida (shakllantirish, uzatish, qabul qilish, o‘zgartirish, qayta ishlash va saqlash) uni himoya qilish va xavfsizligini ta’minlash uchun mo‘ljallangan apparat, dasturiy yoki apparat-dasturiy vositalar.",
-                "Axborot resurslarining foydalanuvchilar tomonidan to‘g‘ri qo‘llanilishini nazorat qilish, ularning huquqlarini cheklash va ichki tartib-qoidalarga rioya etilishini ta’minlashga qaratilgan ma’muriy va tashkiliy chora-tadbirlar majmuasi.",
-                "Axborot tizimlariga kirish manbalari, ulardan foydalanuvchilarning huquqlari va ruxsat darajasini boshqarishga qaratilgan identifikatsiya, autentifikatsiya va avtorizatsiya vositalari, shuningdek audit jurnallari orqali nazorat qilish texnologiyalari.",
-                "Bankning tashqi va ichki tarmoqlaridagi foydalanuvchilar harakatlarini nazorat qilish, ruxsatsiz kirishlarni cheklash va anomal faoliyatni aniqlash uchun mo‘ljallangan dasturiy vositalar."
+                "axborotning hayotiy siklining barcha bosqichlarida (shakllantirish, uzatish, qabul qilish, o‘zgartirish, qayta ishlash va saqlash) uni himoya qilish va xavfsizligini ta'minlash uchun mo‘ljallangan apparat, dasturiy yoki apparat-dasturiy vositalar.",
+                "axborot resurslarining foydalanuvchilar tomonidan to‘g‘ri qo‘llanilishini nazorat qilish, ularning huquqlarini cheklash va ichki tartib-qoidalarga rioya etilishini ta'minlashga qaratilgan ma'muriy va tashkiliy chora-tadbirlar majmuasi.",
+                "axborot tizimlariga kirish manbalari, ulardan foydalanuvchilarning huquqlari va ruxsat darajasini boshqarishga qaratilgan identifikatsiya, autentifikatsiya va avtorizatsiya vositalari, shuningdek audit jurnallari orqali nazorat qilish texnologiyalari.",
+                "bankning tashqi va ichki tarmoqlaridagi foydalanuvchilar harakatlarini nazorat qilish, ruxsatsiz kirishlarni cheklash va anomal faoliyatni aniqlash uchun mo‘ljallangan dasturiy vositalar."
             ]
         },
         {
@@ -2771,18 +2771,18 @@
             "Javob": [
                 "Barcha javoblar to‘g‘ri.",
                 "Tarmoq xavfsizligi, ruxsatsiz kirishdan himoya qilish.",
-                "Axborotni zararli dasturlardan himoya qilish, konfidentsial ma’lumotlarni kanallar orqali sizib chiqishidan himoya qilish.",
-                "Axborot xavfsizligi insidentlarini monitoring qilish va ularga javob qaytarish, axborot xavfsizligini ta’minlashni nazorat qilish va tahlil qilish."
+                "Axborotni zararli dasturlardan himoya qilish, konfidensial ma'lumotlarni kanallar orqali sizib chiqishidan himoya qilish.",
+                "Axborot xavfsizligi insidentlarini monitoring qilish va ularga javob qaytarish, axborot xavfsizligini ta'minlashni nazorat qilish va tahlil qilish."
             ]
         },
         {
             "№": 37,
-            "Savol": "Kryptografik tizim (kryptotizim) - ",
+            "Savol": "Kriptografik tizim (kriptotizim) - ",
             "Javob": [
-                "Axborotni kryptografik o‘zgartirishni va (yoki) boshqarishni, shu jumladan kryptografik kalitlarni tayyorlash va tarqatish jarayonini avtomatlashtirishni ta’minlovchi tashkiliy, texnikaviy va dasturiy vositalar majmui.",
-                "Kryptografik algoritmlardan foydalangan holda, shifrlaydigan, shifrni ochadigan, elektron imzolarni yaratadigan va tekshiradigan maxfiy belgilar ketma-ketligi.",
-                "Axborotni (ma’lumotlarni) buzishni oldini olish va ruxsatsiz foydalanishdan himoya qilish maqsadida axborotni (ma’lumotni) o‘zgartirishning matematik algoritmi.",
-                "Elektron hujjatda elektron raqamli imzo yaratilishini, elektron raqamli imzo haqiqiyligi tasdiqlanishini, elektron raqamli imzo ochiq va yopiq kalitlari yaratilishini ta’minlaydigan texnikaviy va dasturiy vositalar majmui."
+                "axborotni kriptografik o‘zgartirishni va (yoki) boshqarishni, shu jumladan kriptografik kalitlarni tayyorlash va tarqatish jarayonini avtomatlashtirishni ta'minlovchi tashkiliy, texnikaviy va dasturiy vositalar majmui.",
+                "kriptografik algoritmlardan foydalangan holda, shifrlaydigan, shifrni ochadigan, elektron imzolarni yaratadigan va tekshiradigan maxfiy belgilar ketma-ketligi.",
+                "axborotni (ma'lumotlarni) buzishni oldini olish va ruxsatsiz foydalanishdan himoya qilish maqsadida axborotni (ma'lumotni) o‘zgartirishning matematik algoritmi.",
+                "elektron hujjatda elektron raqamli imzo yaratilishini, elektron raqamli imzoing haqiqiyligi tasdiqlanishini, elektron raqamli imzoninig ochiq va yopiq kalitlari yaratilishini ta'minlaydigan texnikaviy va dasturiy vositalar majmui."
             ]
         },
         {
@@ -2790,9 +2790,9 @@
             "Savol": "Axborot xavfsizligining asosiy risklari quyidagilardan iborat:",
             "Javob": [
                 "Axborotning yo‘qolishi, buzilishi, sizib chiqishi.",
-                "Texnik aralashuv, tarmoq uskunalarini ishlashdan chiqarish.",
+                "Texnik aralashuv, tarmoq uskunalarini ishdan chiqarish.",
                 "Axborotni buzib ko‘rsatish, hajmini kamaytirish, qayta kodlash.",
-                "Kompyuterlarda tez ishlashni ta’minlash, dasturlarni yangilab turish, foydalanuvchilarga qulay interfeys yaratish."
+                "Kompyuterlarda tez ishlashni ta'minlash, dasturlarni yangilab turish, foydalanuvchilarga qulay interfeys yaratish."
             ]
         },
         {
@@ -2800,623 +2800,618 @@
             "Savol": "Bankning tarmoqlararo axborot almashinuvi qanday yo‘l bilan muhofazalanadi?",
             "Javob": [
                 "Xususiy virtual tarmoqlar (VPN) orqali.",
-                "Barcha axborotni uzatish uchun aniq IP manzillar orqali.",
-                "Ma’lumotlarni almashish jarayonida ularni shifrlash orqali.",
-                "Tarmoqlararo axborot almashinuvi faqat internet orqali amalga oshiriladi."
+                "Barcha axborotni uzatish uchun aniq IP manzillar orqali",
+                "Ma'lumotlarni almashish jarayonida ularni shifrlash orqali ",
+                "Tarmoqlararo axborot almashinuvini faqat internet orqali amalga oshirish. "
             ]
         },
         {
             "№": 40,
             "Savol": "Bankning barcha bo‘linmalari lokal hisoblash tarmog‘ida qanday yo‘l bilan bir-biridan ajratilishi lozim?",
             "Javob": [
-                "VLAN – virtual local area network (virtual local tarmoq) hosil qilish yo‘li bilan.",
-                "Barcha axborot almashinuvi faqat lokal tarmoq (LAN) orqali o‘tkaziladi.",
-                "Barcha axborotni uzatish uchun aniq IP manzillar orqali xavfsiz aloqa ta’minlanadi.",
+                "VLAN – virtual local area network(virtual local tarmoq) xosil qilish yo‘li bilan.",
+                "Barcha axborot almashinuvi faqat lokal tarmoq (LAN) orqali o‘tkaziladi,",
+                "Barcha axborotni uzatish uchun aniq IP manzillar orqali xavfsiz aloqa ta'minlanadi.",
                 "Xususiy virtual tarmoqlar (VPN) orqali."
             ]
         },
         {
             "№": 41,
-            "Savol": "Bank axborot tizimlarida ma’lumotlarning konfidentsialligi nimani anglatadi?",
+            "Savol": "Internet tarmog‘idan foydalanishda axborot muhofazasini ta'minlash qanday yo‘llar bilan amalga oshiriladi?",
             "Javob": [
-                "Ma’lumotlar faqat ruxsat berilgan shaxslar tomonidan ko‘rilishi va o‘zgartirilishi mumkinligi.",
-                "Ma’lumotlarning tezkor ravishda qayta ishlanishi.",
-                "Ma’lumotlarning saqlanish muddati.",
-                "Ma’lumotlarning tarqalishi va ommalashishi."
+                "Internet tarmog‘idan foydalanishda axborot muhofazasini ta'minlash tarmoqlararo ekran qurilmalari, proksi-serverlar, antivirus vositalari, ruxsatsiz kirishni aniqlash va oldini olish (IDS/IPS) hamda boshqa axborot xavfsizligi va kiberxavfsizlikni ta'minlash tizimlarini qo‘llash yo‘li bilan amalga oshiriladi.",
+                "Internet tarmog‘idan foydalanishda axborot muhofazasini ta'minlash uchun faqat shifrlash yoki antivirus dasturi kerak.",
+                "Internet tarmog‘idan foydalanishda axborot muhofazasini ta'minlash uchun faqat antivirus va proksi-serverlar kerak.",
+                "Internet tarmog‘idan foydalanishda xavfsizligini ta'minlash uchun autentifikatsiya va shifrlash yordamida axborotni himoya qilish kerak,"
             ]
         },
         {
             "№": 42,
-            "Savol": "Axborot tizimlarida foydalanuvchi identifikatsiyasi va autentifikatsiyasi qanday maqsadda qo‘llaniladi?",
+            "Savol": "Axborot xavfsizlik siyosati qancha vaqt oralig‘ida va qaysi holatlarda qayta ko‘rib chiqiladi?",
             "Javob": [
-                "Foydalanuvchi haqiqiyligi va ruxsatlarini aniqlash uchun.",
-                "Ma’lumotlarni shifrlash uchun.",
-                "Foydalanuvchilarning hisob-kitobini yuritish uchun.",
-                "Ma’lumotlarni zaxira qilish uchun."
+                "Axborot xavfsizlik siyosati axborot infratuzilmalarida o‘zgarishlar bo‘lganda, shuningdek har yili qayta ko‘rib chiqiladi.",
+                "Tashkilotni axborot xavfsizlik siyosati faqat axborot infratuzilmalarida o‘zgarishlar bo‘lganda qayta ko‘rib chiqiladi.",
+                "Tashkilotni axborot xavfsizlik siyosati 2 yilda bir marta qayta ko‘rib chiqiladi.",
+                "Tashkilotni axborot xavfsizlik siyosati har chorakda qayta ko‘rib chiqiladi."
             ]
         },
         {
             "№": 43,
-            "Savol": "Server va ishchi stansiyalarni himoya qilish uchun qanday texnik choralar qo‘llaniladi?",
+            "Savol": "Antivirus dasturi - ",
             "Javob": [
-                "Antivirus dasturlari, firewall, kirish nazorati tizimlari.",
-                "Faqat fizik qulflar va eshiklar.",
-                "Foydalanuvchi parollari yoki PIN-kodlari.",
-                "Ma’lumotlarni qo‘lda saqlash."
+                "kompyuter virusiga qarshi dastur, viruslarni aniqlash uchun mo‘ljallangan va ularni yo‘q qilish taklifini berishi mumkin bo‘lgan yoki yo‘q qiluvchi dastur.",
+                "internet tizimini tezlashtirish va kompyuterning ishlash qobiliyatini oshirishga mo‘ljallangan dastur,",
+                "faqat kompyuterdagi fayllarni saqlash va arxivlash uchun ishlatiladigan dastur. ",
+                "kompyuterga kirib kelgan har qanday ma'lumotni monitoring qilish va ularni boshqarishga mo‘ljallangan dastur."
             ]
         },
         {
             "№": 44,
-            "Savol": "Ma’lumotlarni rezervlashning asosiy maqsadi nima?",
+            "Savol": "Antivirus himoyasi -",
             "Javob": [
-                "Ma’lumotlarni yo‘qolishidan himoya qilish va tezkor tiklash imkonini yaratish.",
-                "Ma’lumotlarni shifrlash.",
-                "Ma’lumotlarni tahlil qilish.",
-                "Ma’lumotlarni tarqatish."
+                "kompyuter viruslari ta'sirining oldini olish, viruslarni topish va zararsizlantirishga qaratilgan chora-tadbirlar majmuasi.",
+                "kompyuterning ishlashini optimallashtirish, shu jumladan, diskni tozalash va tizimga katta yuklamalarni kiritishga qaratilgan chora-tadbirlar majmuasi.",
+                "kompyuterdagi faqatgina fayllarni qayta tiklash va saqlashga mo‘ljallangan dasturlar orqali amalga oshiriladigan himoya charalari majmuasi,",
+                "kompyuterning barcha jarayonlarini tezkor ravishda aniqlash va monitoring qilishga qaratilgan, viruslardan himoya qilishni o‘z ichiga olmagan dasturlarning faoliyatidir."
             ]
         },
         {
             "№": 45,
-            "Savol": "Axborot xavfsizligi insidentini aniqlash uchun qanday monitoring usullari qo‘llaniladi?",
+            "Savol": "Autentifikatsiya - ",
             "Javob": [
-                "Server jurnallari, IDS/IPS, SIEM tizimlari.",
-                "Faqat qo‘lda yozuvlar.",
-                "Foydalanuvchi hisobotlari.",
-                "Elektron pochta orqali xabarlar."
+                "obyekt yoki subyektni unga berilgan identifikatorga mosligini tekshirish va belgilar ketmaketligidan iborat maxfiy kodini tekshirish orqali aslligini aniqlash.",
+                "foydalanuvchining kompyuter tizimiga kirish jarayonida tizimni optimallashtirish va uning ishlash tezligini oshirish uchun amalga oshiriladigan jarayon. ",
+                "foydalanuvchining shaxsiy ma'lumotlarini va tarmoq orqali uzatilayotgan ma'lumotlarni shifrlashni amalga oshiradiigang jarayon.",
+                "kompyuter viruslari ta'sirining oldini olish, viruslarni topish va zararsizlantirishni amalga oshirish jarayoni. "
             ]
         },
         {
             "№": 46,
-            "Savol": "Kryptografiyada shifrlashning asosiy maqsadi nima?",
+            "Savol": "Kompyuter virusi aniqlanganda qanday choralar ko‘rilishi kerak?",
             "Javob": [
-                "Ma’lumotlarni ruxsatsiz foydalanuvchilar uchun tushunarsiz qilish.",
-                "Ma’lumotlarni saqlash muddatini uzaytirish.",
-                "Ma’lumotlarni tahlil qilish.",
-                "Ma’lumotlarni uzatish tezligini oshirish."
+                "axborot xavfsizligi xizmatiga zudlik bilan xabar berish lozim",
+                "xodim mustaqillik hal qilish kerak.",
+                "Zudlik bilan departament boshlig‘iga xabar berish kerak.",
+                "Bank raxbariyatiga yozma ravishda ma'lumot kiritish kerak.."
             ]
         },
         {
             "№": 47,
-            "Savol": "Elektron raqamli imzo nima uchun qo‘llaniladi?",
+            "Savol": "Parollarga qo‘yiladigan talablar nimalardan iborat?",
             "Javob": [
-                "Hujjatning haqiqiyligini va o‘zgarmasligini tasdiqlash uchun.",
-                "Hujjatni shifrlash uchun.",
-                "Hujjatni saqlash muddatini uzaytirish uchun.",
-                "Hujjatni tahlil qilish uchun."
+                "Parol 12 ta belgidan kam bo‘lmasligi lozim, bunda parolning belgilari sifatida pastki va yuqori registr harflari, raqamlar va maxsus belgilar (@,#, $, &, % va h.k.) qo‘llaniladi. ",
+                "Oddiy va esda qoladigan",
+                "Faqat harflardan iborat",
+                "Faoliyatni osonlashtiradigan qisqa parol"
             ]
         },
         {
             "№": 48,
-            "Savol": "Bank lokal tarmoqlarida VLAN nima maqsadda qo‘llaniladi?",
+            "Savol": "Qaysi biri tarmoqni himoya qilish uchun ishlatiladigan vosita?",
             "Javob": [
-                "Bo‘limlar va foydalanuvchilarni tarmoqda alohida segmentlash uchun.",
-                "Hammasi ma’lumotlarni shifrlash uchun.",
-                "Ma’lumotlarni avtomatik rezervlash uchun.",
-                "Foydalanuvchilarni autentifikatsiya qilish uchun."
+                "Fayrvol",
+                "Antivirus dasturi",
+                "Shiflovchi dastur",
+                "Ijtimoiy tarmoq"
             ]
         },
         {
             "№": 49,
-            "Savol": "Tarmoq xavfsizligini ta’minlashda firewallning asosiy vazifasi nima?",
+            "Savol": "Ichki tahdidlarning manbalari:",
             "Javob": [
-                "Ruxsatsiz kirishlarni bloklash va ma’lumot oqimini nazorat qilish.",
-                "Ma’lumotlarni shifrlash.",
-                "Serverlarni tezkorlik bilan qayta yuklash.",
-                "Foydalanuvchilarning parollarini saqlash."
+                "Barcha javoblar to‘g‘ri.",
+                "dasturiy ta'minot.",
+                "tashkilot xodimlari.",
+                "texnik vositalar."
             ]
         },
         {
             "№": 50,
-            "Savol": "IDS/IPS tizimlari nima uchun zarur?",
+            "Savol": "Har qanday muhofaza tizimining eng zaif bo‘g‘ini nima? ",
             "Javob": [
-                "Tarmoqdagi tahdidlarni aniqlash va ularga javob qaytarish.",
-                "Ma’lumotlarni shifrlash uchun.",
-                "Hisob-kitobni yuritish uchun.",
-                "Ma’lumotlarni tarqatish uchun."
+                "Odam. ",
+                "Signalizatsiya vositalari.",
+                "Texnologik jarayonlar."
             ]
         },
         {
             "№": 51,
-            "Savol": "SIEM tizimi nima qiladi?",
+            "Savol": "Tashkilotda xavfsizlikni muvaffaqiyatli boshqarishni ta'minlash uchun eng muhim omil nima?",
             "Javob": [
-                "Tarmoq va server jurnallarini tahlil qiladi, xavfli holatlarni aniqlaydi.",
-                "Ma’lumotlarni shifrlaydi.",
-                "Ma’lumotlarni saqlaydi.",
-                "Foydalanuvchi ro‘yxatini yuritadi."
+                "Tashkilot raxbarining qo‘llab-quvvatlashi.",
+                "Samarali himoya choralari va ularni amalga oshirish usullari.",
+                "Aktual va adekvat xavfsizlik siyosati.",
+                "Barcha xodimlar uchun xavfsizlik bo‘yicha treninglar o‘tkazish."
             ]
         },
         {
             "№": 52,
-            "Savol": "Foydalanuvchi sessiyasini avtomatik bloklash nima uchun qo‘llaniladi?",
+            "Savol": "Kompyuterdagi antivirus dasturining sozlamalari kim tomonidan sozlanadi?",
             "Javob": [
-                "Sessiya vaqti tugaganda ma’lumot xavfsizligini ta’minlash uchun.",
-                "Ma’lumotlarni shifrlash uchun.",
-                "Server tezligini oshirish uchun.",
-                "Foydalanuvchi interfeysini qulay qilish uchun."
+                "Axborot xavfsizligi markazining mas'ul xodimi tomonidan amalga oshiriladi. ",
+                "Axborot texnologiyalari departamenti mas'ul xodimi tomonidan amalga oshiriladi. ",
+                "Tarkibiy bo‘linmalarning mas'ul xodimi tomonidan amalga oshiriladi. ",
+                "Texnik qo‘llab-quvvatlash bo‘yicha tashkilot mutaxassislari tomonidan amalga oshiriladi. "
             ]
         },
         {
             "№": 53,
-            "Savol": "Axborot xavfsizligi siyosati nima uchun muhim?",
+            "Savol": "Kiberjinoyatchilik deganda nima tushuniladi?",
             "Javob": [
-                "Bankda ma’lumotlarni muhofaza qilish va standartlar talablariga muvofiq faoliyatni ta’minlash uchun.",
-                "Ma’lumotlarni saqlash muddatini uzaytirish uchun.",
-                "Server tezligini nazorat qilish uchun.",
-                "Foydalanuvchi interfeysini qulay qilish uchun."
+                "Axborotni egallash, uni o‘zgartirish, yo‘q qilish yoki axborot tizimlari va resurslarini ishdan chiqarish maqsadida kiber makonda dasturiy ta'minot va texnik vositalardan foydalanilgan holda amalga oshiriladigan jinoyatlar yig‘indisi.",
+                "Foydalanuvchilarning faoliyatini kuzatish, ulaga tegishli bo‘lgan har qanday ko‘rinishdagi ma'lumotlarni yo‘q qilish yoki o‘g‘irlash bilan bog‘liq jinoyatlar.",
+                "Axborotni egallash, uni o‘zgartirish, yo‘q qilish yoki axborot tizimlari va resurslarini ishdan chiqarish maqsadida serverlar va telekommunikatsiya qurilmalariga jimonan shikast yetkazish.",
+                "Internet orqali amalga oshiriladigan elektron savdo, onlayn to‘lov va raqamli xizmatlardan, shuningdek kurerlik xizmatidan foydalanish jarayonlariga nisbatan amalga oshiriladigan jinoyatlar."
             ]
         },
         {
             "№": 54,
-            "Savol": "Foydalanuvchilarni ro‘yxatga olish va huquqlarini boshqarish nima uchun kerak?",
+            "Savol": "Axborot xavfsizligi va kiberxavfsizlik tavakkalchiliklarini (risklarini) doimiy ravishda baholash va tahlil qilib borish kim tomonidan amalga oshiriladi?",
             "Javob": [
-                "Foydalanuvchi kirish huquqlarini va mas’uliyatlarini aniqlash uchun.",
-                "Ma’lumotlarni shifrlash uchun.",
-                "Ma’lumotlarni tarqatish uchun.",
-                "Server tezligini nazorat qilish uchun."
+                "Axborot xavfsizligi markazi tomonidan",
+                "Risk menejmenti departamenti tomonidan ",
+                "Komplayens nazorati departamentitomonidan",
+                "Bank boshqaruvi tomonidan"
             ]
         },
         {
             "№": 55,
-            "Savol": "Ma’lumotlarni kanallar orqali sizib chiqishdan himoya qilish uchun qanday choralar ko‘riladi?",
+            "Savol": "Axborot tizimlaridan ruxsatsiz ma'lumot chiqib ketishini oldini olish qanday ta'minlanadi?",
             "Javob": [
-                "Shifrlash va virtual xususiy tarmoqlar (VPN).",
-                "Faqat fizik qulflar.",
-                "Ma’lumotlarni qo‘lda saqlash.",
-                "Server tezligini oshirish."
+                "DLP tizimi joriy etilishi lozim",
+                "Tarmoqlararo ekran (Firewall) tizimi joriy etilishi lozim.",
+                "WAF (Web Application Firewall) tizimi joriy etilishi lozim.",
+                "Anti-DDoS tizimi joriy etilishi lozim"
             ]
         },
         {
             "№": 56,
-            "Savol": "Bankda axborot xavfsizligi tahdidlarini aniqlash va kamaytirish uchun nima qilinadi?",
+            "Savol": "Axborot tizimlarida to‘lovlarga oid ma'lumotlar bilan ishlash huquqiga ega bo‘lgan foydalanuvchilar qanday tarzda autentifikatsiya qilinadi?",
             "Javob": [
-                "Har doim monitoring, audit va xavf tahlillari o‘tkaziladi.",
-                "Ma’lumotlar shifrlanadi.",
-                "Ma’lumotlar tarqatiladi.",
-                "Serverlar qayta yuklanadi."
+                "Foydalanuvchilarni autentifikatsiya qilish apparat-dasturiy qurilmalar orqali amalga oshiriladi. ",
+                "Foydalanuvchilarni autentifikatsiya qilish login va parol orqali amalga oshiriladi. ",
+                "Foydalanuvchilarni autentifikatsiya qilish faqat vizual kuzatuv kameralari orqali amalga oshiriladi,",
+                "Foydalanuvchilarni autentifikatsiya qilish uchun faqat tarmoq manzili (IP) va qurilma MAC manzili yetarli hisoblanadi."
             ]
         },
-
         {
             "№": 57,
-            "Savol": "Axborot xavfsizligini ta’minlashda foydalanuvchi parollari uchun qanday talablar bor?",
+            "Savol": "Bankda Elektron to‘lovlarni amalga oshirishda foydalanaadigan Elektron raqamli imzo kaliti sertifikati kim tomonidan yaratiladi?",
             "Javob": [
-                "Murakkab va muntazam yangilanishi, qiyin topiladigan va unik bo‘lishi.",
-                "Faqat eng oddiy va oson parollar.",
-                "Barcha foydalanuvchilar uchun bir xil parol.",
-                "Parollar saqlanmaydi, foydalanuvchi ularni eslab turishi kerak."
+                "Bankning elektron raqamli imzo kalitlarini ro‘yxatga olish markazi tomonidan ",
+                "Markaziy bankning elektron raqamli imzo kalitlarini ro‘yxatga olish markazi tomonidan ",
+                "Davlat soliq qo‘mitasi huzuridagi Elektron raqamli imzo kalitlarini ro‘yxatga olish markazi tomonidan ",
+                "Raqamli texnologiyalar vazirligi tomonidan "
             ]
         },
         {
             "№": 58,
-            "Savol": "Axborot xavfsizligini ta’minlashda foydalanuvchi ma’lumotlariga ruxsat darajalari qanday belgilanadi?",
+            "Savol": "Axborot xavfsizligining prinsiplari -",
             "Javob": [
-                "Har bir foydalanuvchining vazifalari va mas’uliyatlariga muvofiq, minimal huquqlar prinsipi asosida.",
-                "Barcha foydalanuvchilar bir xil ruxsatlarga ega bo‘ladi.",
-                "Faqat administratorlar barcha ma’lumotlarga kirishi mumkin.",
-                "Ruxsatlar tasodifiy belgilanadi."
+                "maxfiylik, yaxlitlik, mavjudlik. ",
+                "qonuniylik, algoritmlarning ochiqligi, boshqaruvchanlik.",
+                "maxfiylik, boshqariladiganlik, tizimliylik",
+                "ishonchlilik, aniqlik, barqarorlik, "
             ]
         },
         {
             "№": 59,
-            "Savol": "Axborot xavfsizligini monitoring qilish va auditning asosiy maqsadi nima?",
+            "Savol": "Identifikatsiya -",
             "Javob": [
-                "Tahdidlarni aniqlash, zaifliklarni bartaraf etish va xavfsizlik darajasini oshirish.",
-                "Ma’lumotlarni tarqatish va zaxiralash.",
-                "Foydalanuvchi ishini tezlashtirish.",
-                "Serverlarni tezkor qayta yuklash."
+                "axborot tizimlari obyekt va subyektlariga uni tanish uchun nomlar berish va berilgan nom bo‘yicha solishtirib uni aniqlash jarayoni.",
+                "malumotlarni maxfiylashtirish va faqat maxsus kalit yordamida o‘qish.",
+                "maxsus algoritm asosida belgilardan tarkib topgan maxfiy kalitni axborotga qo‘shish orqali axborotni yopish.",
+                "foydalanuvchining resursdan foydalanish huquqlarini va ruxsatlarini tekshirish jarayoni bo‘lib, shaxs harakati doirasini va u foydalanadigan resurslarni belgilaydi."
             ]
         },
         {
             "№": 60,
-            "Savol": "Axborot xavfsizligini ta’minlash bo‘yicha xodimlarni o‘qitish nimani maqsad qiladi?",
+            "Savol": "Avtorizatsiya -",
             "Javob": [
-                "Xodimlarning axborot xavfsizligi bo‘yicha bilim va ko‘nikmalarini oshirish, tahdidlardan himoyalanishni ta’minlash.",
-                "Faqat texnik jihozlarni yangilashni o‘rgatadi.",
-                "Ma’lumotlarni shifrlash algoritmlarini tushuntiradi, lekin amalda ishlatishni o‘rgatmaydi.",
-                "Xodimlarga parollarni eslab qolishni o‘rgatadi."
+                "ma'lum shaxsga yoki shaxslar guruhiga muayyan harakatlarni amalga oshirish huquqini berish.",
+                "obyekt yoki subyektni unga berilgan identifikatorga mosligini tekshirish va belgilar ketmaketligidan iborat maxfiy kodini tekshirish orqali aslligini aniqlash.",
+                "maxsus algoritm asosida belgilardan tarkib topgan maxfiy kalitni axborotga qo‘shish orqali axborotni yopish (shifrlash).",
+                "axborot tizimlari obyekt va subyektlariga uni tanish uchun nomlar berish va berilgan nom bo‘yicha solishtirib uni aniqlash jarayoni."
             ]
         },
-
         {
             "№": 61,
-            "Savol": "Ma’lumotlarning yaxlitligi nimani anglatadi?",
+            "Savol": "\"Ma'lumotlarni shifrlash\" nima?",
             "Javob": [
-                "Ma’lumotlar o‘zgarmasligi va ruxsatsiz o‘zgartirilmasligini ta’minlash.",
-                "Ma’lumotlarni tezkor qayta ishlash.",
-                "Ma’lumotlarni saqlash muddati.",
-                "Ma’lumotlarni tarqatish."
+                "Ma'lumotlarni maxfiylashtirish va faqat maxsus kalit yordamida o‘qish.",
+                "Fayllarni saqlash",
+                "Fayllarni o‘zgartirish",
+                "Fayllarni serverga yuborish"
             ]
         },
         {
             "№": 62,
-            "Savol": "Bank axborot tizimlarida qanday xavf turlari mavjud?",
+            "Savol": "Elektron raqamli imzo bankning qaysi tizimlarida ishlatiladi?",
             "Javob": [
-                "Kiberhujumlar, ichki xatolar, tabiiy ofatlar.",
-                "Faqat texnik nosozliklar.",
-                "Faqat xodimlarning xatolari.",
-                "Faqat viruslar."
+                "Elektron raqamli imzo bank xodimlari tomonidan IABS tizimidan foydalanishda hamda bank mijozlari yuridik shaxslar tomonidan masofaviy bank xizmatlaridan foydalanishda ishlatiladi",
+                "Elektron raqamli imzo faqat texnik xizmat ko‘rsatishda ishlatiladi.",
+                "Elektron raqamli imzo faqat bank rahbarlari tomonidan ichki hujjatlar imzolanayotganda ishlatiladi.",
+                "Elektron raqamli imzo faqat mijozlar tomonidan bankka murojaat qilganda hujjatlarni tasdiqlash uchun ishlatiladi."
             ]
         },
         {
             "№": 63,
-            "Savol": "Parol siyosati nimalardan iborat bo‘lishi kerak?",
+            "Savol": "Axborot xavfsizligining asosiy obyektlari: ",
             "Javob": [
-                "Murakkab, unik va muntazam yangilanadigan parollar.",
-                "Oddiy va qisqa parollar.",
-                "Barchaga bir xil parol.",
-                "Parolsiz tizimlar."
+                "kompyuter tarmoqlari, ma'lumotlar bazalari",
+                "axborot tizimlari, foydalanuvchilarning psixologik holati ",
+                "biznesga yo‘naltirilgan, tijorat tizimlari"
             ]
         },
         {
             "№": 64,
-            "Savol": "Bank tizimlarida ikki faktorli autentifikatsiya nima uchun ishlatiladi?",
+            "Savol": "Kiberhujum deganda nima tushuniladi?",
             "Javob": [
-                "Xavfsizlikni oshirish va foydalanuvchi identifikatsiyasini mustahkamlash uchun.",
-                "Ma’lumotlarni shifrlash uchun.",
-                "Serverlarni tezlashtirish uchun.",
-                "Xodimlarni nazorat qilish uchun."
+                "Kiber makonda apparat, apparat-dasturiy va dasturiy vositalardan foydalangan holda qasddan amalga oshiriladigan, kiberxavfsizlikka tahdid soladigan harakat.",
+                "Axborot tizimlarida sodir bo‘ladigan tasodifiy texnik nosozlik bo‘lib, u dasturiy ta'minotning xatolari yoki foydalanuvchi xatolari natijasida yuzaga keladi.",
+                "Axborot tizimlariga rejali ravishda yangilanish va texnik xizmat ko‘rsatish ishlarini amalga oshirish jarayoni bo‘lib, xavfsizlikni ta'minlashga qaratilgan harakat hisoblanadi.",
+                "Telekommunikatsiya qurilmalarini jismonan ishdan chiqarishga qaratilgan harakat."
             ]
         },
-
         {
             "№": 65,
-            "Savol": "Firewallning asosiy vazifasi nima?",
+            "Savol": "Kibermadaniyat deganda nima tushuniladi?",
             "Javob": [
-                "Ruxsatsiz kirishlarni bloklash va ma’lumot oqimini nazorat qilish.",
-                "Ma’lumotlarni shifrlash.",
-                "Serverlarni tiklash.",
-                "Xodimlarni kuzatish."
+                "Barcha javoblar to‘g‘ri.",
+                "Insonlarning raqamli muhitdagi (internet, kompyuter tarmoqlari, axborot tizimlari) xulq-atvori, axloqiy qoidalari, xavfsizlikka rioya etish ko‘nikmalari va raqamli texnologiyalardan mas'uliyatli foydalanish.",
+                "Internetda muloqot qilishda hurmatli, madaniy va odobli bo‘lish, yolg‘on ma'lumot tarqatmaslik, boshqalarni haqorat qilmaslik.",
+                "Shaxsiy ma'lumotlar va parollarni oshkora qilmaslik, shubhali havolalarni ochmaslik va zararli fayllarni tarqatmaslik, boshqalarning huquqlarini hurmat qilgan holda raqamli muhitda mas'uliyatli harakat qilish"
             ]
         },
         {
             "№": 66,
-            "Savol": "IDS/IPS tizimlari nima uchun ishlatiladi?",
+            "Savol": "Elektron hujjat - ",
             "Javob": [
-                "Tarmoqqa bo‘lgan tahdidlarni aniqlash va ularga javob qaytarish uchun.",
-                "Ma’lumotlarni shifrlash uchun.",
-                "Hisob-kitob yuritish uchun.",
-                "Ma’lumotlarni tarqatish uchun."
+                "elektron shaklda qayd etilgan, elektron raqamli imzo bilan tasdiqlangan va elektron hujjatning uni identifikatsiya qilish imkoniyatini beradigan boshqa rekvizitlariga ega bo‘lgan axborot.",
+                "og‘oz shaklda rasmiylashtirilgan va keyinchalik skaner qilingan axborot fayli.",
+                "faqat davlat idoralari o‘rtasida almashinuv uchun mo‘ljallangan elektron raqamli imzo bilan tasdiqlangan raqamli ma'lumotlar to‘plami.",
+                "ma'lumotlar va rekvizitlar aks etgan raqamli formatdagi fayl."
             ]
         },
         {
             "№": 67,
-            "Savol": "SIEM tizimi nima qiladi?",
+            "Savol": "Kompyuter virusi -",
             "Javob": [
-                "Tarmoq va server jurnallarini tahlil qiladi, xavfli holatlarni aniqlaydi.",
-                "Ma’lumotlarni shifrlaydi.",
-                "Ma’lumotlarni saqlaydi.",
-                "Foydalanuvchi ro‘yxatini yuritadi."
+                "destruktiv xususiyatga, o‘z nusxasini ko‘paytira olish (asl nusxa bilan to‘liq mos bo‘lmasligi ham mumkin) va foydalanuvchi bilmagan holda ularni kompyuter tizimlari, tarmoqlari turli resurslari va shu borada joriy etish qobiliyatiga ega bo‘lgan dasturdir (bajariladigan kodlar to‘plami).",
+                "maxsus algoritm asosida belgilardan tarkib topgan maxfiy kalitni buzuvchi dasturiy kod yoki komandalar ketma-ketligi. ",
+                "tarmoq orqali uzatilayotgan ma'lumotlarga zarar yetkazuvchi dastur kodi yoki komandalar ketma-ketligi.",
+                "shifrlash amallarini bajaradigan dastur kodi yoki komandalar ketma-ketligi."
             ]
         },
         {
             "№": 68,
-            "Savol": "VLAN nima maqsadda ishlatiladi?",
+            "Savol": "Kim bank tizimiga zarar yetkazish uchun eng katta imkoniyatga ega?",
             "Javob": [
-                "Bo‘limlar va foydalanuvchilarni tarmoqda alohida segmentlash uchun.",
-                "Ma’lumotlarni shifrlash uchun.",
-                "Ma’lumotlarni avtomatik zaxiralash uchun.",
-                "Foydalanuvchilarni autentifikatsiya qilish uchun."
+                "Bankning o‘z xodimlari. ",
+                "Mahalliy kiberjinoyatchilar.",
+                "Xorijiy kiberjinoyatchilar. ",
+                "Banklarning mijozlari va kontraгентlari."
             ]
         },
         {
             "№": 69,
-            "Savol": "Axborot xavfsizligi auditi nima uchun o‘tkaziladi?",
+            "Savol": "Axborot xavfsizligi hodisalari to‘g‘risida kimlar xabardor qilinishi kerak?",
             "Javob": [
-                "Boshqaruv va tizimlar xavfsizligini baholash uchun.",
-                "Ma’lumotlarni shifrlash.",
-                "Server tezligini oshirish.",
-                "Foydalanuvchilarni ro‘yxatdan o‘tkazish."
+                "Barcha javoblar to‘g‘ri.",
+                "Hodisa ta'sir ko‘rsatgan texnologik jarayon uchun mas'ul bo‘lgan tarkibiy bo‘linmalar rahbari.",
+                "Himoya obyektiga xizmat ko‘rsatish uchun mas'ul bo‘lgan tarkibiy bo‘linma rahbari va mutaxassislari (administratorlar), Bank rahbariyati.",
+                "Ishni to‘xtatib turish zarur bo‘lganda bank xodimlari."
             ]
         },
         {
             "№": 70,
-            "Savol": "Ma’lumotlarni zaxiralashning asosiy maqsadi nima?",
+            "Savol": "Bankning korporativ elektron pochtasi qanday maqsadlarda qo‘llaniladi?",
             "Javob": [
-                "Ma’lumotlarni yo‘qolishdan himoya qilish va tiklash imkonini yaratish.",
-                "Ma’lumotlarni shifrlash.",
-                "Ma’lumotlarni tahlil qilish.",
-                "Ma’lumotlarni tarqatish."
+                "Bank xodimlari o‘rtasida va tashqi foydalanuvchilar bilan matnli xabarlar yoki elektron shaklda hujjat ko‘rinishidagi ishga doir ma'lumotlarni almashish maqsadida.",
+                "Bank xodimlarining shaxsiy muloqotlari va shaxsiy fayllarini yuborish hamda ijtimoiy tarmoqlardagi akkauntlarini boshqarish maqsadida.",
+                "Bankning ichki videokuzatuv tizimini boshqarish, serverlar holatini avtomatik monitoring qilish va texnik jurnallarini, arxiv yozuvlarini yuborish maqsadida.",
+                "Bank xodimlariga internet tarmog‘ida ro‘yxatdan o‘tish va tashqi veb-servislardan foydalanish hamda bank mijozlariga ommaviy reklama materiallarini yuborish maqsadida."
             ]
         },
         {
             "№": 71,
-            "Savol": "Axborot xavfsizligi siyosati nima uchun muhim?",
+            "Savol": "Axborot xavfsizligi va kiberxavfsizlik tavakkalchiliklari qanday hollarda yuzaga kelishi mumkin?",
             "Javob": [
-                "Boshqaruv standartlariga rioya qilish va himoya mexanizmlarini ta’minlash uchun.",
-                "Ma’lumotlarni saqlash muddatini uzaytirish uchun.",
-                "Server tezligini nazorat qilish uchun.",
-                "Foydalanuvchi interfeysini qulay qilish uchun."
+                "Axborot xavfsizligi va kiberxavfsizlik tavakkalchiliklari tizimlardagi nosozlik va xatolar, ichki va tashqi tahdidlar natijasida yuzaga kelishi mumkin.",
+                "Axborot xavfsizligi va kiberxavfsizlik tavakkalchiliklari faqat tashqi tahdidlar natijasida yuzaga kelishi mumkin va ichki omillar bu jarayonga ta'sir ko‘rsatmaydi.",
+                "Axborot xavfsizligi va kiberxavfsizlik tavakkalchiliklari faqat dasturiy ta'minotdagi xatolar bilan bog‘liq bo‘lib, tahdidlar yoki nosozliklar bilan bog‘liq emas.",
+                "Axborot xavfsizligi va kiberxavfsizlik tavakkalchiliklari faqat texnik jihatdan murakkab tizimlarda yuzaga kelishi mumkin va oddiy axborot tizimlariga taalluqli emas."
             ]
         },
         {
             "№": 72,
-            "Savol": "Foydalanuvchi soddalashtirilgan parol ishlatsa nima bo‘ladi?",
+            "Savol": "Tahdidlarni aniqlash va oldini olish tizimi (IDS/IPS) nima maqsadda ishlatiladi?",
             "Javob": [
-                "Xavfsizlik tahdidi oshadi va tizim xavf ostida bo‘ladi.",
-                "Hech qanday oqibat bo‘lmaydi.",
-                "Server avtomatik qayta ishga tushadi.",
-                "Ma’lumotlar yo‘qoladi."
+                "Real vaqt rejimida tarmoq dasturlari ishlashidagi og‘ishlar, shuningdek kompyuter tizimi yoki tarmoqda ruxsat etilmagan foydalanish (ruxsatsiz kirish yoki tarmoqqa hujumlar) holatlarini aniqlash maqsadida.",
+                "Boshqa tarmoq (masalan, Internet) ustida bir yoki bir nechta tarmoq ulanishlarini (mantiqiy tarmoqni) ta'minlash maqsadida.",
+                "Umumiy (internet) tarmoq orqali ma'lumot almashinuvini shifrlangan va xavfsiz kanalda amalga oshirishni ta'minlash maqsadida.",
+                "Ma'lumotlarni shifrlaydi, foydalanuvchi va server o‘rtasida xavfsiz tunnel yaratadi, tarmoqlararo axborot almashinuvida maxfiylik va yaxlitlikni ta'minlaydi."
             ]
         },
         {
             "№": 73,
-            "Savol": "Ma’lumotlarning konfidensialligini ta’minlash uchun nima qilinadi?",
+            "Savol": "Zahira ma'lumotlarni qayta ishlash markazini tashkil etishda geografik masofa bo‘yicha qanday me'yoriy talablar belgilangan?",
             "Javob": [
-                "Ma’lumotlar faqat ruxsatli foydalanuvchilar tomonidan ko‘riladi va o‘zgartiriladi.",
-                "Ma’lumotlarni tezkor qayta ishlash.",
-                "Ma’lumotlarni tarqatish.",
-                "Ma’lumotlarni arxivlash."
+                "Banklar axborot aktivlarini favqulodda (yong‘in, zilzila, suv toshqini va boshqa) holatlardan himoya qilish uchun zahira ma'lumotlarni qayta ishlash markazi 50 km dan kam bo‘lmagan masofada joylashgan hududlardagi shahar markazlarida tashkil etilishi lozim.",
+                "Banklar axborot aktivlarini favqulodda (yong‘in, zilzila, suv toshqini va boshqa) holatlardan himoya qilish uchun zahira ma'lumotlarni qayta ishlash markazi shahardan tashqari hududlarda tashkil etilishi lozim.",
+                "Banklar axborot aktivlarini favqulodda (yong‘in, zilzila, suv toshqini va boshqa) holatlardan himoya qilish uchun zahira ma'lumotlarni qayta ishlash markazi bankning asosiy binosiga tutash bo‘lmagan boshqa binoda tashkil etilishi lozim.",
+                "Banklar axborot aktivlarini favqulodda (yong‘in, zilzila, suv toshqini va boshqa) holatlardan himoya qilish uchun zahira ma'lumotlarni qayta ishlash markazi bankning asosiy binosida maxsus konteynerlarda tashkil etilishi lozim."
             ]
         },
         {
             "№": 74,
-            "Savol": "Axborot xavfsizligi tahdidlarini kamaytirish uchun nima qilinadi?",
+            "Savol": "Bankda kompyuterga qaysi dasturiy vositalardan o‘rnatib foydalanish mumkin?",
             "Javob": [
-                "Monitoring, audit va xavf tahlillari o‘tkaziladi.",
-                "Ma’lumotlarni shifrlash.",
-                "Serverlarni tezlashtirish.",
-                "Foydalanuvchi interfeysini qulay qilish."
+                "Kompyuterlarda foydalanuvchilar tomonidan faqat o‘zlarining ish faoliyatiga tegishli bo‘lgan dasturlardan foydalaniladi, Foydalanishi mumkin bo‘lgan dasturlar ro‘yxati bank tomonidan belgilanadi. ",
+                "Bankning barcha xodimlari o‘z xohishlariga ko‘ra barcha dasturlarni o‘rnatishi mumkin.",
+                "Har qanday dasturdan foydalanishga ruxsat beriladi, agar u yuqori xavfsizlik talablariga javob bersa.",
+                "Foydalanuvchilar faqat shaxsiy dasturlarni o‘rnatish huquqiga ega."
             ]
         },
         {
             "№": 75,
-            "Savol": "Foydalanuvchi identifikatsiyasi va autentifikatsiyasi nima uchun kerak?",
+            "Savol": "Elektron raqamli imzo va shifratsiya kalitlari qanday maqsadlarda qullaniladi?",
             "Javob": [
-                "Foydalanuvchi haqiqiyligini va ruxsatlarini aniqlash uchun.",
-                "Ma’lumotlarni shifrlash.",
-                "Hisob-kitob yuritish.",
-                "Server tezligini oshirish."
+                "Elektron hujjatlarning asliga to‘g‘riligini tasdiqlash va tashqi muhit ta'siridan muhofazalash uchun qo‘llaniladi.",
+                "Elektron raqamli imzo va shifrlash kalitlari faqat elektron pochta orqali ma'lumotlarni uzatish uchun qo‘llaniladi.",
+                "Elektron raqamli imzo va shifrlash kalitlari faqat axborot xavfsizligiga doir hujjatlarni tayyorlash uchun qo‘llaniladi.",
+                "Elektron raqamli imzo va shifrlash kalitlari faqat axborot resurslarini axborot xavfsizligini ta'minlashda qo‘llaniladi"
             ]
         },
         {
             "№": 76,
-            "Savol": "Elektron raqamli imzo nima uchun ishlatiladi?",
+            "Savol": "Banklarda axborot xavfsizligi siyosatining buzilishi qanday axborot xavfsizligi noxush hodisalariga olib keladi?",
             "Javob": [
-                "Hujjatning haqiqiyligini va o‘zgarmasligini tasdiqlash uchun.",
-                "Hujjatni shifrlash uchun.",
-                "Hujjatni saqlash muddatini uzaytirish uchun.",
-                "Hujjatni tahlil qilish uchun."
+                "Axborot xavfsizligi siyosatining buzilishi: axborot konfidensialligining buzilishiga;\naxborot butligining buzilishiga;\ntexnologik jarayonning buzilishiga;\naxborotdan erkin foydalanish huquqining buzilishiga olib keladi.",
+                "Axborot xavfsizligi siyosatining buzilishi faqat uskunalarning ishlamasligiga olib keladi.",
+                "Axborot xavfsizligi siyosatining buzilishi qo‘shimcha xizmatlar taqdim etishga olib kelishi mumkin.",
+                "Axborot xavfsizligi siyosatining buzilishi axborotni tartiblashtirishda muammolarni keltirib chiqaradi."
             ]
         },
         {
             "№": 77,
-            "Savol": "Ma’lumotlar kanallardan sizib chiqishidan himoya qilish uchun qanday vositalar ishlatiladi?",
+            "Savol": "Kibertaħdid deganda nima tushuniladi?",
             "Javob": [
-                "Shifrlash va VPN.",
-                "Faqat fizik qulflar.",
-                "Qo‘lda saqlash.",
-                "Server tezligini oshirish."
+                "Kiber makonda shaxs, jamiyat va davlat manfaatlariga tahdid soluvchi shart-sharoitlar va omillar majmui.",
+                "Axborotni egallash, uni o‘zgartirish, yo‘q qilish yoki axborot tizimlari va resurslarini ishdan chiqarish maqsadida serverlar va telekommunikatsiya qurilmalariga jimonan shikast yetkazish.",
+                "Axborot tizimlariga rejali ravishda yangilanish va texnik xizmat ko‘rsatish ishlarini amalga oshirish jarayoniga to‘sqinlik qiluvchi faktorlar.",
+                "Foydalanuvchilarning faoliyatini kuzatish, ulaga tegishli bo‘lgan har qanday ko‘rinishdagi ma'lumotlarni yo‘q qilish yoki o‘g‘irlashga qaratilgan harakatlar majmui. "
             ]
         },
         {
             "№": 78,
-            "Savol": "Axborot xavfsizligi bo‘yicha xodimlarni o‘qitish nima uchun zarur?",
+            "Savol": "Tarmoqlararo ekran qanday vazifani bajaradi?",
             "Javob": [
-                "Xodimlar xavfsizlik talablariga amal qilishini ta’minlash uchun.",
-                "Server tezligini oshirish uchun.",
-                "Ma’lumotlarni tarqatish uchun.",
-                "Foydalanuvchi interfeysini qulay qilish uchun."
+                "Tizimga kelib tushadigan va (yoki) tizimdan chiqib ketadigan axborotning nazorat qilinishini amalga oshiradigan dastur va (yoki) dasturiy vositasi bo‘lib, trafikni filtrlash, noqonuniy kirishlarni cheklash, hujumlardan himoya qilish, tarmoqni segmentatsiya qilish, tarmoq trafigi haqida jurnallar (logs) yozib borish vazifalarini bajaradi. ",
+                "Real vaqt rejimida tarmoq dasturlari ishlashidagi og‘ishlar, shuningdek kompyuter tizimi yoki tarmoqda ruxsat etilmagan foydalanish (ruxsatsiz kirish yoki tarmoqqa qilingan hujumlar) holatlarini aniqlash bilan bog‘liq vazifalarni bajaradi.",
+                "Internet tarmog‘ida va lokal tarmoqda ma'lumot almashinuvini tashkil etish uchun ishlatiladi.",
+                "Axborot aktivlarida ruxsat etilmagan o‘zgarishlarni o‘z vaqtida aniqlash va konfiguratsiya fayllarining yaxlitligini doimiy nazorat qilish vazifasini bajaradi."
             ]
         },
         {
             "№": 79,
-            "Savol": "Foydalanuvchi sessiyasini avtomatik bloklash nima uchun kerak?",
+            "Savol": "Axborot xavfsizligi va kiberxavfsizlikni ta'minlash bo‘yicha tarkibiy bo‘linmaning (Axborot xavfsizligi markazining) mas'uliyati nimadan iborat?",
             "Javob": [
-                "Sessiya vaqti tugaganda xavfsizlikni ta’minlash uchun.",
-                "Ma’lumotlarni shifrlash uchun.",
-                "Server tezligini oshirish uchun.",
-                "Foydalanuvchi interfeysini qulay qilish uchun."
+                "Barcha javoblar to‘g‘ri.",
+                "Bankning axborot aktivlarida axborot xavfsizligi va kiberxavfsizlikni ta'minlash bo‘yicha mas'ul hisoblanadi.",
+                "Tizimning vaqtincha to‘xtashi bo‘yicha mas'ul hisoblanadi.",
+                "To‘lov ma'lumotlarining noqonuniy o‘zgarishi, bank yoki uning mijoziga zarar yetkazish holatlarini oldini olish va bartaraf etish bo‘yicha mas'ul hisoblanadi."
             ]
         },
         {
             "№": 80,
-            "Savol": "Axborot xavfsizligini ta’minlashda foydalanuvchi parollariga qanday talablar qo‘yiladi?",
+            "Savol": "DMZ (Demilitarized Zone) deganda nima tushuniladi?",
             "Javob": [
-                "Murakkab, muntazam yangilanishi va unik bo‘lishi.",
-                "Faqat oddiy va osongina topiladigan bo‘lishi.",
-                "Barcha foydalanuvchilarga bir xil parol.",
-                "Parol saqlanmaydi, foydalanuvchi o‘zgartiradi."
+                "Ichki korporativ tarmoq va tashqi (Internet) tarmoq o‘rtasida tashkil etilgan, tarmoqlararo ekranlar orqali himoyalangan tarmoq segmenti. ",
+                "Faqat tashqi tarmoq bilan bevosita bog‘lanish uchun mo‘ljallangan va himoya vositalari qo‘llanilmaydigan ochiq tarmoq muhiti.",
+                "Ichki korporativ tarmoq ichida foydalanuvchilar o‘rtasida ma'lumot almashinuvini ta'minlash uchun yaratilgan tarmoq segmenti. ",
+                "Ichki tarmoqdagi foydalanuvchilar uchun test va sinov maqsadlarida yaratilgan vaqtinchalik tarmoq segmenti."
             ]
         },
         {
             "№": 81,
-            "Savol": "Server va ishchi stansiyalarni himoya qilishda qanday choralar ko‘riladi?",
+            "Savol": "DMZ (Demilitarized Zone)ning asosiy vazifasi nimadan iborat? ",
             "Javob": [
-                "Antivirus, firewall va kirish nazorati tizimlari.",
-                "Faqat fizik qulflar.",
-                "Foydalanuvchi PIN-kodlari.",
-                "Ma’lumotlarni qo‘lda saqlash."
+                "Ichki tarmoqni himoya qilish va tashqi foydalanuvchilarga faqat zarur bo‘lgan xizmatlarni taqdim etishdan iborat.",
+                "Tashqi foydalanuvchilarning faoliyatini cheklamasdan, ularga ichki tarmoqdagi ma'lumotlarni erkin o‘zgartirish imkonini yaratishdan iborat.",
+                "Ichki va tashqi tarmoqlarni to‘liq birlashtirish, barcha foydalanuvchilar uchun umumiy muhit yaratishdan iborat.",
+                "Tashqi tarmoqlar bilan aloqani to‘liq cheklashdan iborat."
             ]
         },
         {
             "№": 82,
-            "Savol": "Axborot xavfsizligi insidentlarini aniqlashda qanday vositalar ishlatiladi?",
+            "Savol": "Bank tomonidan konfidensial ma'lumotlar elektron pochta tizimi orqali qanday tartibda yuborilishiga ruxsat etiladi?",
             "Javob": [
-                "Server jurnallari, IDS/IPS, SIEM tizimlari.",
-                "Faqat qo‘lda yozuvlar.",
-                "Foydalanuvchi hisobotlari.",
-                "Email orqali ogohlantirishlar."
+                "Bank tomonidan konfidensial ma'lumotlar elektron pochta tizimi orqali yuborilganda, ma'lumotlar shifrlanishi va elektron raqamli imzo bilan tasdiqlanishi lozim. ",
+                "Bank tomonidan konfidensial ma'lumotlar elektron pochta tizimi orqali yuborilganda ma'lumotlar shifrlanishi lozim, ammo elektron raqamli imzo talab qilinmaydi.",
+                "Konfidensial ma'lumotlarni faqat ishonchli pochta serverlari orqali yuborishga ruxsat beradi, shifrlash talab qilinmaydi.",
+                "Konfidensial ma'lumotlarni elektron pochta orqali yuborish mumkin emas."
             ]
         },
         {
             "№": 83,
-            "Savol": "Axborot xavfsizligi auditi qaysi maqsadga xizmat qiladi?",
+            "Savol": "Server xonasiga kimlarga kirishga ruxsat etiladi?",
             "Javob": [
-                "Tizim va siyosatni baholash uchun.",
-                "Ma’lumotlarni shifrlash.",
-                "Server tezligini nazorat qilish.",
-                "Foydalanuvchilarni ro‘yxatdan o‘tkazish."
+                "Server xonasiga kirish faqat tasdiqlangan ro‘yxatga muvofiq amalga oshiriladi.",
+                "Kirish uchun har qanday xodimga ruxsat beriladi, agar u serverdagi ma'lumotlar bilan ishlasa.",
+                "Server xonasiga kirish faqat Axborot texnologiyalari va Axborot xavfsizligi xizmati xodimlariga ruxsat etiladi.",
+                "Server xonasiga kirish faqat rahbariyatga ruxsat etiladi."
             ]
         },
         {
             "№": 84,
-            "Savol": "Ma’lumotlar yaxlitligini saqlash nima uchun zarur?",
+            "Savol": "Xodim ish faoliyati davomida axborot xavfsizligiga oid biron bir insidentga duch kelgan vaqtda qanday harakatlarni amalga oshirish kerak?",
             "Javob": [
-                "Ma’lumotlar o‘zgarmasligini va ruxsatsiz o‘zgartirilmasligini ta’minlash uchun.",
-                "Tezkor qayta ishlash.",
-                "Saqlash muddatini uzaytirish.",
-                "Ma’lumotlarni tarqatish."
+                "Zudlik bilan axborot xavfsizligi xizmatiga xabar berish kerak.",
+                "Insident sodir bo‘lganda xodim mustaqillik hal qilish kerak.",
+                "Zudlik bilan departament boshlig‘iga xabar berish kerak.",
+                "Bank rahbariyatiga yozma ravishda ma'lumot kiritish kerak.."
             ]
         },
         {
             "№": 85,
-            "Savol": "Axborot xavfsizligi tahdidlarini kamaytirish uchun qanday jarayonlar mavjud?",
+            "Savol": "Kiber makon deganda nima tushuniladi?",
             "Javob": [
-                "Monitoring, audit va xavf tahlillari.",
-                "Ma’lumotlarni shifrlash.",
-                "Serverlarni tezlashtirish.",
-                "Foydalanuvchi interfeysini qulay qilish."
+                "Axborot texnologiyalari yordamida yaratilgan virtual muhit.",
+                "Serverlar va axborot-kommunikatsiya qurilmalari joylashgan binolar.",
+                "axborot tizimlari foydalanuvchilari o‘rtasida to‘g‘ridan-to‘g‘ri muloqotni amalga oshirish uchun tashkil etilgan platforma",
+                "Internet tarmog‘idan tashqarida amalga oshiriladigan axborot almashinuv jarayonlari yig‘indisi"
             ]
         },
         {
             "№": 86,
-            "Savol": "Axborot xavfsizligini ta’minlash siyosati kim tomonidan belgilanadi?",
+            "Savol": "Bankda elektron raqamli imzo va shifrlash kalitlari qanday maqsadda ishlatiladi?",
             "Javob": [
-                "Boshqaruv va xavfsizlik bo‘limi tomonidan.",
-                "Faqat xodimlar tomonidan.",
-                "Faqat IT mutaxassislari tomonidan.",
-                "Foydalanuvchilar tomonidan."
+                "Elektron hujjatlarning asliga to‘g‘riligini tasdiqlash va tashqi muhit ta'siridan muhofazalash uchun ishlatiladi. ",
+                "Elektron hujjatlarning ichidagi ma'lumotlarni boshqa formatlarga aylantirish va ularni tahlil qilish uchun ishlatiladi.",
+                "Elektron hujjatlarni yaratish va ularni ma'lumotlar bazasida saqlash jarayonini avtomatlashtirish uchun ishlatiladi.",
+                "Elektron hujjatlarni internet orqali tezkor yuborish va qabul qilish imkonini yaratish uchun ishlatiladi."
             ]
         },
         {
             "№": 87,
-            "Savol": "Axborot xavfsizligi siyosatini buzgan xodimga nima bo‘ladi?",
+            "Savol": "Kiberxavfsizlik sohasidagi yagona davlat siyosatini kim belgilaydi.",
             "Javob": [
-                "Ma’muriy choralar ko‘riladi va ogohlantirish beriladi.",
-                "Hech qanday oqibat bo‘lmaydi.",
-                "Server avtomatik qayta ishga tushadi.",
-                "Ma’lumotlar yo‘qoladi."
+                "Kiberxavfsizlik sohasidagi yagona davlat siyosatini O‘zbekiston Respublikasi Prezidenti belgilaydi.",
+                "Kiberxavfsizlik sohasidagi yagona davlat siyosatini O‘zbekiston Respublikasi Raqamli texnologiyalar vazirligi belgilaydi.",
+                "Kiberxavfsizlik sohasidagi yagona davlat siyosatini O‘zbekiston Respublikasi Markaziy banki belgilaydi.",
+                "Kiberxavfsizlik sohasidagi yagona davlat siyosatini O‘zbekiston Respublikasi Vazirlar Mahkamasi belgilaydi."
             ]
         },
         {
             "№": 88,
-            "Savol": "Tarmoq xavfsizligini ta’minlashda qanday vositalar ishlatiladi?",
+            "Savol": "Kiberxavfsizlik sohasidagi vakolatli davlat organi - ",
             "Javob": [
-                "Firewall, IDS/IPS, VLAN.",
-                "Faqat antivirus.",
-                "Foydalanuvchi PIN-kodlari.",
-                "Ma’lumotlarni tarqatish."
+                "O‘zbekiston Respublikasi Davlat xavfsizlik xizmati. ",
+                "O‘zbekiston Respublikasi Raqamli texnologiyalar vazirligi.",
+                "O‘zbekiston Respublikasi Vazirlar Mahkamasi.",
+                "\"Kiberxavfsizlik markazi\" DUK."
             ]
         },
         {
             "№": 89,
-            "Savol": "Axborot xavfsizligi bo‘yicha xodimlarni o‘qitishda nima e’tibor beriladi?",
+            "Savol": "Avtomatlashtirilgan bank tizimida axborotni muhofaza qilishning maqsadlari -",
             "Javob": [
-                "Xavfsizlik qoidalari, parol siyosati va tahdidlardan himoya choralari.",
-                "Server tezligi va apparat sozlamalar.",
-                "Ma’lumotlarni tahlil qilish.",
-                "Foydalanuvchi interfeysini qulay qilish."
+                "banklarning axborot xavfsizligini ta'minlash va bank sirini muhofaza qilish;\naxborotning tarqalib ketishi, o‘g‘irlanishi, yo‘qolishi, buzib talqin etilishi, to‘sib qo‘yilishi, qalbakilashtirilishi va undan o‘zgacha tarzda ruxsatsiz foydalanilishi, shuningdek nusxa olinishining hamda avtomatlashtirilgan bank tizimiga boshqacha shakldagi aralashuvlarning oldini olish.",
+                "axborot tizimlariga kirishlarni boshqarish; axborot tizimlaridagi ma'lumotlardan foydalanishni tartibga solish. ",
+                "tizimlarni loyihalashning asosiy prinsiplari hamda konsepsiyasi va uslubiyatini ishlab chiqish. ",
+                "ma'lumotlar bazasini nosozliklarga chidamliligini oshirish usullari va algoritmlari ishlab chiqish."
             ]
         },
         {
             "№": 90,
-            "Savol": "Axborot xavfsizligini ta’minlashning umumiy maqsadi nima?",
+            "Savol": "«Fishing» hujumining maqsadi nima?",
             "Javob": [
-                "Ma’lumotlarni himoya qilish, tizim ish faoliyatini ta’minlash va xavf tahdidlarni kamaytirish.",
-                "Server tezligini oshirish.",
-                "Foydalanuvchi interfeysini qulay qilish.",
-                "Ma’lumotlarni tezkor tarqatish."
+                "Foydalanuvchining identifikatsiya ma'lumotlarini (login, parol, kredit karta raqami va boshqa maxfiy ma'lumotlarni) o‘g‘irlash. ",
+                "Kompyuterning ishlashini sekinlashtirish.",
+                "Tarmoqning himoyasini buzish.",
+                "Kompyuter virusini tarqatish."
             ]
         },
 
         {
             "№": 91,
-            "Savol": "Hakerlar tomonidan ishlatiladigan \"Trojan\" nima?",
+            "Savol": "Xakerlar tomonidan ishlatiladigan \"Trojan\" nima?",
             "Javob": [
-                "Kompyuterga yashirincha o‘rnatilgan zararli dastur.",
-                "Shifrlovchi dastur.",
+                "Kompyuterga yashirincha o‘rnatilgan zararli dastur. ",
+                "Shifrovchi dastur.",
                 "Kompyuter virusi.",
-                "Ko‘plab so‘rovlar bilan serverni to‘lib-toshirish."
+                "Ko‘plab so‘rovlar bilan serverni to‘lib-toshirish"
             ]
         },
         {
             "№": 92,
             "Savol": "DDoS hujumi nima?",
             "Javob": [
-                "Ko‘plab so‘rovlar bilan serverni to‘lib-toshirish.",
-                "Kompyuterga zararli kod kiritish.",
-                "Shaxsiy ma’lumotlarni o‘g‘irlash.",
-                "Tarmoqdagi barcha ma’lumotlarni shifrlash."
+                "Ko‘plab so‘rovlar bilan serverni to‘lib-toshirish ",
+                "Kompyuterga zararli kod kiritish",
+                "Shaxsiy ma'lumotlarni o‘g‘irlash",
+                "Tarmoqdagi barcha ma'lumotlarni shifrlash"
             ]
         },
         {
             "№": 93,
             "Savol": "\"Social Engineering\" nima?",
             "Javob": [
-                "Foydalanuvchini manipulyatsiya qilish orqali maxfiy ma’lumotlarni o‘g‘irlashga urinish.",
+                "Foydalanuvchini manipulyatsiya qilish orqali maxfiy ma'lumotlarni o‘g‘irlashga urinish.",
                 "Kompyuter viruslarini aniqlash.",
-                "Ma’lumotlarni internet orqali xavfsiz uzatish.",
-                "VLAN – virtual local area network hosil qilish."
+                "Ma'lumotlarni internet orqali xavfsiz uzatish",
+                "VLAN – virtual local area network (virtual lokal tarmoq) hosil qilish."
             ]
         },
         {
             "№": 94,
             "Savol": "Axborot xavfsizligi siyosati - bu",
             "Javob": [
-                "Tashkilot yoki tashkilot xodimlari axborot resurslarini himoya qilish uchun kundalik amaliyotida amal qiladigan choralar, qoidalar va tamoyillar to‘plami.",
-                "Elektron hukumatni qurish, davlat organlari faoliyatini raqamlashtirish bilan bog‘liq choralar, qoidalar va tamoyillar to‘plami.",
-                "Axborot xavfsizligi sohasida huquqiy boshqarish, axborot xavfsizligining tashkiliy – ma’muriy ta’minoti, axborot xavfsizligi bo‘yicha standartlar.",
-                "Axborot resurslari va axborot tizimlaridan foydalanishni tartibga solish."
+                "tashkilot yoki tashkilot xodimlari axborot resurslarini himoya qilish uchun kundalik amaliyotida amal qiladigan chora-tadbirlar, qoidalar va tamoyillar to‘plami.",
+                "elektron hukumatni qurish, davlat organlari faoliyatini raqamlashtirish bilan bog‘liq chora-tadbirlar, qoidalar va tamoyillar to‘plami.",
+                "axborot xavfsizligi sohasida huquqiy boshqarish, axborot xavfsizligining tashkiliy – ma'muriy ta'minoti, axborot xavfsizligi bo‘yicha standartlar",
+                "axborot resurslari va axborot tizimlaridan foydalanishni tartibga solish."
             ]
         },
         {
             "№": 95,
             "Savol": "Axborot xavfsizligi siyosatining asosiy maqsadi nima?",
             "Javob": [
-                "Axborot xavfsizligi tahdidlarni oldini olish yoki oqibatlarini minimalizatsiya qilish orqali bankni moddiy, jismoniy, ma’naviy va zarar yetkazilishidan himoya qilish.",
+                "Axborot xavfsizligi tahdidlarni oldini olish yoki oqibatlarini minimallashtirish orqali bankni moddiy, jismoniy, ma'naviy va zarar yetkazilishidan himoya qilish.",
                 "Axborot resurslari va axborot tizimlaridan foydalanishni tartibga solish.",
-                "Axborot tizimlari va resurslarining axborot xavfsizligini ta’minlash uchun qo‘llaniladigan apparat, apparat-dasturiy hamda dasturiy vositalarni sertifikatlashni tartibga solish.",
-                "Muhim axborot infratuzilmasi ob’ektlarini toifalash va ularning yagona reestrini shakllantirishni tartibga solish."
+                "Axborot tizimlari va resurslarining axborot xavfsizligini ta'minlash uchun qo‘llaniladigan apparat, apparat-dasturiy hamda dasturiy vositalarni sertifikatsiyadan o‘tkazishni tartibga solish. ",
+                "Muhim axborot infratuzilmasi obyektlarini toifalash va ularning yagona reestrini shakllantirishni tartibga solish. "
             ]
         },
         {
             "№": 96,
             "Savol": "Ikki faktorli autentifikatsiya (2FA — Two-Factor Authentication):",
             "Javob": [
-                "Foydalanuvchini ikki turli xil autentifikatsiya ma’lumotlarini so‘rov yordamida identifikatsiya qilish usuli.",
-                "Maxsus algoritm asosida belgilar ketma-ketligidan iborat maxfiy kalitni buzuvchi komandalar ketma-ketligi.",
-                "Ob’ekt yoki subyektni unga berilgan identifikatorga mosligini tekshirish va belgilar ketma-ketligidan iborat maxfiy kodini tekshirish orqali aslligini aniqlash.",
-                "Ma’lumotlarni maxfiylashtirish va faqat maxsus kalit yordamida o‘qish."
+                "foydalanuvchini ikki turlicha xildagi autentifikatsiya ma'lumotlarini so‘rov yordamida identifikatsiyalash usuli. ",
+                "maxsus algoritm asosida belgilardan tarkib topgan maxfiy kalitni buzuvchi komandalar ketma-ketligi. ",
+                "obyekt yoki subyektni unga berilgan identifikatorga mosligini tekshirish va belgilar ketma-ketligidan iborat maxfiy kodini tekshirish orqali aslligini aniqlash.",
+                "ma'lumotlarni maxfiylashtirish va faqat maxsus kalit yordamida o‘qish."
             ]
         },
         {
             "№": 97,
             "Savol": "Axborot xavfsizligi markazi qanday vazifalarni bajaradi?",
             "Javob": [
-                "Axborot xavfsizligi va kiberxavfsizlikni tashkil qilish, boshqarish va nazorat qilishni amalga oshiradi, axborotni muhofaza qilish choralarini belgilaydi va joriy etadi. Shu bilan birga, kiberhujumlar va noxush hodisalarni aniqlash, tahlil qilish va bartaraf etish, konfidentsial ma’lumotlarni himoya qilishni ta’minlaydi hamda axborot tizimlarining uzluksiz ishlashini nazorat qiladi.",
-                "Bankning axborot tizimlari va infratuzilmasini yaratish, rivojlantirish hamda ularning uzluksiz va xavfsiz ishlashini ta’minlaydi. Shu bilan birga, serverlar va tarmoqlarga xizmat ko‘rsatish, ma’lumotlar bazalarini boshqarish, foydalanuvchilarga texnik yordam ko‘rsatish hamda yangi texnologiyalarni joriy etish bilan shug‘ullanadi.",
-                "Bankga taalluqli bo‘lgan konfidentsial ma’lumotlar, shu jumladan bank sirini tashkil etuvchi va shaxsga doir ma’lumotlar ro‘yxatini belgilaydi va uning aktualiligini ta’minlaydi.",
-                "Ishchi stansiyalar va boshqa hisoblash texnikalarining operatsion tizimi, antivirus dasturi va boshqa dasturiy o‘zgartirishlarni test-sinovdan o‘tkazadi va tizimlarni test-sinov yakuniga ko‘ra ishga tushiradi. Ma’lumotlar bazasiga kiritiladigan barcha dasturiy o‘zgartirishlar avval test-sinov serverida tekshiriladi va ijobiy natija olinsa ishchi serverga joriy etiladi."
+                "Axborot xavfsizligi va kiberxavfsizlikni tashkil qilish, boshqarish va nazorat qilishni amalga oshiradi, axborotni muhofaza qilish choralarini belgilaydi va joriy etadi. Shu bilan birga, kiberhujumlar va noxush hodisalarni aniqlash, tahlil qilish va bartaraf etish, konfidensial ma'lumotlarni muhofaza qilishni ta'minlaydi hamda axborot tizimlarining uzluksiz ishlashini nazorat qiladi.",
+                "Bankning axborot tizimlari va infratuzilmasini yaratish, rivojlantirish hamda ularning uzluksiz va xavfsiz ishlashini ta'minlaydi. Shuningdek, serverlar va tarmoqlarga xizmat ko‘rsatish, ma'lumotlar bazalarini boshqarish, foydalanuvchilarga texnik yordam ko‘rsatish hamda yangi texnologiyalarni joriy etish bilan shug‘ullanadi.",
+                "Bankka taalluqli bo‘lgan konfidensial ma'lumotlar, shu jumladan bank sirini tashkil etuvchi va shaxsga doir ma'lumotlar ro‘yxatini belgilaydi va uning aktualligini ta'minlaydi.",
+                "Ishchi stansiyalar va boshqa hisoblash texnikalarining operatsion tizimi, antivirus dasturi va boshqa dasturiy o‘zgartirishlar test-sinovidan o‘tkazadi va tizimlarni test-sinov yakuniga ko‘ra ishga tushiradi. Ma'lumotlar bazasiga kiritiladigan barcha dasturiy o‘zgartirishlar avval test-sinov serverida tekshirilishi hamda ijobiy natijaga erishilganda ishchi serverga joriy etilishini nazorat qiladi."
             ]
         },
         {
             "№": 98,
             "Savol": "Axborot aktivlari deganda nima tushuniladi?",
             "Javob": [
-                "Axborot aktivlari — bank faoliyati uchun muhim bo‘lgan ma’lumotlar (mijoz ma’lumotlari, operatsion ma’lumotlar, dasturiy ta’minot, ma’lumotlar bazalari, hodisalar jurnallari va boshqalar) hamda ularni saqlash, uzatish, qayta ishlash va muhofaza qilishga xizmat qiluvchi barcha resurslar (axborot tizimlari va resurslari, serverlar, ma’lumotlar omborlari, aloqa kanallari va dasturiy ilovalar).",
-                "Axborot aktivlari — bank faoliyatida qo‘llaniladigan faqat texnik vositalar va uskuna (kompyuterlar, serverlar, tarmoq qurilmalari, aloqa vositalari va boshqalar) hisoblanadi.",
-                "Axborot aktivlari — faqat mijozlar ma’lumotlari va bank operatsiyalariga oid hisobotlardan tashkil topgan ma’lumotlar to‘plamidir.",
-                "Axborot aktivlari — bankning moddiy va moliyaviy resurslari (binolar, uskuna, xizmat vositalari, avtotransport va boshqalar) hisoblanib, ularning axborot xavfsizligi tizimiga aloqasi yo‘q."
+                "Axborot aktivlari — bank faoliyati uchun muhim bo‘lgan axborotlar (mijoz ma'lumotlari, operatsion ma'lumotlar, dasturiy ta'minot, ma'lumotlar bazalari, hodisalar jurnallari va boshqalar) hamda ularni saqlash, uzatish, qayta ishlash va muhofaza qilishga xizmat qiluvchi barcha resurslar (axborot tizimlari va resurslari, serverlar, ma'lumotlar omborlari, aloqa kanallari va dasturiy ilovalar).",
+                "Axborot aktivlari — bank faoliyatida qo‘llaniladigan faqat texnik vositalar va uskunalar (kompyuterlar, serverlar, tarmoq qurilmalari, aloqa vositalari va boshqalar) hisoblanadi. Ular ma'lumotlarni saqlash uchun mo‘ljallangan bo‘lib, axborotni qayta ishlash yoki muhofaza qilish vazifalarini bajarmaydi.",
+                "Axborot aktivlari — faqat mijozlar ma'lumotlari va bank operatsiyalariga oid hisobotlardan tashkil topgan ma'lumotlar to‘plamidir. Bu tushuncha dasturiy ta'minot, ma'lumotlar bazasi yoki texnik resurslarni o‘z ichiga olmaydi, ular alohida axborot tizimlari sifatida qaraladi.",
+                "Axborot aktivlari — bankning moddiy va moliyaviy resurslari (binolar, uskunalar, xizmat vositalari, avtotransport va boshqalar) hisoblanib, ular axborotni saqlash yoki uzatish bilan bog‘liq emas. Bunday aktivlar bankning moddiy qimmatliklari tarkibiga kiradi va axborot xavfsizligi tizimiga taalluqli emas."
             ]
         },
         {
             "№": 99,
-            "Savol": "Axborot xavfsizligi noxush hodisasi nima?",
+            "Savol": "Axborot xavfsizligi noxush hodisasi nima? ",
             "Javob": [
-                "Axborot xavfsizligining kutilmagan voqealari bo‘lib, ushbu voqealar tufayli axborotning oshkor bo‘lishi va xavfsizlikka tahdidlar ehtimoli.",
-                "Axborot tizimlarining yangilanishi yoki texnik xizmat ko‘rsatish paytida yuzaga keladigan tabiiy jarayon.",
-                "Axborot tizimlaridan foydalanishdagi odatiy ish jarayonlari.",
-                "Axborot tizimlarini muhofaza qilish bo‘yicha rejalashtirilgan choralar yig‘indisi."
+                "Axborot xavfsizligining kutilmagan voqealari bo‘lib, ushbu voqealar tufayli axborotning oshkor bo‘lishi va axborot xavfsizligiga tahdidlar ehtimoli.",
+                "Axborot tizimlarining yangilanishi yoki texnik xizmat ko‘rsatish paytida yuzaga keladigan tabiiy jarayon bo‘lib, u axborot xavfsizligiga tahdid tug‘dirmaydi va doimiy ravishda nazorat qilinadi.",
+                "Axborot tizimlaridan foydalanishdagi odatiy ish jarayonlari bo‘lib, ular ma'lumotlarning yangilanishi yoki qayta ishlanishi bilan bog‘liq.",
+                "Axborot tizimlarini muhofaza qilish bo‘yicha rejalashtirilgan chora-tadbirlar yig‘indisi bo‘lib, u xavfsizlik insidentlarini oldini olishga qaratilgan. "
             ]
         },
         {
             "№": 100,
-            "Savol": "Shaxsga doir ma’lumotlar deganda nima tushuniladi?",
+            "Savol": "Shaxsga doir ma'lumotlar deganda nima tushuniladi?",
             "Javob": [
-                "Muayyan jismoniy shaxsga taalluqli bo‘lgan yoki uni identifikatsiya qilish imkonini beruvchi, elektron, qog‘ozda va boshqa modda shakllarida qayd etilgan axborot.",
-                "Muayyan shaxsga taalluqli bo‘lgan va faqat elektron shaklda qayd etilgan axborot.",
-                "Muayyan shaxsga taalluqli bo‘lgan va faqat qog‘ozda qayd etilgan axborot.",
-                "Muayyan shaxsning faqat ish joyidagi vazifalari va xizmat faoliyatiga oid ma’lumotlar."
+                "Muayyan jismoniy shaxsga taalluqli bo‘lgan yoki uni identifikatsiya qilish imkonini beradigan, elektron tarzda, qog‘ozda va (yoki) boshqa moddiy jismda qayd etilgan axborot. ",
+                "Muayyan jismoniy shaxsga taalluqli bo‘lgan yoki uni identifikatsiya qilish imkonini beradigan, faqat elektron tarzda qayd etilgan axborot",
+                "Muayyan jismoniy shaxsga taalluqli bo‘lgan yoki uni identifikatsiya qilish imkonini beradigan faqat qog‘ozda va (yoki) boshqa moddiy jismda qayd etilgan axborot",
+                "Muayyan jismoniy shaxsning faqat ish joyidagi vazifalari va xizmat faoliyatiga oid ma'lumotlar."
             ]
         },
         {
@@ -3424,200 +3419,189 @@
             "Savol": "Bankning axborot xavfsizligi siyosati deganda nima tushuniladi?",
             "Javob": [
                 "Barcha javoblar to‘g‘ri.",
-                "Bankning axborot xavfsizligi siyosati — bu bank va xodimlarining axborot resurslarini himoya qilish uchun kundalik amaliyotida amal qiladigan choralar, qoidalar va tamoyillar to‘plamidir.",
-                "Axborot siyosatida barcha tizimlar va resurslarda xavfsizlik va kiberxavfsizlik talablarini belgilaydi.",
-                "Axborot xavfsizligi siyosati bankda xavfsizlikni boshqarish tizimini yaratish uchun asos bo‘ladi."
+                "Bankning Axborot xavfsizligi siyosati — bu bank va bank xodimlari axborot resurslarini himoya qilish uchun kundalik amaliyotida amal qiladigan chora-tadbirlar, qoidalar va tamoyillar to‘plamidir. ",
+                "Axborot xavfsizligi siyosatida bankda mavjud bo‘lgan barcha axborot tizimlari va axborot resurslarida axborot xavfsizligi va kiberxavfsizlikni ta'minlash bo‘yicha talablar belgilanadi.",
+                "Axborot xavfsizlik siyosati Bankda axborot xavfsizligini boshqarish tizimini yaratish uchun asos bo‘lib xizmat qiladi. "
             ]
         },
         {
             "№": 102,
-            "Savol": "Bankda texnik vositalardan foydalanganda noxush hodisalarni oldini olish uchun nima qilish kerak?",
+            "Savol": "Bankda texnik vositalardan foydalanganda noxush hodisalarni oldini olish maqsadida qanday ishlarni amalga oshirish zarur?",
             "Javob": [
-                "Barcha javoblar to‘g‘ri.",
-                "Texnik vositalardan ruxsatsiz foydalanishni taqiqlash.",
-                "Monitoring va hodisalarning elektron bayonlarini arxivda saqlash va ruxsatsiz o‘zgartirishdan himoya qilish.",
-                "Tizimlarni kiberxavfsizlik talablariga muvofiq ekspertizadan o‘tkazish."
+                "Barcha javoblar to‘g‘ri",
+                "Texnik vositalardan ruxsatsiz foydalanishni taqiqlash ",
+                "monitoring va noxush hodisalarning elektron bayonnomalarini elektron arxivda saqlash va ruxsatsiz o‘zgartirish yoki yo‘q qilishdan himoyalash ",
+                "axborot tizimlari va resurslarini qonunchilikda belgilangan tartibda kiberxavfsizlik talablariga muvofiqlik yuzasidan ekspertizadan o‘tkazish."
             ]
         },
         {
             "№": 103,
-            "Savol": "Boshqa tashkilotlarning bank ma’lumotlar bazasiga ulanish qanday amalga oshirilishi kerak?",
+            "Savol": "Boshqa tashkilotlarning bank ma'lumotlar bazasiga ulanishi qanday amalga oshirilishi lozim?",
             "Javob": [
-                "Faqatgina web-service (API) orqali.",
-                "To‘g‘ridan-to‘g‘ri (DB Link) orqali.",
-                "Xususiy virtual tarmoqlar (VPN) orqali.",
-                "Web-service (API) yoki to‘g‘ridan-to‘g‘ri (DB Link) orqali."
+                "Faqatgina veb-servis (API) orqali. ",
+                "To‘g‘ridan to‘g‘ri (DB Link) orqali.",
+                "Xususiy virtual tarmoqlar (VPN) orqali. ",
+                "Veb-servis (API) yoki to‘g‘ridan to‘g‘ri (DB Link) orqali . "
             ]
         },
         {
             "№": 104,
-            "Savol": "Bankning lokal tarmog‘i tashqi tarmoqlardan qanday muhofaza qilinadi?",
+            "Savol": "Bankning lokal hisoblash tarmog‘i tashqi tarmoqlardan qanday muhofaza qilinadi?",
             "Javob": [
-                "Tarmoqara ekran (Firewall) qurilmalari yordamida.",
-                "Xususiy virtual tarmoqlar (VPN) yordamida.",
-                "Tahdidlarni aniqlash va oldini olish tizimi (IDS/IPS) yordamida.",
-                "Virtual lokal tarmoq (VLAN) texnologiyasi yordamida."
+                "Tarmoqlararo ekran (Firewall) qurilmalari yordamida. ",
+                "Xususiy virtual tarmoqlar (VPN) yordamida. ",
+                "Tahdidlarni aniqlash va oldini olish tizimi (IDS/IPS) yordamida",
+                "Virtual mahalliy tarmoq (VLAN) texnologiyasi yordamida"
             ]
         },
         {
             "№": 105,
-            "Savol": "Bankda antivirus himoyasini tashkil etishda nima ta’minlanishi kerak?",
+            "Savol": "Bankda antivirus himoyasini tashkil etishda nimalar ta'minlanishi kerak?",
             "Javob": [
-                "Barcha javoblar to‘g‘ri.",
-                "Litsenziyaga ega antivirus dasturlaridan foydalanish va ularning amal qilish muddatini ta’minlash.",
-                "Antivirus dasturlarini markazlashgan boshqarish; bazalarni har kuni yangilash.",
-                "Barcha hisoblash vositalariga antivirus dasturlarini o‘rnatish."
+                "Barcha javoblar to‘g‘ri",
+                "Litsenziyaga ega antivirus dasturlaridan foydalanish va ularning litsenziyasining amal qilish muddati aktualligini ta'minlash. ",
+                "Antivirus dasturlarini markazlashgan holda boshqarish; antivirus dasturlari bazalarini har kuni yangilab borilishini yo‘lga qo‘yish.",
+                "Barcha serverlar, kompyuterlar, bankomatlar, infokiosklar va boshqa antivirus dasturlari o‘rnatilishi mumkin bo‘lgan hisoblash vositalariga antivirus dasturlarini o‘rnatish."
             ]
         },
         {
             "№": 106,
-            "Savol": "Bankga tegishli bo‘lmagan kompyuter uskuna bank korporativ tarmog‘iga qanday ulangan bo‘lishi kerak?",
+            "Savol": "Bankka tegishli bo‘lmagan kompyuter qurilmalarini bankning korporativ tarmog‘iga ulash qanday tartibda amalga oshiriladi?",
             "Javob": [
-                "Axborot xavfsizligi markazi bilan kelishilgan holda bank rahbariyatining ruxsati bilan.",
-                "Axborot texnologiyalari departamenti bilan kelishilgan holda rahbar ruxsati bilan.",
-                "Har bir bo‘lim mustaqil qaror asosida.",
-                "Markaz rahbarining og‘zaki ko‘rsatmasi asosida."
+                "Axborot xavfsizligi markazi bilan kelishilgan holda bank rahbariyatining tegishli ruxsati asosida",
+                "Axborot texnologiyalari departamenti bilan kelishilgan holda bank rahbariyatining tegishli ruxsati asosida",
+                "Bankning har bir bo‘limi mustaqil qaror qabul qilishi asosida",
+                "Axborot xavfsizligi markazi rahbarining og‘zaki ko‘rsatmasi asosida"
             ]
         },
         {
             "№": 107,
-            "Savol": "Bankning internet tarmog‘i orqali ulanuvchi tizimlar va resurslar qanday himoyalanishi kerak?",
+            "Savol": "Bankning internet tarmog‘i orqali ulanadigan axborot tizimlari va resurslari qanday vositalar yordamida muhofazalanishi kerak?",
             "Javob": [
-                "Barcha javoblar to‘g‘ri.",
+                "Barcha javoblar to‘g‘ri",
                 "IDS/IPS yordamida.",
-                "WAF (Web Application Firewall) yordamida.",
-                "Anti-DDoS yordamida."
+                "WAF (Web Application Firewall) yordamida",
+                "Anti-DDoS yordamida"
             ]
         },
         {
             "№": 108,
-            "Savol": "Bank uchinchi shaxslar bilan ishlashda xavfsizlikni qanday ta’minlaydi?",
+            "Savol": "Bank uchinchi shaxslar bilan ishlashda xavfsizlikni ta'minlash uchun nima qilish kerak?",
             "Javob": [
-                "Barcha javoblar to‘g‘ri.",
-                "Ma’lumotlardan foydalanish huquqini berishdan oldin xavf darajasini baholash va NDA imzolash.",
-                "Faqat kerakli ma’lumotlarga kirish ruxsatini berish.",
-                "Har bir xodim uchun alohida akkaunt yaratish va 2FA qo‘llash."
+                "Barcha javoblar to‘g‘ri",
+                "Uchinchi shaxslarga ma'lumotlardan foydalanish huquqini berishdan oldin xavf darajasini tahlil qilgan holda baholash hamda konfidensial ma'lumotlardan foydalanish huquqi berilgan uchinchi shaxslar bilan ma'lumotlarni oshkor qilmaslik to‘g‘risidagi NDA (Non-Disclosure Agreement) kelishuvlarini imzolash lozim.",
+                "Uchinchi shaxslarga faqatgina o‘z majburiyatlarini bajarishi uchun zarur bo‘ladigan ma'lumotlar va axborot aktivlariga kirishga ruxsat berish lozim.",
+                "Uchinchi shaxslarning har bir xodimi uchun alohida foydalanuvchi akkauntini yaratish va majburiy tartibda ko‘p faktorli autentifikatsiyadan o‘tkazish lozim. "
             ]
         },
         {
             "№": 109,
-            "Savol": "Elektron raqamli imzo kaliti sertifikatining amal qilish muddati va uzaytirilishi qanday?",
+            "Savol": "Elektron raqamli imzo kaliti sertifikatining amal qilish muddati va uning uzaytirilishi yuzasidan qanday cheklovlar belgilangan?",
             "Javob": [
-                "24 oydan oshmasligi, maksimal ikki marta uzaytirilishi mumkin.",
-                "12 oydan oshmasligi, maksimal ikki marta uzaytirilishi mumkin.",
-                "5 yildan oshmasligi, uzaytirilishi mumkin emas.",
-                "Faqat bir marta beriladi, muddati cheklanmagan."
+                "Elektron raqamli imzo kaliti sertifikatining amal qilish muddati elektron raqamli imzo ro‘yxatga olingan paytdan e'tiboran yigirma to‘rt oydan oshmasligi kerak. Bunda elektron raqamli imzo kaliti sertifikatining amal qilish muddati ikki martadan ko‘p bo‘lmagan muddatga uzaytirilishi mumkin.",
+                "Elektron raqamli imzo kaliti sertifikatining amal qilish muddati elektron raqamli imzo ro‘yxatga olingan paytdan e'tiboran o‘n ikki oydan oshmasligi kerak. Bunda elektron raqamli imzo kaliti sertifikatining amal qilish muddati ikki martadan ko‘p bo‘lmagan muddatga uzaytirilishi mumkin.",
+                "Elektron raqamli imzo kaliti sertifikatining amal qilish muddati elektron raqamli imzo ro‘yxatga olingan paytdan e'tiboran besh yildan oshmasligi kerak. Bunda elektron raqamli imzo kaliti sertifikatining amal qilish muddati uzaytirilishiga yo‘l qo‘yilmaydi.",
+                "Elektron raqamli imzo kaliti sertifikati faqat bir marta beriladi va uning amal qilish muddati cheklanmagan hisoblanadi."
             ]
         },
         {
             "№": 110,
-            "Savol": "Elektron pochtadagi zararli kodlarni tekshirish qaysi tizim yordamida amalga oshiriladi?",
+            "Savol": "Elektron pochtada zararli kodlarni tekshirish qaysi tizim yordamida amalga oshiriladi?",
             "Javob": [
                 "Sandbox tizimi yordamida.",
-                "Antivirus dasturi yordamida.",
+                "Antivirus dasturi yordamida",
                 "FIM (File Integrity Monitoring) tizimi yordamida.",
                 "SOAR (Security Orchestration, Automation and Response) tizimi yordamida."
             ]
         },
         {
             "№": 111,
-            "Savol": "Axborot xavfsizligi hodisasi nima?",
+            "Savol": "Axborot xavfsizligi hodisasi deganda nima tushuniladi? ",
             "Javob": [
-                "Axborot xavfsizligining yagona yoki bir qator kutilmagan voqealari, bu orqali axborotning oshkor bo‘lishi va xavfsizlikka tahdidlar ehtimoli.",
-                "Ob’ekt yoki subyektning identifikatorga mosligini tekshirish jarayoni.",
-                "Maxfiy kalitni axborotga qo‘shish (shifrlash) jarayoni.",
-                "Har bir xodim uchun alohida akkaunt va 2FA jarayoni."
+                "Axborot xavfsizligining yagona voqeasi yoki bir qator noxush yoxud kutilmagan voqealari bo‘lib, ushbu voqealar tufayli axborotning oshkor bo‘lishi va axborot xavfsizligiga tahdidlar ehtimoli. ",
+                "Obyekt yoki subyektni unga berilgan identifikatorga mosligini tekshirish va belgilar ketma-ketligidan iborat maxfiy kodini tekshirish orqali aslligini aniqlash jarayoni.",
+                "Maxsus algoritm asosida belgilardan tarkib topgan maxfiy kalitni axborotga qo‘shish orqali axborotni yopish (shifrlash) jarayoni.",
+                "Uchinchi shaxslarning har bir xodimi uchun alohida foydalanuvchi akkauntini yaratish va majburiy tartibda ko‘p faktorli autentifikatsiyadan o‘tkazish jarayoni. "
             ]
         },
         {
             "№": 112,
-            "Savol": "Bankda axborot xavfsizligi hodisalarini boshqarishning asosiy maqsadlari?",
+            "Savol": "Bankda axborot xavfsizligi hodisalarini boshqarishning asosiy maqsadlari nimalardan iborat?",
             "Javob": [
                 "Barcha javoblar to‘g‘ri.",
-                "Yo‘qotish va zararlarni minimalizatsiya qilish.",
-                "Tahdidlarni lokalizatsiya qilish va oqibatlarini bartaraf etish.",
-                "Zaifliklarni baholash va takrorlanish xavfini kamaytirish."
+                "Axborot xavfsizligi hodisalari natijasida Bankka yetkazilishi mumkin bo‘lgan yo‘qotish va zararlarni minimallashtirish.",
+                "Tahdidlarni lokalizatsiya qilish, oldini olish va ularning oqibatlarini bartaraf etish uchun hodisalarga tezkor va samarali javob berish.",
+                "Axborot xavfsizligi zaifliklarini baholash, hodisalarning takrorlanish xavfini kamaytirish. "
             ]
         },
         {
             "№": 113,
-            "Savol": "Axborot xavfsizligi hodisasini tahlil qilishda nima aniqlanishi kerak?",
+            "Savol": "Axborot xavfsizligi hodisasini tahlil qilish jarayonida nimalar aniqlanishi lozim? ",
             "Javob": [
                 "Barcha javoblar to‘g‘ri.",
-                "Tahdidlarning xususiyatlari va oxirgi davrda uchrash chastotasi, chora-tadbirlar va natijasi.",
-                "Hodisa sabab va manbalari, zaifliklar, oqibatlar va xatoliklar.",
-                "Hodisa sabab/oqibatlari, aybdorlar, yetkazilgan zarar va javob samaradorligi."
+                "Hodisa sodir bo‘lishiga sabab bo‘lgan tahdidlarning xususiyatlari va ularning so‘nggi davrda qay darajada uchrayotganligi, tahdidni bartaraf etish va tiklash bo‘yicha ko‘rilgan chora-tadbirlar va ularning natijasi.",
+                "Hodisa sabablari va tahdidlarni paydo bo‘lish manbalari, hodisa sodir bo‘lishida foydalanilgan zaifliklar, hodisa yuzaga kelishi yoki uning ko‘lami va oqibatlariga ta'sir etgan xatolar va kamchiliklar.",
+                "Hodisaning sabablari va/yoki oqibatlari uchun aybdor shaxslar, hodisa oqibatlarining xarakteri, yetkazilgan ziyon yoki zarar miqdori, insidentga javob qaytarish samaradorligining bahosi."
             ]
         },
         {
             "№": 114,
-            "Savol": "Axborot xavfsizligini boshqarish tizimiga to‘g‘ri tarifni tanlang.",
+            "Savol": "Axborot xavfsizligini boshqarish tizimiga to‘g‘ri tarif berilgan qatorni tanlang.",
             "Javob": [
-                "Biznes-risklarni baholashga asoslangan, xavfsizlikni shakllantirish, joriy etish, faoliyat yuritish, monitoring, tahlil, xizmat ko‘rsatish va takomillashtirishga qaratilgan umumiy boshqaruv tizimining qismi.",
-                "Kutilmagan voqealarni boshqarish.",
-                "Resurslardan foydalanishni tartibga solish.",
-                "Zarur ma’lumotlarga kirishni boshqarish."
+                "Biznes-risklarni baholash usullariga asoslangan, axborot xavfsizligini shakllantirish, joriy qilish, faoliyat yuritish, monitoring qilish, tahlil qilish, xizmat ko‘rsatish va takomillashtirishga qaratilgan umumiy boshqaruv tizimining bir qismi. ",
+                "Axborot xavfsizligining yagona voqeasi yoki bir qator noxush yoxud kutilmagan voqealarini, ushbu voqealar tufayli axborotning oshkor bo‘lishi va axborot xavfsizligiga tahdidlar ehtimolini boshqarish.",
+                "Axborot resurslari va axborot tizimlaridan foydalanishni tartibga solish. ",
+                "Uchinchi shaxslarga o‘z majburiyatlarini bajarishi uchun zarur bo‘ladigan ma'lumotlar va axborot aktivlariga kirishga ruxsat berishni boshqarish."
             ]
         },
         {
             "№": 115,
-            "Savol": "Axborot xavfsizligiga tahdidlarning asosiy manbalari:",
+            "Savol": "Quyidagilar axborot xavfsizligiga tahdidlarning asosiy manbalari hisoblanadi:",
             "Javob": [
-                "Ma’lumotlarni tutib olish, o‘g‘irlash, tizim arxitekturasini o‘zgartirish.",
+                "Ma'lumotlarni tutib olish, ma'lumotlarni o‘g‘irlash, tizim arxitekturasini o‘zgartirish.",
                 "Qattiq disklarni o‘g‘irlash, tarmoqqa ulanish, insayderlik.",
-                "Ma’lumotlarni o‘g‘irlash, adminlarni sotib olish, ish tartibini buzish.",
+                "Ma'lumotlarni o‘g‘irlash, tizim administratorlarini sotib olish, ish tartibini buzish.",
                 "Kompyuterlarni yangilash, dasturlarni litsenziyalash, parollarni mustahkamlash."
             ]
         },
-
         {
             "№": 116,
-            "Savol": "Axborot xavfsizligida zaiflik deganda nima tushuniladi?",
+            "Savol": "Ro‘yxatda sanab o‘tilganlar xavfsizlikka (tarmoqlar, tizimlar) tahdidlarning turlari hisoblanadi:",
             "Javob": [
-                "Axborot tizimi yoki aktivlarda mavjud bo‘lgan xatolik yoki kamchiliklar, ularni tahdidlar ekspluatatsiya qilishi mumkin.",
-                "Foydalanuvchi tomonidan qilinadigan noto‘g‘ri amal.",
-                "Tashqi kiberhujumlar natijasida yuzaga keladigan zarar.",
-                "Texnik uskuna eskirishi va ishlash tezligining pasayishi."
+                "Dasturiy, texnik, tashkiliy, texnologik.",
+                "Server, mijoz, sun'iy yo‘ldosh, yer usti.",
+                "Shaxsiy, korporativ, ijtimoiy, milliy.",
+                "Litsenziya muddatining tugashi, dastur foydalanuvchilarini ro‘yxatdan o‘tkazmasligi, texnik qo‘llab-quvvatlashning kechikishi."
             ]
         },
         {
             "№": 117,
-            "Savol": "Axborot xavfsizligida xavf nima?",
+            "Savol": "Axborot xavfsizligini ta'minlashning asosiy prinsiplariga quyidagilar kiradi:",
             "Javob": [
-                "Axborot aktivlariga zarar yetkazish yoki ularni oshkor qilish imkoniyatiga ega bo‘lgan har qanday holat yoki hodisa.",
-                "Foydalanuvchi tomonidan tizimga kiritilgan ma’lumotlar.",
-                "Axborot tizimlarining tezkor ishlash ko‘rsatkichi.",
-                "Serverning tarmoq bilan bog‘lanish tezligi."
+                "Xavfsizlik tizimining iqtisodiy samaradorligi.",
+                "Tizimni ko‘p platformali amalga oshirish.",
+                "Tizimning barcha bo‘g‘inlari himoyasini kuchaytirish.",
+                "Foydalanuvchilarning barcha ma'lumotlarini yagona serverda jamlash."
             ]
         },
         {
             "№": 118,
-            "Savol": "Kiberxavfsizlik tahdidlari qaysilar bo‘lishi mumkin?",
-            "Javob": [
-                "Viruslar, trojanlar, phishing, DDoS hujumlari.",
-                "Faqat tabiiy ofatlar va nosozliklar.",
-                "Faqat xodimlarning xatolari.",
-                "Faqat tarmoqqa ulanmagan kompyuterlar."
-            ]
+            "Savol": "Qanday himoya usuli ma'lumotlarni kalitsiz o‘qib bo‘lmaydigan qiladi?",
+            "Javob": ["Shifrlash. ", "Stenografiya.", "Xeshlash.", "Obfuskatsiya."]
         },
         {
             "№": 119,
-            "Savol": "Axborot xavfsizligini ta’minlashda autentifikatsiya nima uchun zarur?",
-            "Javob": [
-                "Foydalanuvchini tizimda aniqlash va uning kirish huquqlarini nazorat qilish uchun.",
-                "Ma’lumotlarni shifrlash uchun.",
-                "Tarmoq tezligini oshirish uchun.",
-                "Serverlarni zaxiralash uchun."
-            ]
+            "Savol": "Serverga masofadan xavfsiz ulanish uchun qanday shifrlash protokoli ishlatiladi?",
+            "Javob": ["SSH", "FTP", "Telnet", "HTTP"]
         },
         {
             "№": 120,
-            "Savol": "Axborot xavfsizligi bo‘yicha eng asosiy printsiplar qaysilar?",
+            "Savol": "Tarmoq xavfsizligini ta'minlashda nimalar qo‘llaniladi?",
             "Javob": [
-                "Maxfiylik, yaxlitlik va mavjudlik (Confidentiality, Integrity, Availability).",
-                "Tezkorlik, samaradorlik va arzonlik.",
-                "Foydalanuvchi qulayligi, interfeys soddaligi, dizayn estetikasi.",
-                "Shaxsiy ma’lumotlarni ommaviylash, tarqatish va ulashish."
+                "Firewall, IDS/IPS, VPN. ",
+                "Antivirus, SIEM, PAM.",
+                "Email Security,DLP.",
+                "Active Directory, SUBD, Zaiflik skaneri."
             ]
         }
     ]

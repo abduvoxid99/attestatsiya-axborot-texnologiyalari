@@ -18,6 +18,7 @@ const categoryNames: Record<string, string> = {
   Hammasi_aralash: "Hammasi",
   Barchasi_aralash: "Aralash",
   Axborot_texnologiyalar_departamenti: "AT",
+  Axborot_xavfsizligi_departamenti: "AX",
   Strategiya_barchaga: "Strategiya",
   Komplaens_barchaga: "Komplaens",
   Odob_axloq_barchaga: "Odob-Axloq",
@@ -157,7 +158,11 @@ export const QuizPage: React.FC<QuizPageProps> = ({ category, onBack }) => {
     const shuffledQuestions = generateQuestions();
     if (shuffledQuestions.length > 0) {
       initializeQuiz(shuffledQuestions);
-      setTotalMinutes(45);
+
+      // Calculate time based on number of questions
+      // Formula: total minutes = question count / 2
+      const calculatedMinutes = Math.ceil(shuffledQuestions.length / 1.5);
+      setTotalMinutes(calculatedMinutes);
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [category]);
